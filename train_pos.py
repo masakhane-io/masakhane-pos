@@ -35,6 +35,7 @@ from torch.utils.data import TensorDataset
 from torch.utils.data import Dataset, DataLoader
 from transformers import AutoModelForSequenceClassification, AutoModelForTokenClassification, \
     AutoConfig, AutoTokenizer, AutoModel
+from transformers import XLMRobertaConfig, XLMRobertaModel, XLMRobertaForTokenClassification, XLMRobertaTokenizer
 from transformers import AdamW, get_constant_schedule_with_warmup
 from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
 from torch import LongTensor
@@ -615,7 +616,11 @@ def main():
         torch.distributed.barrier()  # Make sure only the first process in distributed training will download model & vocab
 
     args.model_type = args.model_type.lower()
-    config_class, model_class, tokenizer_class = AutoConfig, AutoModelForTokenClassification, AutoTokenizer #MODEL_CLASSES[args.model_type]
+
+    if args.model_name_or_path == 'bonadossou/afrolm_active_learning':
+        config_class, model_class, tokenizer_class = XLMRobertaConfig, XLMRobertaForTokenClassification, XLMRobertaTokenizer
+    else:
+        config_class, model_class, tokenizer_class = AutoConfig, AutoModelForTokenClassification, AutoTokenizer #MODEL_CLASSES[args.model_type]
 
     config = config_class.from_pretrained(
         args.config_name if args.config_name else args.model_name_or_path,
