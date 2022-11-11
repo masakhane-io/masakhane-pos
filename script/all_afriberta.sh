@@ -1,6 +1,6 @@
-for LANG in bam bbj ewe ibo nya pcm sna swa xho yor
+for LANG in bam bbj ewe fon hau ibo kin lug luo nya pcm sna swa twi wol xho yor zul
 do
-	for j in 1
+	for j in 1 2 3 4 5
 	do
 		export MAX_LENGTH=200
 		export BERT_MODEL=castorini/afriberta_large

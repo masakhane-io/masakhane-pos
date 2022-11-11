@@ -1,6 +1,6 @@
-for LANG in yor
+for LANG in bam bbj ewe fon hau ibo kin lug luo nya pcm sna swa twi wol xho yor zul
 do
-	for j in 1 2 3 4 5 6 7
+	for j in 1 2 3 4 5
 	do
 		export MAX_LENGTH=200
 		export BERT_MODEL=bert-base-multilingual-cased

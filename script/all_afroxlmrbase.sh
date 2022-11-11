@@ -1,18 +1,18 @@
-for LANG in yor
+for LANG in bam bbj ewe fon hau ibo kin lug luo nya pcm sna swa twi wol xho yor zul
 do
-	for j in 1 2 3 4 5 6 7
+	for j in 1 2 3 4 5
 	do
 		export MAX_LENGTH=200
-		export BERT_MODEL=microsoft/mdeberta-v3-base
-		export OUTPUT_DIR=baseline_models/${LANG}_mdeberta
+		export BERT_MODEL=Davlan/afro-xlmr-base
+		export OUTPUT_DIR=baseline_models/${LANG}_afroxlmrbase
 		export TEXT_RESULT=test_result$j.txt
 		export TEXT_PREDICTION=test_predictions$j.txt
-		export BATCH_SIZE=32
+		export BATCH_SIZE=16
 		export NUM_EPOCHS=20
 		export SAVE_STEPS=10000
 		export SEED=$j
 
-		CUDA_VISIBLE_DEVICES=0 python3 ../train_pos.py --data_dir ../data/${LANG}/ \
+		CUDA_VISIBLE_DEVICES=2 python3 ../train_pos.py --data_dir ../data/${LANG}/ \
 		--model_type xlmroberta \
 		--model_name_or_path $BERT_MODEL \
 		--output_dir $OUTPUT_DIR \
