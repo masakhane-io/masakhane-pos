@@ -1,105 +1,3 @@
-Ñépp PRON
-tee VERB
-woon AUX
-nañu AUX
-ci ADP
-waxtuw NOUN
-ndékki NOUN
-li DET
-ci ADP
-talaata NOUN
-jii DET
-ca ADP
-otel NOUN
-bu PRON
-Rhino PROPN
-Resort PROPN
-, PUNCT
-nekk VERB
-fa ADV
-nga PRON
-xam VERB
-ne SCONJ
-foofu ADV
-la AUX
-ñu PRON
-war VERB
-a PART
-tàmbalee VERB
-seenug DET
-tàggatu NOUN
-ngir ADP
-waaj VERB
-seen DET
-dajeek NOUN
-Madacascar PROPN
-gaawu NOUN
-ak CCONJ
-Mali PROPN
-talaata NOUN
-ja PRON
-ca ADP
-topp VERB
-. PUNCT
-
-Daray ADV
-Ljunberg PROPN
-feeñu VERB
-fi ADV
-wala CCONJ
-feeñagul VERB
-ci ADP
-ndoorteem NOUN
-. PUNCT
-
-Lay NOUN
-wi DET
-, PUNCT
-ngir ADP
-nëbb VERB
-wax NOUN
-ji PRON
-am VERB
-ci ADP
-jéggi VERB
-dayoog NOUN
-njëgu NOUN
-roplaanu NOUN
-njiitu NOUN
-réew NOUN
-la AUX
-, PUNCT
-ci ADP
-jamono NOUN
-joo PRON
-xam VERB
-ne SCONJ
-jafe-jafey NOUN
-koom NOUN
-ak CCONJ
-wàllu NOUN
-wér-gu-yaram NOUN
-ak CCONJ
-askan NOUN
-dafa AUX
-lëmbe VERB
-réew NOUN
-mi DET
-. PUNCT
-
-Wone VERB
-ag DET
-tële NOUN
-ci ADP
-mettit NOUN
-yiy PRON
-dal VERB
-ci ADP
-kaw NOUN
-askan NOUN
-wi DET
-. PUNCT
-
 Ki PRON
 yore VERB
 wàllu NOUN
@@ -570,6 +468,7 @@ na AUX
 ci ADP
 yooyu PRON
 : PUNCT
+
 bépp DET
 jumtuwaay NOUN
 , PUNCT
@@ -608,7 +507,6 @@ ko PRON
 waaye CCONJ
 moom PRON
 lay AUX
-
 liggéeyal VERB
 ak CCONJ
 yu PRON
@@ -1327,6 +1225,7 @@ mëne VERB
 fu ADV
 ne VERB
 , PUNCT
+
 """" PUNCT
 """" PUNCT
 Cool PROPN
@@ -1361,7 +1260,6 @@ jëfandikoog NOUN
 baat NOUN
 yu PRON
 ci ADP
-
 mel VERB
 ni DET
 """" PUNCT
@@ -2145,6 +2043,7 @@ sañ-sañu NOUN
 nit NOUN
 ñi DET
 . PUNCT
+
 Li PRON
 ci ADP
 topp VERB
@@ -2156,7 +2055,6 @@ sàrti NOUN
 wote NOUN
 yiy PRON
 fal VERB
-
 ñi PRON
 fi ADV
 wote NOUN
@@ -2771,6 +2669,7 @@ ak CCONJ
 a PART
 folli VERB
 . PUNCT
+
 Gisin NOUN
 boobu NOUN
 sax ADV
@@ -2809,6 +2708,7 @@ doxal VERB
 réew NOUN
 mi DET
 ... PUNCT
+
 Usmaan PROPN
 Sónko PROPN
 , PUNCT
@@ -2820,7 +2720,6 @@ Mamadu PROPN
 Ja PROPN
 mooy AUX
 royukaayam NOUN
-
 ci ADP
 pólótig NOUN
 ba SCONJ
@@ -2841,6 +2740,7 @@ la AUX
 ko PRON
 tënk VERB
 : PUNCT
+
 lan PRON
 mooy AUX
 nguur NOUN
@@ -2864,6 +2764,7 @@ ngir ADP
 saw DET
 askan NOUN
 ... PUNCT
+
 Li PRON
 mënul VERB
 a PART
@@ -2903,8 +2804,8 @@ nag VERB
 ak ADP
 ñu PRON
 mën VERB
-
 ... PUNCT
+
 Lii PRON
 nekkul VERB
 rekk ADV
@@ -4023,6 +3924,7 @@ bérébi NOUN
 tàggatu NOUN
 yi DET
 : PUNCT
+
 yokk VERB
 liggéeykati NOUN
 kaaraange NOUN
@@ -4052,6 +3954,7 @@ woowu DET
 di AUX
 clandotage NOUN
 : PUNCT
+
 taxaw VERB
 ci ADP
 yégle NOUN
@@ -4079,8 +3982,8 @@ gaar VERB
 mbas NOUN
 mi DET
 : PUNCT
-xoolaat VERB
 
+xoolaat VERB
 tëralinu NOUN
 waxtuy NOUN
 njàng NOUN
@@ -4135,6 +4038,7 @@ mu PRON
 digg-dóomu VERB
 mi DET
 : PUNCT
+
 boole VERB
 njàngum NOUN
 teewaay NOUN
@@ -4143,6 +4047,7 @@ njàngum NOUN
 soree NOUN
 mi DET
 : PUNCT
+
 gënal NOUN
 njàngale NOUN
 mu PRON
@@ -4161,7 +4066,6 @@ njàngum NOUN
 jiite VERB
 ( PUNCT
 TD PROPN
-
 ) PUNCT
 meek CCONJ
 jëfe NOUN
@@ -4171,6 +4075,7 @@ TP NUM
 ciy ADP
 teewaay NOUN
 : PUNCT
+
 ful VERB
 mboolooy NOUN
 njàngum NOUN
@@ -4198,6 +4103,7 @@ yeek DET
 i PART
 nit NOUN
 , PUNCT
+
 rawatina ADV
 ñi PRON
 seen DET
@@ -4525,6 +4431,7 @@ F PROPN
 ci ADP
 Seefaa PROPN
 , PUNCT
+
 te CCONJ
 su SCONJ
 fekkee VERB
@@ -4547,7 +4454,6 @@ ak CCONJ
 juróom-ñetti NUM
 téeméer NUM
 ( PUNCT
-
 600.000 NUM
 F PROPN
 et CCONJ
@@ -4747,47 +4653,5 @@ def VERB
 li PRON
 mu PRON
 mën VERB
-. PUNCT
-
-Xanaa CCONJ
-leeral VERB
-ne SCONJ
-lëlu NOUN
-waxtaanu NOUN
-Sutsas PROPN
-bi DET
-ci ADP
-saytug NOUN
-Unsas PROPN
-la AUX
-ame VERB
-, PUNCT
-lañu AUX
-dawal VERB
-ci ADP
-yéglekaay NOUN
-bi DET
-, PUNCT
-L'As PROPN
-. PUNCT
-
-Àllarba NOUN
-ci ADP
-joŋante NOUN
-dem VERB
-bi DET
-, PUNCT
-Lionel PROPN
-Messi PROPN
-génne VERB
-na AUX
-àndandoom NOUN
-yi DET
-ci ADP
-guuta NOUN
-gi PRON
-leen PRON
-Reds PROPN
-tegaloon VERB
 . PUNCT
 

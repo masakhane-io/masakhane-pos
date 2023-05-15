@@ -14781,6 +14781,7 @@ Malam PROPN
 Ibrahim PROPN
 Shekarau PROPN
 , PUNCT
+
 ya AUX
 shawarci VERB
 mukarraban NOUN
@@ -14820,7 +14821,6 @@ dau VERB
 nauyin NOUN
 fitar VERB
 da PART
-
 su PRON
 zuwa ADP
 kasashen NOUN
@@ -17302,6 +17302,7 @@ karamar ADJ
 hukumar NOUN
 Dutse PROPN
 , PUNCT
+
 inda PART
 nan ADP
 take ADP
@@ -17311,7 +17312,6 @@ da PART
 cewa VERB
 yana AUX
 daga ADP
-
 daga X
 cikin ADP
 wandanda X

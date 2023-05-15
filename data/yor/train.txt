@@ -1,311 +1,3 @@
-Ìròyìn NOUN
-tó SCONJ
-ṣeni VERB
-láàánú NOUN
-tó SCONJ
-yọ VERB
-omi NOUN
-lójú ADP
-àwọn PRON
-èèyàn NOUN
-pòròpòrò NOUN
-nìròyìn NOUN
-ikú NOUN
-Olóògbé NOUN
-Túndé PROPN
-Thomas PROPN
-kódà VERB
-bí ADV
-ènìyàn NOUN
-gbé VERB
-odidi NOUN
-ahun NOUN
-mìn VERB
-, PUNCT
-ó PRON
-di VERB
-dandan NOUN
-kó PRON
-sunkún VERB
-bó ADV
-bá VERB
-gbọ́ VERB
-nǹkan NOUN
-tó SCONJ
-ṣẹlẹ̀ VERB
-sọ́mọkùnrin NOUN
-náà DET
-, PUNCT
-kò AUX
-sẹ́ni VERB
-tó SCONJ
-mọ VERB
-
-òkòlò NOUN
-ọkùnrin NOUN
-yìí DET
-l ADP
-' PUNCT
-Ọ́yọ̀ọ́ PROPN
-tẹ́lẹ̀ ADV
-, PUNCT
-yàtọ̀ ADV
-sí ADP
-àwọn PRON
-ọ̀rẹ́ NOUN
-àti CCONJ
-ojúlùmọ̀ NOUN
-rẹ̀ DET
-, PUNCT
-àfìgbà NOUN
-tí SCONJ
-ìyàwó NOUN
-ẹ̀ DET
-; PUNCT
-Moyọ̀ PROPN
-Thomas PROPN
-kó VERB
-o PRON
-síta VERB
-bí ADV
-ọmọ NOUN
-ọjọ́ NOUN
-- PUNCT
-mẹ́jọ NUM
-
-Ṣé VERB
-wọ́n PRON
-ní VERB
-; PUNCT
-kò AUX
-sí VERB
-nǹkan NOUN
-tó SCONJ
-ba VERB
-àgbà NOUN
-nínú ADP
-jẹ́ VERB
-bíkòṣe NOUN
-ifá NOUN
-tí SCONJ
-kò AUX
-létùtù VERB
-
-Tunde PROPN
-Thomas PROPN
-táwọn SCONJ
-ọ̀rẹ́ NOUN
-ẹ̀ DET
-máa AUX
-ń AUX
-pè VERB
-ní ADP
-Túndé PROPN
-Gentle PROPN
-torípé ADP
-wọ́n PRON
-ní VERB
-onínú NOUN
-tútù NOUN
-abìwàpẹ̀lẹ́ NOUN
-lọmọkùnrin NOUN
-náà DET
-, PUNCT
-ó PRON
-fẹ́ VERB
-Moyọ̀ PROPN
-Òjó PROPN
-níṣu NOUN
-lọ́kà NOUN
-gẹ́gẹ́ NOUN
-bí ADV
-ìyàwó NOUN
-ọ̀sìngín NOUN
-, PUNCT
-òṣìṣẹ́ NOUN
-báǹkì NOUN
-First PROPN
-City PROPN
-Monument NOUN
-Bank NOUN
-FCMB PROPN
-, PUNCT
-báǹkì NOUN
-Ṣùbòmí PROPN
-Balógun PROPN
-ni VERB
-Moyọ̀ PROPN
-
-Thomas PROPN
-, PUNCT
-ìròyìn NOUN
-burúkú NOUN
-tó SCONJ
-fún VERB
-ọkọ NOUN
-rẹ̀ DET
-lọ́dún NOUN
-2017 NUM
-ló PRON
-sọ VERB
-ọmọkùnrin NOUN
-náà DET
-di VERB
-ẹni NOUN
-tó SCONJ
-ń AUX
-ronú VERB
-rìn ADV
-táwọn SCONJ
-ọ̀rẹ́ NOUN
-ẹ̀ DET
-sì ADV
-láwọn PRON
-ń AUX
-pàrọwà VERB
-fún ADP
-un PRON
-pé SCONJ
-kó PRON
-ṣarajọ VERB
-torípé ADP
-kìí AUX
-dé VERB
-báni NOUN
-ká PRON
-yẹrí VERB
-, PUNCT
-ṣùgbọ́n CCONJ
-títí ADV
-tẹ́lẹ́mì NOUN
-í PRON
-fi VERB
-gbà VERB
-á PRON
-, PUNCT
-ọmọkùnrin NOUN
-
-náà DET
-kò AUX
-rí VERB
-ara NOUN
-ẹ̀ DET
-ṣàjọ VERB
-
-Bó PRON
-tilẹ̀ ADV
-jẹ́ VERB
-pé SCONJ
-, PUNCT
-ó PRON
-dọ́rẹ̀ẹ́ VERB
-pẹ̀lú ADP
-ọmọbìnrin NOUN
-agbẹjọ́rò NOUN
-kan NUM
-tó SCONJ
-sì ADV
-kéde VERB
-fáwọn PRON
-ọ̀rẹ́ NOUN
-ẹ̀ DET
-pé SCONJ
-wọ́n PRON
-máa AUX
-lọọ VERB
-bá VERB
-òun PRON
-dọ̀bálẹ̀ VERB
-nílé VERB
-àwọn PRON
-ọmọbìnrin NOUN
-náà DET
-lọ́jọ́ NOUN
-kejì NUM
-Kérésì PROPN
-ọdún NOUN
-tó SCONJ
-kọjá VERB
-, PUNCT
-torípé ADP
-ìyàwó NOUN
-àfẹ́sọ́nà NOUN
-rẹ̀ DET
-tuntun ADJ
-náà DET
-ti AUX
-wà VERB
-
-nínú ADP
-oyún NOUN
-, PUNCT
-ṣùgbọ́n CCONJ
-ikú NOUN
-kò AUX
-jẹ́ VERB
-kó PRON
-dọ̀bálẹ̀ VERB
-, PUNCT
-ṣe VERB
-ló PRON
-kúkú ADV
-kùn VERB
-ún PRON
-lóorun NOUN
-ayérayé NOUN
-lọ́jọ́ NOUN
-kẹẹ̀ẹ́dógún NUM
-, PUNCT
-oṣù NOUN
-kejìlá NUM
-, PUNCT
-ọdún NOUN
-tó SCONJ
-kọjá VERB
-
-Lẹ́yìn ADV
-tí SCONJ
-wọ́n PRON
-bò VERB
-ó PRON
-mọ́lẹ̀ VERB
-sínú ADP
-yàrá NOUN
-ìkẹyìn NOUN
-l' PART
-Ọ̀gbọnjọ́ NOUN
-, PUNCT
-oṣù NOUN
-kejìlá NUM
-làwọn PRON
-ọ̀rẹ́ NOUN
-ẹ̀ DET
-àtàwọn PRON
-tí SCONJ
-ọ̀rọ̀ NOUN
-náà DET
-dùn VERB
-kọ VERB
-ìwé NOUN
-ẹ̀hónú NOUN
-ránṣẹ́ VERB
-sí ADP
-báǹkì NOUN
-ìjọba NOUN
-àpapọ̀ NOUN
-ilẹ̀ẹwa NOUN
-CBN PROPN
-àti CCONJ
-FCMB PROPN
-pé SCONJ
-kí ADJ
-wọ́n PRON
-yọ VERB
-adarí NOUN
-iléèfowópamọ́ NOUN
-FCMB PROPN
-; PUNCT
-
 Ọ̀gbẹ́ni NOUN
 Nuhu PROPN
 Adam PROPN
@@ -432,6 +124,7 @@ ni VERB
 Moyọ̀ PROPN
 wà VERB
 , PUNCT
+
 ṣùgbọ́n CCONJ
 kò AUX
 sẹ́ni VERB
@@ -442,7 +135,6 @@ wọn DET
 títí ADV
 tí SCONJ
 àlàbọrùn NOUN
-
 fi VERB
 di VERB
 ẹ̀wù NOUN
@@ -488,6 +180,7 @@ pé SCONJ
 mẹ́jọ NUM
 ni VERB
 , PUNCT
+
 táwọn SCONJ
 ọmọ NOUN
 méjèèjì NUM
@@ -495,7 +188,6 @@ sì ADV
 ń AUX
 pè VERB
 é PRON
-
 ní ADP
 Dádì NOUN
 , PUNCT
@@ -570,6 +262,7 @@ lórí NOUN
 torí NOUN
 náà DET
 , PUNCT
+
 kò AUX
 ṣàjèjì VERB
 nígbà NOUN
@@ -583,7 +276,6 @@ àwọn PRON
 tún ADV
 fẹ́ẹ́ VERB
 lọọ VERB
-
 ṣe VERB
 olidé NOUN
 l'Ámẹ́ríkà PROPN
@@ -634,8 +326,8 @@ wá VERB
 wọlé VERB
 sùkúù NOUN
 , PUNCT
-lọmọbìnrin NOUN
 
+lọmọbìnrin NOUN
 yìí DET
 bá VERB
 ju VERB
@@ -654,6 +346,7 @@ ní VERB
 lọ́wọ́ NOUN
 òun PRON
 , PUNCT
+
 ṣùgbọ́n CCONJ
 àwọn PRON
 ọmọ NOUN
@@ -711,6 +404,7 @@ òun PRON
 ní ADP
 Nàíjíríà PROPN
 , PUNCT
+
 torí ADP
 náà DET
 kí ADJ
@@ -725,7 +419,6 @@ rí VERB
 wọ VERB
 ìlú NOUN
 Amẹ́ríkà PROPN
-
 wá VERB
 
 Ohun NOUN
@@ -772,12 +465,12 @@ ìfẹ́ NOUN
 bọ̀ ADV
 lọ́wọ́ NOUN
 , PUNCT
+
 àṣé PRON
 ṣeni VERB
 ọmọbìnrin NOUN
 náà DET
 àti CCONJ
-
 ọ̀gá NOUN
 rẹ̀ DET
 ti AUX
@@ -801,6 +494,7 @@ ìyàwó NOUN
 ọ̀hún DET
 mọ̀ VERB
 , PUNCT
+
 káwọn PRON
 náà DET
 máa AUX
@@ -887,6 +581,7 @@ tọ́rọ̀ NOUN
 náà DET
 kàn VERB
 pé SCONJ
+
 kí ADJ
 wọ́n PRON
 yọ VERB
@@ -907,7 +602,6 @@ ló PRON
 ń AUX
 darí VERB
 ìgbéyàwó NOUN
-
 àwọn PRON
 ọmọ NOUN
 abẹ́ NOUN
@@ -954,8 +648,8 @@ náà DET
 di VERB
 àwàdà NOUN
 , PUNCT
-kódà NOUN
 
+kódà NOUN
 wọ́n PRON
 ṣe VERB
 kìlọ̀kìlọ̀ NOUN
@@ -992,6 +686,7 @@ ló PRON
 dáàsẹ́ VERB
 wọn DET
 , PUNCT
+
 ó PRON
 jọ VERB
 bí ADV
@@ -1003,7 +698,6 @@ ni VERB
 wọ́n PRON
 rò VERB
 papọ̀ VERB
-
 tí SCONJ
 wọ́n PRON
 fi VERB
@@ -1018,6 +712,7 @@ sinmi VERB
 sílé VERB
 ná VERB
 , PUNCT
+
 dìgbà NOUN
 tí SCONJ
 ìgbìmọ̀ NOUN
@@ -1053,6 +748,7 @@ kàn ADV
 sọ VERB
 pé SCONJ
 , PUNCT
+
 kò AUX
 sẹ́ni VERB
 tó SCONJ
@@ -1077,9 +773,9 @@ sí ADP
 ọ̀rọ̀ NOUN
 ẹnu NOUN
 Moyọ̀ NOUN
-
 nìkan ADJ
 , PUNCT
+
 Túndé PROPN
 dágbére VERB
 fáyé NOUN
@@ -1405,8 +1101,8 @@ tóó VERB
 dé VERB
 ìsọ̀ NOUN
 , PUNCT
-ọjọ́ NOUN
 
+ọjọ́ NOUN
 ti AUX
 lọ VERB
 , PUNCT
@@ -1433,6 +1129,7 @@ sí ADP
 í PRON
 palẹ̀mọ́ VERB
 , PUNCT
+
 ṣùgbọ́n CCONJ
 ìrètí NOUN
 wà VERB
@@ -1504,6 +1201,7 @@ Kareem PROPN
 Àyìndé PROPN
 Olómidé PROPN
 , PUNCT
+
 tọ́pọ̀ SCONJ
 èèyàn NOUN
 mọ̀ VERB
@@ -1521,7 +1219,6 @@ òjíṣẹ́ NOUN
 Ọlọ́run NOUN
 kí ADJ
 wọ́n PRON
-
 kéde VERB
 ààwẹ̀ NOUN
 àti CCONJ
@@ -1571,9 +1268,9 @@ àwọn PRON
 oníbáárà NOUN
 wọn DET
 , PUNCT
+
 ó PRON
 ní VERB
-
 èyí ADJ
 yóò AUX
 túbọ̀ VERB
@@ -1691,12 +1388,12 @@ fún ADP
 ajé NOUN
 wa DET
 , PUNCT
+
 nítorí ADV
 àwọn PRON
 mẹ̀kúnnù NOUN
 tí SCONJ
 iyà NOUN
-
 ńjẹ VERB
 púpọ̀ ADV
 
@@ -1823,10 +1520,10 @@ àyẹ̀wò NOUN
 nípa ADP
 rẹ̀ PRON
 , PUNCT
+
 kó PRON
 tóó VERB
 di VERB
-
 pé SCONJ
 wọ́n PRON
 ká VERB
@@ -1864,6 +1561,7 @@ rí VERB
 nǹkan NOUN
 sọ VERB
 , PUNCT
+
 n PRON
 làwọn PRON
 yẹn VERB
@@ -1877,7 +1575,6 @@ wọn DET
 ní ADP
 Ọdẹ́dá PROPN
 , PUNCT
-
 l'Ábẹ́òkúta PROPN
 
 Ìgbà NOUN
@@ -2171,8 +1868,8 @@ Ààrẹ NOUN
 lọ́dún NOUN
 2023 NUM
 , PUNCT
-nítorí ADV
 
+nítorí ADV
 iṣẹ́ NOUN
 takuntakun NOUN
 tó SCONJ
@@ -2279,6 +1976,7 @@ Odò PROPN
 David PROPN
 Fámúyíwá PROPN
 , PUNCT
+
 ti AUX
 mú VERB
 u PRON
@@ -2304,7 +2002,6 @@ àwọn PRON
 ọjà NOUN
 tuntun ADJ
 tí SCONJ
-
 dìfẹ́lọ́pà NOUN
 fẹ́ẹ́ VERB
 kọ́ VERB
@@ -2847,6 +2544,7 @@ tí SCONJ
 kò AUX
 ṣiṣẹ́ VERB
 , PUNCT
+
 bẹ́ẹ̀ NOUN
 owó NOUN
 bíntí NOUN
@@ -2854,7 +2552,6 @@ ni VERB
 wọ́n PRON
 ń AUX
 fún VERB
-
 àwọn PRON
 òṣìṣẹ́ NOUN
 wọn DET
@@ -3250,6 +2947,7 @@ wọn PRON
 jẹ́ VERB
 ogún NUM
 , PUNCT
+
 àti CCONJ
 obìnrin NOUN
 tíye SCONJ
@@ -3257,7 +2955,6 @@ wọ́n PRON
 jẹ́ VERB
 mẹ́wàá NUM
 ni VERB
-
 wọ́n PRON
 farapa VERB
 nínú ADP
@@ -3509,9 +3206,9 @@ lọ VERB
 sí ADP
 Amẹ́ríkà PROPN
 , PUNCT
+
 ṣùgbọ́n CCONJ
 èyí ADJ
-
 kò AUX
 wáyé VERB
 nítorí ADP
@@ -3724,6 +3421,7 @@ Kétu PROPN
 l'Ékòó PROPN
 sọ̀rọ̀ NOUN
 , PUNCT
+
 láti ADP
 mọ VERB
 ìgbáradì NOUN
@@ -3742,9 +3440,9 @@ tí SCONJ
 àrùn NOUN
 náà DET
 mú VERB
-
 wá PRON
 , PUNCT
+
 pàápàá ADV
 jùlọ VERB
 ohun NOUN
@@ -3865,6 +3563,7 @@ àlààfo NOUN
 yẹn DET
 kúrò VERB
 , PUNCT
+
 ìpele NOUN
 kẹta NUM
 kò AUX
@@ -3873,7 +3572,6 @@ mọ VERB
 nǹkan NOUN
 tí SCONJ
 wọn PRON
-
 ń AUX
 pè VERB
 níléèwé NOUN
@@ -5587,10 +5285,10 @@ gba VERB
 àwọ́ọ̀dù NOUN
 náà DET
 , PUNCT
+
 ṣùgbọ́n CCONJ
 àrùn NOUN
 Kòrónà PROPN
-
 ẹlẹ́ẹ̀kejì NUM
 tó SCONJ
 ń AUX
@@ -6024,13 +5722,13 @@ òṣèlù NOUN
 2023 NUM
 rara ADV
 , PUNCT
+
 ó PRON
 ní VERB
 ohun NOUN
 tó SCONJ
 ṣe VERB
 kòkò NOUN
-
 lásìkò NOUN
 yìí DET
 ni VERB
@@ -6098,6 +5796,7 @@ Buhari PROPN
 lọ́dún NOUN
 2023 NUM
 , PUNCT
+
 tí SCONJ
 àwọn PRON
 ará NOUN
@@ -6110,7 +5809,6 @@ Yorùbá PROPN
 àtilẹ̀ NOUN
 Íbò PROPN
 náà DET
-
 ń AUX
 fà VERB
 á PRON
@@ -6126,6 +5824,7 @@ náà DET
 tọ́ VERB
 sí VERB
 , PUNCT
+
 sẹ́nétọ̀ NOUN
 náà DET
 ní VERB
@@ -6344,6 +6043,7 @@ àwọn PRON
 èèyàn NOUN
 náà DET
 , PUNCT
+
 láti ADP
 mọ VERB
 bí ADV
@@ -6351,7 +6051,6 @@ bí ADV
 wọn DET
 , PUNCT
 tàbí CCONJ
-
 dúkìá NOUN
 wọn PRON
 ṣe VERB
@@ -6430,6 +6129,7 @@ ràn VERB
 wọ́n PRON
 lọ́wọ́ NOUN
 , PUNCT
+
 ohun NOUN
 táa SCONJ
 sì ADV
@@ -6447,7 +6147,6 @@ tí SCONJ
 àwọn PRON
 èèyàn NOUN
 ti AUX
-
 pàdánù VERB
 dúkìá NOUN
 tàbí CCONJ
@@ -6462,6 +6161,7 @@ ti AUX
 ṣèjàm̀bá VERB
 fún ADP
 , PUNCT
+
 irú NOUN
 àwọn PRON
 èèyàn NOUN
@@ -6524,8 +6224,8 @@ à PRON
 le ADV
 kárí VERB
 , PUNCT
-a PRON
 
+a PRON
 máa AUX
 lọ VERB
 sọ́dọ̀ NOUN
@@ -6586,6 +6286,7 @@ kinní NOUN
 náà DET
 kóbá VERB
 , PUNCT
+
 ṣùgbọ́n CCONJ
 a PRON
 níláti VERB
@@ -6594,7 +6295,6 @@ àwọn PRON
 tí SCONJ
 kinní NOUN
 ọ̀hún DET
-
 kọlù VERB
 gan ADV
 an PART
@@ -6644,6 +6344,7 @@ náà DET
 kàn VERB
 lọ́wọ́ NOUN
 , PUNCT
+
 bẹ́ẹ̀ NOUN
 ló PRON
 sì ADV
@@ -6655,7 +6356,6 @@ tí SCONJ
 ń AUX
 ṣèpàdé VERB
 pẹ̀lú ADP
-
 àwọn PRON
 iléeṣẹ́ NOUN
 ńlá ADJ
@@ -6731,9 +6431,9 @@ pè VERB
 ní ADP
 flutterwave PROPN
 , PUNCT
+
 iléeṣẹ́ NOUN
 yìí DET
-
 ló PRON
 bá VERB
 àwọn PRON
@@ -6760,6 +6460,7 @@ fún ADP
 ìwóde NOUN
 náà DET
 , PUNCT
+
 iléeṣẹ́ NOUN
 yìí DET
 ní ADP
@@ -7264,6 +6965,7 @@ àwọn PRON
 aláálẹ̀ NOUN
 nínú ADP
 , PUNCT
+
 pàápàá ADV
 nítorí ADP
 ìwà NOUN
@@ -7281,7 +6983,6 @@ wọn PRON
 yawọ́ VERB
 ààfin NOUN
 Ọba NOUN
-
 Èkó PROPN
 tí SCONJ
 wọ́n PRON
@@ -7467,6 +7168,7 @@ sáwọn PRON
 aláálẹ̀ NOUN
 nínú ADP
 , PUNCT
+
 kí ADJ
 ìbínú NOUN
 wọn DET
@@ -7484,7 +7186,6 @@ àwọn PRON
 èèyàn NOUN
 náà DET
 hù VERB
-
 lásìkò NOUN
 náà DET
 
@@ -7579,6 +7280,7 @@ ìwé NOUN
 náà DET
 síta PRON
 , PUNCT
+
 nítorí ADV
 àwọn PRON
 nǹkan NOUN
@@ -7592,7 +7294,6 @@ àwọn PRON
 ilé NOUN
 ìṣẹ̀m̀báyé NOUN
 náà DET
-
 nìyẹn ADJ
 
 Ṣùgbọ́n CCONJ
@@ -7856,6 +7557,7 @@ wà VERB
 nílẹ̀ NOUN
 Amẹ́ríkà PROPN
 , PUNCT
+
 ó PRON
 sì ADV
 ní VERB
@@ -7872,7 +7574,6 @@ náà DET
 torí ADP
 àwọn PRON
 àwòrán NOUN
-
 òun PRON
 tó SCONJ
 gbé VERB
@@ -7985,6 +7686,7 @@ àwọn PRON
 obìnrin NOUN
 rárá ADV
 , PUNCT
+
 bó PRON
 tiẹ̀ ADV
 jẹ́ VERB
@@ -7997,7 +7699,6 @@ wọ́n PRON
 ti AUX
 bímọ VERB
 fún ADP
-
 un PRON
 
 A PRON
@@ -8105,11 +7806,11 @@ àti CCONJ
 àwọn PRON
 aráàlú NOUN
 , PUNCT
+
 bẹ́ẹ̀ NOUN
 ni VERB
 wọ́n PRON
 sì ADV
-
 tún ADV
 bá VERB
 wa PRON
@@ -8249,8 +7950,8 @@ ni VERB
 bàbá NOUN
 Ọbásanjọ́ PROPN
 , PUNCT
-ni VERB
 
+ni VERB
 wọ́n PRON
 ṣe VERB
 pe SCONJ
@@ -8366,6 +8067,7 @@ nísàlẹ̀ NOUN
 níbí ADV
 lọ VERB
 , PUNCT
+
 ṣùgbọ́n CCONJ
 nítorí ADP
 ọ̀rọ̀ NOUN
@@ -8375,7 +8077,6 @@ ti AUX
 ń AUX
 jà VERB
 wa PRON
-
 kulẹ̀ ADV
 la PRON
 ṣe VERB
@@ -8386,6 +8087,7 @@ sí ADP
 i PRON
 báyìí ADV
 , PUNCT
+
 òhun NOUN
 ló PRON
 fà VERB
@@ -8893,6 +8595,7 @@ jẹ́ VERB
 ẹ̀ẹ̀kan NOUN
 lọ́sẹ̀ NOUN
 , PUNCT
+
 inú NOUN
 wa DET
 máa AUX
@@ -8901,7 +8604,6 @@ bí ADV
 èyí ADJ
 bá VERB
 le ADV
-
 ṣẹlẹ̀ VERB
 
 Ohun NOUN
@@ -9337,9 +9039,9 @@ máa AUX
 ń AUX
 dà VERB
 , PUNCT
+
 ó PRON
 sì ADV
-
 máa AUX
 ń AUX
 pọ̀ VERB
@@ -9792,11 +9494,11 @@ í PRON
 bọ̀ VERB
 o PART
 , PUNCT
+
 ilé NOUN
 ọmọ NOUN
 làà PRON
 ń AUX
-
 fi VERB
 sí VERB
 
@@ -10072,6 +9774,7 @@ ń AUX
 sí ADP
 wọn PRON
 , PUNCT
+
 àwọn PRON
 nǹkan NOUN
 tí SCONJ
@@ -10087,7 +9790,6 @@ le ADV
 sọ VERB
 pé SCONJ
 òògùn NOUN
-
 ìfètòsọ́mọbíbí NOUN
 máa AUX
 ń AUX
@@ -10288,11 +9990,11 @@ fún ADP
 ọ̀pọ̀lọpọ̀ NOUN
 èrú NOUN
 , PUNCT
+
 kì AUX
 í AUX
 ṣe VERB
 ohun NOUN
-
 téèyàn SCONJ
 le AUX
 pè VERB
@@ -10561,8 +10263,8 @@ fún ADP
 wa PRON
 pé SCONJ
 , PUNCT
-láìpẹ́ NOUN
 
+láìpẹ́ NOUN
 yìí DET
 ni VERB
 Ààrẹ NOUN
@@ -10630,9 +10332,9 @@ kan NUM
 kò AUX
 dùn VERB
 , PUNCT
+
 bí ADV
 ọ̀rọ̀ NOUN
-
 òṣèlú NOUN
 ṣe VERB
 rí VERB
@@ -11006,9 +10708,9 @@ fún ADP
 ọkùnrin NOUN
 náà DET
 , PUNCT
+
 nítorí ADV
 kó PRON
-
 ba VERB
 à PRON
 le AUX
@@ -11367,6 +11069,7 @@ ní VERB
 bọ́ VERB
 si VERB
 , PUNCT
+
 kódà NOUN
 ewu NOUN
 ńlá ADJ
@@ -11382,7 +11085,6 @@ kó PRON
 ṣọ́ra VERB
 , PUNCT
 kó PRON
-
 sì ADV
 gbàdúrà VERB
 gidigidi ADV
@@ -11414,6 +11116,7 @@ lulẹ̀ NOUN
 káàkiri ADV
 àgbáyé NOUN
 , PUNCT
+
 ẹ PRON
 jẹ́ VERB
 ká PRON
@@ -11436,7 +11139,6 @@ sórí ADP
 ilé NOUN
 nígbooro NOUN
 Èkó PROPN
-
 yìí DET
 
 Ipò NOUN
@@ -11577,10 +11279,10 @@ gbádùn VERB
 rẹ̀ DET
 nípò NOUN
 , PUNCT
+
 kóun PRON
 náà DET
 gbádùn VERB
-
 orílẹ̀-èdè NOUN
 yìí DET
 ni VERB
@@ -11840,8 +11542,8 @@ fún ADP
 ìlù NOUN
 mi DET
 , PUNCT
-ní VERB
 
+ní VERB
 nǹkan NOUN
 bíi ADV
 ogójì NUM
@@ -11895,6 +11597,7 @@ kó VERB
 ìlù NOUN
 jó DET
 , PUNCT
+
 tó SCONJ
 ń AUX
 fi VERB
@@ -11909,7 +11612,6 @@ sọ̀rọ̀ VERB
 láì NOUN
 sí ADP
 irinṣẹ́ NOUN
-
 òyìnbó NOUN
 níbẹ̀ ADV
 
@@ -12032,6 +11734,7 @@ ni VERB
 African PROPN
 Tunes NOUN
 , PUNCT
+
 àwa PRON
 táa SCONJ
 jọ VERB
@@ -12040,7 +11743,6 @@ nínú ADP
 ẹgbẹ́ NOUN
 náá DET
 ni VERB
-
 Fèyíṣará PROPN
 , PUNCT
 àbúrò NOUN
@@ -12120,6 +11822,7 @@ Muṣin PROPN
 nígbà NOUN
 yẹn DET
 , PUNCT
+
 Ọbaníkòró PROPN
 ni VERB
 wọ́n PRON
@@ -12143,11 +11846,11 @@ ń AUX
 dé VERB
 sí ADP
 , PUNCT
+
 táa SCONJ
 máa AUX
 jíròòrò VERB
 lórí ADP
-
 bí ADV
 a PRON
 ṣe VERB
@@ -12274,6 +11977,7 @@ ta PRON
 lẹgbẹ́ NOUN
 wọn DET
 , PUNCT
+
 àwọn PRON
 wo ADJ
 ni VERB
@@ -12282,7 +11986,6 @@ jọ VERB
 bẹ̀rẹ̀ VERB
 iṣẹ́ NOUN
 ìlù NOUN
-
 ṣùgbọ́n CCONJ
 wọn PRON
 kò AUX
@@ -12491,6 +12194,7 @@ lé VERB
 wa PRON
 lọ́wọ́ ADV
 , PUNCT
+
 torí ADP
 wọn PRON
 ò AUX
@@ -12498,7 +12202,6 @@ gbé VERB
 ìwé NOUN
 dání VERB
 tí SCONJ
-
 wọń PRON
 fi VERB
 ń AUX
@@ -12568,6 +12271,7 @@ obìnrin NOUN
 àti CCONJ
 ọkùnrin NOUN
 , PUNCT
+
 a PRON
 bá VERB
 àwọn PRON
@@ -12588,10 +12292,10 @@ wò VERB
 nígbà NOUN
 yẹn DET
 , PUNCT
+
 ṣùgbọ́n CCONJ
 nígbà NOUN
 tí SCONJ
-
 wọn PRON
 wọlé VERB
 ọkọ NOUN
@@ -12621,7 +12325,6 @@ nilò VERB
 Ifá PROPN
 , PUNCT
 ṣùgbọ́n CCONJ
-. PUNCT
 . PUNCT
 
 Àyàngalú NOUN
@@ -12922,6 +12625,7 @@ wà VERB
 níìpínlẹ̀ NOUN
 Èkó PROPN
 , PUNCT
+
 ìjọba NOUN
 ti AUX
 bẹ̀rẹ̀ VERB
@@ -12938,6 +12642,7 @@ sùn VERB
 sínú ADP
 ọjà NOUN
 , PUNCT
+
 nítorí ADV
 aago NOUN
 mẹ́fà NUM
@@ -12947,7 +12652,6 @@ oníṣòwò NOUN
 láǹfààní NOUN
 àti CCONJ
 ṣe VERB
-
 kárà NOUN
 - PUNCT
 kátà NOUN
@@ -12979,6 +12683,7 @@ lọ́ba NOUN
 níìpínlẹ̀ NOUN
 Èkó NOUN
 , PUNCT
+
 ló PRON
 sọ̀rọ̀ VERB
 yìí DET
@@ -12996,7 +12701,6 @@ láàrin ADV
 ọdún NOUN
 kan NUM
 lórí ADP
-
 àlééfà NOUN
 
 Ahmed PROPN
@@ -13035,6 +12739,7 @@ wọn DET
 lẹ́yìn NOUN
 èyí DET
 , PUNCT
+
 gbogbo NOUN
 wọn PRON
 gbọdọ̀ ADV
@@ -13048,7 +12753,6 @@ kò AUX
 sì ADV
 gbọdọ̀ ADV
 sùn VERB
-
 sínú ADP
 ọjà NOUN
 náà DET
@@ -13326,6 +13030,7 @@ bímọ NOUN
 náà DET
 fún ADP
 , PUNCT
+
 ṣùgbọ́n CCONJ
 obìnrin NOUN
 olórin NOUN
@@ -13344,7 +13049,6 @@ láti ADP
 bíi VERB
 ọdún NOUN
 méjìlélógún NUM
-
 sẹ́yìn ADV
 
 Ṣùgbọ́n CCONJ
@@ -13386,6 +13090,7 @@ òun PRON
 sọ VERB
 ọ́ PRON
 , PUNCT
+
 ó PRON
 ló VERB
 pẹ́ ADP
@@ -13393,7 +13098,6 @@ tí SCONJ
 Tọ́pẹ́ PROPN
 Àlàbí PROPN
 tí SCONJ
-
 máa AUX
 ń AUX
 sọ̀rọ̀ VERB
@@ -13869,10 +13573,10 @@ àwọn PRON
 ọkùnrin NOUN
 náà DET
 , PUNCT
+
 nítorí ADV
 yóò AUX
 mú VERB
-
 kó PRON
 rọrùn VERB
 fún ADP
@@ -13965,6 +13669,7 @@ àwọn PRON
 ọmọ NOUN
 wọn DET
 , PUNCT
+
 sọ VERB
 pé SCONJ
 àjọ NOUN
@@ -13985,7 +13690,6 @@ orílẹ̀ NOUN
 - PUNCT
 èdè NOUN
 yìí DET
-
 gbèrú VERB
 sí ADP
 i PRON
@@ -14084,6 +13788,7 @@ èèyàn NOUN
 inú NOUN
 rẹ̀ DET
 , PUNCT
+
 pàápàá ADV
 lórí ADP
 èyí ADJ
@@ -14093,7 +13798,6 @@ í PRON
 ṣe VERB
 pẹ̀lú ADP
 ètò NOUN
-
 ìfètò-sọ́mọ-bíbí NOUN
 . PUNCT
 
@@ -14220,12 +13924,12 @@ sọ̀rọ̀ VERB
 sọ VERB
 pé SCONJ
 ; PUNCT
+
 kí ADJ
 gbogbo NOUN
 ọjà NOUN
 kó PRON
 bẹ̀rẹ̀ VERB
-
 iṣẹ́ NOUN
 ní VERB
 kíkún NOUN
@@ -14681,13 +14385,13 @@ Ọ̀tà PROPN
 níìpínlẹ̀ NOUN
 Ògùn PROPN
 , PUNCT
+
 ni VERB
 wọ́n PRON
 fẹ́ẹ́ VERB
 kọ́ VERB
 gbòngàn NOUN
 náà DET
-
 sí VERB
 
 Abíọ́lá PROPN
@@ -14832,11 +14536,11 @@ ìwà NOUN
 Túnjí PROPN
 Dísù PROPN
 , PUNCT
+
 ó PRON
 ṣeé VERB
 ṣe VERB
 kí ADP
-
 ọkùnrin NOUN
 náà DET
 fipò VERB
@@ -14911,9 +14615,9 @@ kàn ADV
 fi VERB
 Odùmósù PROPN
 , PUNCT
+
 táwọn SCONJ
 èèyàn NOUN
-
 máa AUX
 ń AUX
 sáábà VERB
@@ -15007,11 +14711,11 @@ ipò NOUN
 náà DET
 mú VERB
 , PUNCT
+
 ju VERB
 ẹni NOUN
 tó SCONJ
 wà VERB
-
 níbẹ̀ ADV
 lọ́wọ́ NOUN
 yìí DET
@@ -15383,10 +15087,10 @@ sì ADV
 páyà VERB
 rẹ̀ PRON
 , PUNCT
+
 nítorí ADV
 ó PRON
 ń AUX
-
 jẹ́wọ́ VERB
 fún ADP
 gbogbo NOUN
@@ -15653,9 +15357,9 @@ ló PRON
 ṣe VERB
 kókó NOUN
 , PUNCT
+
 kìí AUX
 ṣe VERB
-
 kíkórajọpọ̀ NOUN
 wa DET
 , PUNCT
@@ -15736,7 +15440,7 @@ nínú ADP
 ìlú NOUN
 kan NUM
 , PUNCT
-' PUNCT
+
 Ohun NOUN
 tí SCONJ
 kùráánì PROPN
@@ -15746,7 +15450,6 @@ pé SCONJ
 ká PRON
 jókòó VERB
 síbi NOUN
-
 táa SCONJ
 wà VERB
 , PUNCT
@@ -15903,6 +15606,7 @@ pọnmọ VERB
 nísọ̀ NOUN
 eléso NOUN
 , PUNCT
+
 ṣẹ́yin NOUN
 náà DET
 mọ̀ VERB
@@ -15917,7 +15621,6 @@ kan NUM
 ju VERB
 àwọn PRON
 kan NUM
-
 lọ VERB
 
 Àlàájì NOUN
@@ -15956,6 +15659,7 @@ ni VERB
 wọ́n PRON
 mú VERB
 , PUNCT
+
 bó PRON
 tiẹ̀ ADV
 jẹ́ VERB
@@ -15990,6 +15694,7 @@ pé SCONJ
 fàájì NOUN
 ń AUX
 ṣàn VERB
+
 kódà VERB
 àríyá NOUN
 náà DET
@@ -16013,7 +15718,6 @@ bí ADV
 tí SCONJ
 ọba NOUN
 rọ̀ VERB
-
 lóyè NOUN
 tó SCONJ
 ń AUX
@@ -16107,11 +15811,11 @@ bẹ̀bẹ̀ VERB
 tàánú ADV
 tàánú ADV
 , PUNCT
+
 ẹ PRON
 wòó VERB
 àánú NOUN
 rẹ̀ DET
-
 kọ́kọ́ NOUN
 ṣemí VERB
 o PART
@@ -16131,6 +15835,7 @@ ni VERB
 kò AUX
 lẹ́wà VERB
 , PUNCT
+
 ó PRON
 tún ADV
 mọ VERB
@@ -16228,6 +15933,7 @@ níwájú NOUN
 àwọn PRON
 mọ́ VERB
 , PUNCT
+
 màmá PRON
 sọ VERB
 pé SCONJ
@@ -16247,7 +15953,6 @@ gbé VERB
 ń AUX
 bí VERB
 àwọn PRON
-
 nínú ADP
 torípé NOUN
 tó SCONJ
@@ -16260,6 +15965,7 @@ rí VERB
 lo PRON
 ni VERB
 , PUNCT
+
 ó PRON
 dájú VERB
 pé SCONJ
@@ -16374,8 +16080,8 @@ ìṣòro NOUN
 kan NUM
 lọ́tọ̀ NOUN
 , PUNCT
-ara NOUN
 
+ara NOUN
 àwọn PRON
 nǹkan NOUN
 tí SCONJ
@@ -16753,12 +16459,12 @@ ni VERB
 gbèndéke VERB
 ọ̀sẹ̀ NOUN
 méjì NUM
+
 láti ADP
 fòfin VERB
 de VERB
 gbogbo NOUN
 àwọn PRON
-
 nọ́ḿbà NOUN
 fóònù NOUN
 tí SCONJ
@@ -16797,6 +16503,7 @@ nínú ADP
 oṣù NOUN
 yìí DET
 , PUNCT
+
 ìyẹn ADJ
 ọjọ́ NOUN
 kọkàndínlọ́gbọ̀n NUM
@@ -17714,6 +17421,7 @@ yẹ VERB
 káwọn PRON
 ṣe VERB
 , PUNCT
+
 síbẹ̀ ADV
 àtúnṣe NOUN
 gbọdọ̀ ADV
@@ -17723,7 +17431,6 @@ àwọn PRON
 dúkìá NOUN
 táwọn SCONJ
 jàndùkú NOUN
-
 bà VERB
 jẹ́ VERB
 náà DET
@@ -17803,6 +17510,7 @@ Èkó PROPN
 Gbénga PROPN
 Ọmọ́tọ́ṣọ̀ PROPN
 , PUNCT
+
 ní VERB
 ọkùnrin NOUN
 náà DET
@@ -17810,7 +17518,6 @@ kò AUX
 tí AUX
 ì AUX
 fèsì VERB
-
 sí VERB
 títí ADV
 di VERB
@@ -17822,6 +17529,7 @@ kọ VERB
 ìròyìn NOUN
 yìí DET
 , PUNCT
+
 ṣùgbọ́n CCONJ
 àwọn PRON
 tó SCONJ
@@ -17854,8 +17562,8 @@ wọn DET
 lọ VERB
 mọ́ VERB
 , PUNCT
-nítorí ADV
 
+nítorí ADV
 ìjàmbá NOUN
 tí SCONJ
 kinní NOUN
@@ -17893,6 +17601,7 @@ nínú ADP
 ìjàmbà NOUN
 náà DET
 , PUNCT
+
 ó PRON
 ní VERB
 èèyàn NOUN
@@ -17905,7 +17614,6 @@ tí SCONJ
 wọ́n PRON
 ń AUX
 gba VERB
-
 ìtọ́jú NOUN
 ní ADP
 Gbàgádà PROPN
@@ -17918,6 +17626,7 @@ ìṣẹ̀lẹ̀ NOUN
 náà DET
 lọ VERB
 , PUNCT
+
 ṣọ́ọ̀bù NOUN
 mẹ́rìndínlógún NUM
 ló PRON
@@ -18003,6 +17712,7 @@ Alàgbà NOUN
 Rótìmí PROPN
 Olúmọ PROPN
 , PUNCT
+
 ti AUX
 sọ VERB
 pé SCONJ
@@ -18011,7 +17721,6 @@ lọ̀rọ̀ NOUN
 náà DET
 rí VERB
 fáwọn PRON
-
 oníròyìn NOUN
 . PUNCT
 
@@ -18191,6 +17900,7 @@ èèlò NOUN
 ìkọ́lé NOUN
 lẹ́nu VERB
 , PUNCT
+
 bí ADV
 ẹ PRON
 bá VERB
@@ -18200,7 +17910,6 @@ àti CCONJ
 òkúta NOUN
 àti CCONJ
 iyẹ̀pẹ̀ NOUN
-
 sílẹ̀ ADV
 , PUNCT
 ẹ PRON
@@ -18262,6 +17971,7 @@ nilé NOUN
 yẹn DET
 wà VERB
 , PUNCT
+
 bẹ́ẹ̀ NOUN
 náà DET
 ló PRON
@@ -18271,7 +17981,6 @@ jẹ́ VERB
 fún ADP
 àwọn PRON
 irin NOUN
-
 tí SCONJ
 wọ́n PRON
 fẹ́ẹ́ VERB
@@ -18548,8 +18257,8 @@ tabí VERB
 iyàrá NOUN
 ìkẹ́kọ̀ọ́ NOUN
 , PUNCT
-gbígbé NOUN
 
+gbígbé NOUN
 àṣà NOUN
 àti CCONJ
 ìṣe NOUN
@@ -18725,6 +18434,7 @@ mẹ́rin NUM
 64 NUM
 ) PUNCT
 , PUNCT
+
 nígba NOUN
 tí SCONJ
 àwọn PRON
@@ -18739,7 +18449,6 @@ nínú ADP
 àwọn PRON
 wọ̀nyí DET
 jẹ́ VERB
-
 mẹ́tàdínlógún NUM
 ( PUNCT
 17 NUM
@@ -19136,9 +18845,9 @@ rẹ̀ PRON
 gbogbo NOUN
 irinṣẹ́ NOUN
 , PUNCT
+
 àti CCONJ
 ohun NOUN
-
 èèlò NOUN
 tí SCONJ
 wọn PRON
@@ -19306,8 +19015,8 @@ sinmi VERB
 sílé NOUN
 ná ADV
 , PUNCT
-ohun NOUN
 
+ohun NOUN
 tí SCONJ
 èyí ADJ
 sì ADV
@@ -19473,6 +19182,7 @@ àgbááyé NOUN
 sì ADV
 ni VERB
 , PUNCT
+
 àwọn PRON
 tí SCONJ
 wọn PRON
@@ -19481,7 +19191,6 @@ sí ADP
 pańpẹ́ NOUN
 àrùn NOUN
 Kòrónà PROPN
-
 náà DET
 kìí AUX
 ṣe VERB
@@ -19561,6 +19270,7 @@ ìlera NOUN
 ìpínlẹ̀ NOUN
 Èkó PROPN
 , PUNCT
+
 Ọ̀jọ̀gbọ́n NOUN
 Akin PROPN
 Àbáyọ̀mí PROPN
@@ -19572,7 +19282,6 @@ oníròyìn NOUN
 létí ADV
 láìpẹ́ NOUN
 ni VERB
-
 pé SCONJ
 ẹnìkan NOUN
 ti AUX
@@ -19582,6 +19291,7 @@ náà DET
 ńìpínlẹ̀ NOUN
 Èkó PROPN
 , PUNCT
+
 àwọn PRON
 sì ADV
 ti AUX
@@ -19680,6 +19390,7 @@ àgbà NOUN
 àjọ NOUN
 LASWA PROPN
 , PUNCT
+
 Ọ̀gbẹ́ni NOUN
 Dámilọ́lá PROPN
 Emmanuel PROPN
@@ -19691,7 +19402,6 @@ wọ́n PRON
 yọ̀nda VERB
 ara NOUN
 wọn DET
-
 láti ADP
 ṣiṣẹ́ VERB
 fún ADP
@@ -19702,6 +19412,7 @@ omi NOUN
 nípínlẹ̀ NOUN
 náà DET
 , PUNCT
+
 bákan NOUN
 náà DET
 ni VERB
@@ -19752,6 +19463,7 @@ fún ADP
 àrùn NOUN
 Kòrónà PROPN
 , PUNCT
+
 bẹ́ẹ̀ CCONJ
 ni VERB
 kẹ́nikẹ́ni NOUN
@@ -19771,7 +19483,6 @@ ibi NOUN
 iṣẹ́ NOUN
 rẹ̀ DET
 fáwọn PRON
-
 aráàlú NOUN
 . PUNCT
 
@@ -19885,6 +19596,7 @@ iṣẹ́ NOUN
 òòjọ́ NOUN
 wọn DET
 , PUNCT
+
 kí SCONJ
 wọ́n PRON
 sì ADV
@@ -19899,13 +19611,13 @@ ní VERB
 í PRON
 mú VERB
 ni VERB
-
 í PRON
 là VERB
 , PUNCT
 pẹ̀lú ADP
 èyí ADJ
 ; PUNCT
+
 èrè NOUN
 ni VERB
 ọlọ́jà NOUN
@@ -20025,6 +19737,7 @@ ààrẹ NOUN
 orílẹ̀-èdè NOUN
 yìí DET
 ; PUNCT
+
 Ọ̀jọ̀gbọ́n NOUN
 Yẹmí PROPN
 Ọ̀ṣínbàjò PROPN
@@ -20034,7 +19747,6 @@ àwa PRON
 oníbúrẹ́dì NOUN
 sí ADP
 àkíyèsí NOUN
-
 láti ADP
 yá VERB
 wa PRON
@@ -20061,6 +19773,7 @@ nínú ADP
 oṣù NOUN
 kejì ADJ
 , PUNCT
+
 ṣùgbọ́n CCONJ
 pẹ̀lú ADP
 ìṣẹ̀lẹ̀ NOUN
@@ -20218,9 +19931,9 @@ láti ADP
 òkè NOUN
 òkun NOUN
 , PUNCT
+
 pàápàá ADV
 jùlọ VERB
-
 lásìkò NOUN
 kónílé VERB
 - PUNCT
@@ -20407,6 +20120,7 @@ ńlá ADJ
 láwùjọ NOUN
 wa DET
 , PUNCT
+
 láwọn PRON
 ibi NOUN
 tí SCONJ
@@ -20414,7 +20128,6 @@ ìṣẹ̀lẹ̀ NOUN
 ọ̀hún DET
 tí AUX
 máa AUX
-
 ṣẹlẹ̀ VERB
 . PUNCT
 
@@ -20489,6 +20202,7 @@ ń AUX
 pariwo VERB
 kàyééfí NOUN
 , PUNCT
+
 èyí ADJ
 ló PRON
 jẹ́ VERB
@@ -20504,7 +20218,6 @@ kó PRON
 tẹ̀ VERB
 síwájú ADV
 nínú ADP
-
 ìrìn NOUN
 àjò NOUN
 ìgbésí NOUN
@@ -20627,6 +20340,7 @@ kíkọ́ NOUN
 náà DET
 láìpẹ́ ADV
 , PUNCT
+
 àwọn PRON
 sì ADV
 ti AUX
@@ -20643,7 +20357,6 @@ níbẹ̀ ADV
 lójú VERB
 pé SCONJ
 kò AUX
-
 sẹ́ni VERB
 tí SCONJ
 kò AUX
@@ -20671,6 +20384,7 @@ Olóògbé NOUN
 Augustine PROPN
 Arógundádé PROPN
 ; PUNCT
+
 Adédèjì PROPN
 Arógundádé PROPN
 sọ VERB
@@ -20695,7 +20409,6 @@ ń AUX
 sáábà ADV
 ṣẹlẹ̀ VERB
 sí ADP
-
 àwọn PRON
 olóṣèlú NOUN
 tí SCONJ
@@ -20874,10 +20587,10 @@ náà DET
 bá VERB
 kàn VERB
 , PUNCT
+
 wọ́n PRON
 á PRON
 jáde VERB
-
 wá PRON
 , PUNCT
 ìgbà NOUN
@@ -20963,11 +20676,11 @@ Yorùbá PROPN
 Babátúndé PROPN
 Fáṣọlá PROPN
 , PUNCT
+
 Rauf PROPN
 Arẹ́gbẹ́ṣọlá PROPN
 pẹ̀lú CCONJ
 Ọlọ́runníḿbẹ PROPN
-
 Mámowórá PROPN
 ni VERB
 wọ́n PRON
@@ -21005,6 +20718,7 @@ àwọn PRON
 jàǹdùkú NOUN
 dáná VERB
 sun VERB
+
 tàbí CCONJ
 ba VERB
 dúkìá NOUN
@@ -21026,7 +20740,6 @@ ń AUX
 gbógun VERB
 ti ADP
 ọlọ́pàá NOUN
-
 SARS PROPN
 láìpẹ́ NOUN
 yìí DET
@@ -21157,6 +20870,7 @@ nínú ADP
 ìjọba NOUN
 rẹ̀ DET
 , PUNCT
+
 ṣùgbọ́n CCONJ
 àwon PRON
 ìgbésè NOUN
@@ -21175,7 +20889,6 @@ fún ADP
 àwon PRON
 ọmọ NOUN
 Nàíjíríà PROPN
-
 àti CCONJ
 bó PRON
 ṣe VERB
@@ -21250,6 +20963,7 @@ Health NOUN
 FMoH PROPN
 ) PUNCT
 , PUNCT
+
 àti CCONJ
 ìrànlọ́wọ́ NOUN
 àjọ NOUN
@@ -21263,7 +20977,6 @@ ń AUX
 ètò NOUN
 ọrọ̀-ajé NOUN
 ní ADP
-
 orílẹ̀-èdè NOUN
 Germany PROPN
 , PUNCT
@@ -21433,8 +21146,8 @@ wọ́n PRON
 nínú ADP
 ẹgbẹ́ NOUN
 , PUNCT
-ẹgbẹ̀rún NUM
 
+ẹgbẹ̀rún NUM
 lọ́nà NOUN
 ogójì NUM
 dọ́là NOUN
@@ -21515,6 +21228,7 @@ North PROPN
 Amerika PROPN
 létí ADV
 , PUNCT
+
 bẹ́ẹ̀ NOUN
 ló PRON
 sì ADV
@@ -21525,7 +21239,6 @@ ìgbìmọ̀ NOUN
 àgbáyé NOUN
 tó SCONJ
 pa VERB
-
 gbogbo NOUN
 wọn DET
 pọ̀ VERB
@@ -21542,6 +21255,7 @@ etí NOUN
 Gani PROPN
 Adams PROPN
 , PUNCT
+
 ohun NOUN
 tó SCONJ
 sì ADV
@@ -21605,9 +21319,9 @@ pẹ̀lú ADP
 àwọn PRON
 Hausa PROPN
 , PUNCT
+
 ọ̀pọ̀ ADJ
 àwọn PRON
-
 alátìlẹyìn NOUN
 Aṣíwájú PROPN
 tí SCONJ
@@ -21710,6 +21424,7 @@ wọn PRON
 lọ́dún NOUN
 yìí DET
 , PUNCT
+
 kí SCONJ
 àwọn PRON
 márùn NUM
@@ -21726,7 +21441,6 @@ wọ́n PRON
 máá AUX
 kú VERB
 lọ́dún NOUN
-
 yìí DET
 , PUNCT
 kí SCONJ
@@ -21812,11 +21526,11 @@ sí ADP
 Colours PROPN
 Band PROPN
 , PUNCT
+
 ní ADP
 nǹkan NOUN
 bíi ADV
 ogójì NUM
-
 ọdún NOUN
 sẹ́yìn ADV
 . PUNCT
@@ -21934,6 +21648,7 @@ Health NOUN
 FMoH PROPN
 ) PUNCT
 , PUNCT
+
 àti CCONJ
 ìrànlọ́wọ́ NOUN
 àjọ NOUN
@@ -21945,7 +21660,6 @@ tó SCONJ
 ń AUX
 ṣàkóso VERB
 ètò NOUN
-
 ọrọ̀ NOUN
 ajé NOUN
 ní ADP
@@ -22001,6 +21715,7 @@ Group NOUN
 sọ VERB
 pé SCONJ
 : PUNCT
+
 " PUNCT
 Lára NOUN
 àwọn PRON
@@ -22010,7 +21725,6 @@ wà VERB
 nínú ADP
 ìfètò NOUN
 - NOUN
-
 sọ́mọ NOUN
 - NOUN
 bíbí NOUN
@@ -22021,6 +21735,7 @@ obìnrin NOUN
 ni VERB
 pé SCONJ
 ; PUNCT
+
 wọ́n PRON
 á PRON
 le ADV
@@ -22038,6 +21753,7 @@ tó SCONJ
 wù VERB
 wọ́n PRON
 , PUNCT
+
 àti CCONJ
 pé SCONJ
 èyíkéèyí NOUN
@@ -22054,7 +21770,6 @@ náà DET
 tún ADV
 le AUX
 tẹ̀ VERB
-
 síwájú ADV
 , PUNCT
 èyí ADJ
@@ -22161,12 +21876,12 @@ wà VERB
 nílùú NOUN
 Kánò PROPN
 , PUNCT
+
 náà DET
 tẹnumọ́ VERB
 ọn PRON
 pé VERB
 lára NOUN
-
 àwọn PRON
 àǹfààní NOUN
 tó SCONJ
@@ -22195,6 +21910,7 @@ tó SCONJ
 wù VERB
 wọ́n PRON
 , PUNCT
+
 èyí ADJ
 yóò AUX
 mú VERB
@@ -22281,6 +21997,7 @@ lẹ́ẹ̀kanṣoṣo NOUN
 ti AUX
 bẹ̀rẹ̀ VERB
 , PUNCT
+
 àti CCONJ
 pé SCONJ
 ìjo NOUN
@@ -22298,7 +22015,6 @@ kíkó NOUN
 ilé NOUN
 náà DET
 títí ADV
-
 tí SCONJ
 wọn PRON
 a PRON
@@ -22351,12 +22067,12 @@ ún PART
 , PUNCT
 000 NUM
 , PUNCT
+
 kó PRON
 tóo VERB
 di VERB
 pé SCONJ
 ìránṣẹ́ NOUN
-
 Ọlọ́run NOUN
 náà DET
 yí VERB
@@ -22475,10 +22191,10 @@ àwọn PRON
 orílẹ̀-èdè NOUN
 yìí DET
 , PUNCT
+
 pàápàá ADV
 àwọn PRON
 ẹlẹ́sin NOUN
-
 Krìstẹ́nì PROPN
 àti CCONJ
 Mùsùlùmí PROPN
@@ -22534,9 +22250,9 @@ han VERB
 Àáfàa NOUN
 kankan ADJ
 , PUNCT
+
 ó PRON
 kàn VERB
-
 déédé ADV
 wọlé VERB
 báwa VERB
@@ -22596,11 +22312,11 @@ ilé NOUN
 wa DET
 ni VERB
 , PUNCT
+
 nítorí ADV
 náà DET
 ó PRON
 ṣe VERB
-
 pàtàkì NOUN
 kí ADJ
 gbogbo NOUN
@@ -22639,6 +22355,7 @@ àsìkò NOUN
 ààwẹ̀ NOUN
 yìí DET
 , PUNCT
+
 kí ADJ
 wọ́n PRON
 yípadà VERB
@@ -22651,7 +22368,6 @@ ń AUX
 tako VERB
 òfin NOUN
 àwọn PRON
-
 aṣáájú NOUN
 tó SCONJ
 ti AUX
@@ -22759,6 +22475,7 @@ sọ́rùn NOUN
 igi NOUN
 ọparun NOUN
 , PUNCT
+
 tẹ́yin SCONJ
 náà DET
 bá VERB
@@ -22767,7 +22484,6 @@ àrà NOUN
 táwa SCONJ
 táà SCONJ
 si VERB
-
 nídìí NOUN
 ọ̀tẹ̀ NOUN
 fi VERB
@@ -22833,6 +22549,7 @@ fẹ́ẹ́ VERB
 ṣẹlẹ̀ VERB
 o PART
 , PUNCT
+
 Àdìsá PROPN
 ń AUX
 gbìyànjú VERB
@@ -22867,13 +22584,13 @@ irú NOUN
 ti SCONJ
 ọ̀gá NOUN
 òun DET
-
 ń AUX
 pa VERB
 lábẹ́nú NOUN
 lòun PRON
 tú VERB
 síta ADV
+
 torípé ADV
 náà DET
 ipò NOUN
@@ -22943,12 +22660,12 @@ wọ́n PRON
 fi VERB
 pamọ́ VERB
 , PUNCT
+
 ló PRON
 bá VERB
 pe VERB
 àkíyèsí NOUN
 àwọn PRON
-
 yóókù ADJ
 rẹ̀ DET
 sí ADP
@@ -23143,13 +22860,13 @@ íbínú NOUN
 á PRON
 wọlé VERB
 , PUNCT
+
 kinní NOUN
 yẹn DET
 kò AUX
 wá VERB
 ní VERB
 dùn VERB
-
 mọ́ VERB
 , PUNCT
 ohun NOUN

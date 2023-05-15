@@ -1,3 +1,90 @@
+Gɔfɛrɛnɛri NOUN
+y' AUX
+a PRON
+ɲini VERB
+kana PART
+ani CCONJ
+lakana NOUN
+kɛbagaw NOUN
+fɛ PART
+u PRON
+kɔnkɔnmanenba NOUN
+ka PART
+to VERB
+. PUNCT
+
+O PRON
+kɔfɛ ADP
+, PUNCT
+a PRON
+taara VERB
+Buguni NOUN
+Sesesɛrɛfu NOUN
+la PART
+ka PART
+nɔgɔya NOUN
+da NOUN
+mɔgɔ NOUN
+joginnen NOUN
+wolonwula NOUN
+ye PART
+, PUNCT
+minnu PRON
+cɛla NOUN
+saba NUM
+ta PRON
+ka PART
+jugu ADJ
+. PUNCT
+
+Bubakari PROPN
+PAYITAWO NOUN
+- PUNCT
+Walasa SCONJ
+k' PART
+a PRON
+ka PART
+cɛdenw NOUN
+bila VERB
+wulikajɔ NOUN
+la PART
+kalata NOUN
+nataw NOUN
+kɛlɛw NOUN
+kama ADP
+, PUNCT
+Perezidanfanga NOUN
+waleya NOUN
+ɲɛtaa NOUN
+kama ADP
+( PUNCT
+AYƐRIPE NOUN
+) PUNCT
+politiki NOUN
+faraɲɔgɔnkankulu NOUN
+, PUNCT
+min PRON
+ɲɛmɔgɔya NOUN
+bɛ AUX
+Ceman PROPN
+Hibɛri PROPN
+Kulibali PROPN
+bolo NOUN
+, PUNCT
+ye PART
+nin PRON
+kalafili NOUN
+bolodiɲɔgɔnma NOUN
+in PRON
+musow NOUN
+ani CCONJ
+denmisɛnw NOUN
+ka PART
+kolatilennaw NOUN
+ɲɛmɔgɔyakuluw NOUN
+kunbɛn VERB
+. PUNCT
+
 Nin PRON
 ɲɔgɔnkunbɛn NOUN
 jɔda NOUN
@@ -493,7 +580,6 @@ min PRON
 lakodɔnnen NOUN
 don PART
 ni CCONJ
-
 Jiritukɔrɔla NOUN
 Kɛnɛ NOUN
 tɔgɔ NOUN
@@ -553,6 +639,7 @@ san NOUN
 2007 NUM
 ma PART
 , PUNCT
+
 b' AUX
 a PRON
 dajira VERB
@@ -565,7 +652,6 @@ yɔrɔ NOUN
 labɛn VERB
 ani CCONJ
 k' PART
-
 i PRON
 sigi VERB
 walasa SCONJ
@@ -859,7 +945,6 @@ sɔrɔ VERB
 ka PART
 n PRON
 to VERB
-
 sɛgɛnnafiyɛnbɔ NOUN
 la PART
 . PUNCT
@@ -1684,7 +1769,6 @@ musoyako NOUN
 jira VERB
 walima CCONJ
 minnu PRON
-
 bɛ AUX
 cɛya NOUN
 ni CCONJ
@@ -1692,6 +1776,7 @@ musoya NOUN
 bugunatigɛli NOUN
 sirabilali NOUN
 , PUNCT
+
 cɛya NOUN
 ni CCONJ
 musoya NOUN
@@ -2687,7 +2772,6 @@ la PART
 , PUNCT
 """" PUNCT
 Yumani PROPN
-
 Uruwayiti PROPN
 Wotisi PROPN
 """" PUNCT
@@ -2763,7 +2847,6 @@ fɛ PART
 a PRON
 tigi NOUN
 minnu PRON
-
 bɔra VERB
 a PRON
 la PART
@@ -2771,6 +2854,7 @@ ka PART
 fɔ NOUN
 la PART
 , PUNCT
+
 u PRON
 ɲininkalen VERB
 Yumani PROPN
@@ -2815,6 +2899,7 @@ bisigikumaw NOUN
 ɲɛmisɛnw NOUN
 ma PART
 , PUNCT
+
 FIBA NOUN
 ye PART
 kokɛta NOUN
@@ -2830,7 +2915,6 @@ na PART
 kɛ VERB
 k' PART
 a PRON
-
 damatɛmɛkow NOUN
 kɛ VERB
 walima CCONJ
@@ -3674,7 +3758,6 @@ fɛ PART
 sen NOUN
 b' AUX
 o PRON
-
 la PART
 . PUNCT
 
@@ -3894,6 +3977,7 @@ min PRON
 tɛ PART
 bɛn AUX
 . PUNCT
+
 Faraɲɔgɔnkankulu NOUN
 ka PART
 majɛ NOUN
@@ -3909,7 +3993,6 @@ k' PART
 i PRON
 mago NOUN
 don PART
-
 damatɛmɛkow NOUN
 bisigikumaw NOUN
 la PART
@@ -4026,7 +4109,6 @@ jɔ VERB
 u PRON
 jɔyɔrɔ NOUN
 la PART
-
 ka PART
 Mali NOUN
 basikɛtikɛlamusow NOUN
@@ -4308,62 +4390,7 @@ ka PART
 kɛ VERB
 Afiriki NOUN
 wasadenbulon NOUN
-
 perezidanmuso NOUN
 ye PART
-. PUNCT
-
-Muso NOUN
-ŋana ADJ
-, PUNCT
-Afiriki NOUN
-tilebinyanfan NOUN
-n' CCONJ
-a PRON
-cɛmancɛ NOUN
-yanfan ADV
-ani CCONJ
-Magɛrɛbu NOUN
-fana ADV
-y' AUX
-u PRON
-bolo NOUN
-don VERB
-min PRON
-kɔrɔ ADP
-, PUNCT
-lagosira VERB
-, PUNCT
-k' PART
-a PRON
-tɔgɔ NOUN
-tiɲɛ VERB
-ani CCONJ
-k' PART
-a PRON
-lanɔgɔ VERB
-a PRON
-yɛrɛ ADV
-fasoden NOUN
-ɲɔgɔnw NOUN
-kɛ VERB
-, PUNCT
-k' PART
-a PRON
-kɔrɔ NOUN
-kɛ VERB
-ko SCONJ
-dɔw ADV
-dusu NOUN
-tun PART
-bɛna AUX
-kasi VERB
-ni CCONJ
-nin PRON
-ɲɔgɔnna NOUN
-tɔgɔsɔrɔ NOUN
-ye PART
-Afirini NOUN
-kunna NOUN
 . PUNCT
 

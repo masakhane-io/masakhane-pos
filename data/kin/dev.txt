@@ -1451,6 +1451,7 @@ mu ADP
 buryo NOUN
 bwihuse VERB
 , PUNCT
+
 icya PRON
 kabiri PRON
 wasangaga VERB
@@ -1478,7 +1479,6 @@ n CCONJ
 Umuyobozi NOUN
 ushinzwe VERB
 imibereho NOUN
-
 myiza ADJ
 , PUNCT
 ikindi PRON
@@ -3999,6 +3999,7 @@ imirasire NOUN
 , PUNCT
 IRENA PROPN
 , PUNCT
+
 hagamijwe VERB
 kureba VERB
 aho PRON
@@ -4019,7 +4020,6 @@ rirambye VERB
 SDG7 PROPN
 , PUNCT
 yo PRON
-
 kugeza VERB
 umuriro NOUN
 w PRON

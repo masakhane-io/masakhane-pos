@@ -1779,6 +1779,7 @@ nokukhuluma VERB
 kabi ADV
 ngomholi NOUN
 , PUNCT
+
 ekubeni ADV
 wambeka VERB
 esikhundleni NOUN
@@ -1789,7 +1790,6 @@ phezu ADV
 kokuba ADV
 izimakethe NOUN
 zazifuna VERB
-
 kuqhubeke VERB
 uMnuz NOUN
 Pravin PROPN
@@ -12825,6 +12825,7 @@ ejabule VERB
 ngendlela ADJ
 eyisimanga ADJ
 , PUNCT
+
 kodwa CCONJ
 kukho ADV
 konke ADV
@@ -12850,7 +12851,6 @@ kwabo PRON
 kuchaza VERB
 isitatimende NOUN
 esithunyelelwe VERB
-
 abezindaba NOUN
 . PUNCT
 

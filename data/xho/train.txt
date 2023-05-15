@@ -10468,6 +10468,7 @@ lezefashoni ADJ
 kulo PRON
 mmandla NOUN
 ; PUNCT
+
 ukudala VERB
 ibango NOUN
 lentengiso NOUN
@@ -10502,7 +10503,6 @@ kwinqanaba NOUN
 leWorld PROPN
 Fashion PROPN
 Capital PROPN
-
 , PUNCT
 """" PUNCT
 kutsho VERB

@@ -1,410 +1,3 @@
-Kundi NOUN
-linalotetea VERB
-haki NOUN
-za ADJ
-wafungwa NOUN
-wa ADJ
-kisiasa ADJ
-limesema VERB
-Jumamosi ADV
-kuwa SCONJ
-zaidi SCONJ
-ya SCONJ
-watu NOUN
-1,700 NUM
-wamezuiliwa VERB
-tangu ADP
-mapinduzi NOUN
-ya ADJ
-kijeshi ADJ
-yalipofanyika VERB
-mwezi ADV
-uliyopita VERB
-. PUNCT
-
-Mshukiwa NOUN
-wa ADJ
-mauaji NOUN
-ya ADJ
-kimbari ADJ
-nchini ADV
-Rwanda PROPN
-, PUNCT
-Félicien PROPN
-Kabuga PROPN
-anazuiliwa VERB
-katika ADP
-mahakama NOUN
-ya ADJ
-kimtaifa ADJ
-ya ADJ
-uhalifu NOUN
-- PUNCT
-ICC PROPN
-, PUNCT
-mjini NOUN
-Hague PROPN
-, PUNCT
-baada ADP
-ya ADP
-kusafirishwa NOUN
-kutoka ADP
-Ufaransa PROPN
-kufuatia NOUN
-amri NOUN
-ya ADJ
-mahakama NOUN
-ya ADJ
-Umoja NOUN
-wa ADJ
-Mataifa NOUN
-. PUNCT
-
-Kabuga NOUN
-, PUNCT
-ambaye ADJ
-amekuwa AUX
-mafichoni ADV
-kwa ADP
-zaidi SCONJ
-ya SCONJ
-miaka NOUN
-22 NUM
-hadi ADP
-alipokamatwa VERB
-nchini ADV
-Ufaransa PROPN
-mwezi ADV
-May ADV
-, PUNCT
-atafikishwa VERB
-mbele NOUN
-ya ADJ
-mahakama NOUN
-ya ADJ
-ICC PROPN
-. PUNCT
-
-Wiki ADV
-iliyopita VERB
-, PUNCT
-jaji NOUN
-katika ADP
-mahakama NOUN
-ya ADJ
-Umoja NOUN
-wa ADJ
-Mataifa NOUN
-aliamuru VERB
-kwamba SCONJ
-Kabuga PROPN
-ahamishiwe VERB
-Uholanzi PROPN
-, PUNCT
-badala SCONJ
-ya SCONJ
-kuzuiliwa NOUN
-nchini ADV
-Tanzania PROPN
-na CCONJ
-mahakama NOUN
-maalum ADJ
-ya ADJ
-Umoja NOUN
-wa ADJ
-Mataifa NOUN
-kwa ADP
-kuzingatia NOUN
-maswala NOUN
-ya ADJ
-afya NOUN
-kutokana SCONJ
-na SCONJ
-janga NOUN
-la ADJ
-virusi NOUN
-vya ADJ
-Corona PROPN
-. PUNCT
-
-Kabuga PROPN
-, PUNCT
-mwenye VERB
-umri NOUN
-wa ADJ
-miaka NOUN
-84 NUM
-, PUNCT
-anaweza VERB
-kukaa NOUN
-ICC PROPN
-kwa ADP
-miezi NOUN
-kadhaa ADJ
-na CCONJ
-baadaye ADV
-kesi NOUN
-dhidi SCONJ
-yake PRON
-kusikilizwa NOUN
-nchini ADV
-Tanzania PROPN
-. PUNCT
-
-Waendesha NOUN
-mashtaka NOUN
-wa ADJ
-Umoja NOUN
-wa ADJ
-Mataifa NOUN
-wanamshutumu VERB
-Kabuga PROPN
-, PUNCT
-ambaye ADJ
-alikuwa AUX
-mkulima NOUN
-mkubwa ADJ
-wa ADJ
-majani NOUN
-chai NOUN
-na CCONJ
-kahawa NOUN
-, PUNCT
-kwa ADP
-kupanga NOUN
-mauaji NOUN
-dhidi SCONJ
-ya SCONJ
-maelfu NOUN
-ya ADJ
-watutsi NOUN
-na CCONJ
-baadhi SCONJ
-ya SCONJ
-wahutu NOUN
-nchini ADV
-Rwanda PROPN
-mwaka NOUN
-1994 NUM
-katika ADP
-mashambulizi NOUN
-yaliyodhumu VERB
-kwa ADP
-muda NOUN
-wa ADJ
-siku ADV
-100 NUM
-. PUNCT
-
-Kabuga PROPN
-anakabiliwa VERB
-na ADP
-mashtaka NOUN
-ya ADJ
-mauaji NOUN
-ya ADJ
-halaiki ADJ
-ya ADJ
-watu NOUN
-, PUNCT
-kuchangia NOUN
-mauaji NOUN
-hayo ADJ
-na CCONJ
-uhalifu NOUN
-dhidi SCONJ
-ya SCONJ
-binadamu NOUN
-. PUNCT
-
-Amekana VERB
-mashtaka NOUN
-dhidi SCONJ
-yake PRON
-akisema VERB
-ni AUX
-ya ADJ
-uongo NOUN
-. PUNCT
-
-Kwingineko ADV
-, PUNCT
-waendesha NOUN
-mashataka NOUN
-wa ADJ
-Uholanzi PROPN
-wamesema VERB
-kwamba SCONJ
-wamemkamata VERB
-mwanamme NOUN
-raia NOUN
-wa ADJ
-Rwanda PROPN
-mwenye ADJ
-umri NOUN
-wa ADJ
-miaka NOUN
-71 NUM
-ambaye PRON
-amekuwa AUX
-akiishi VERB
-Uholanzi PROPN
-kwa ADP
-muda NOUN
-wa ADJ
-miaka NOUN
-20 NUM
-, PUNCT
-baada ADP
-ya ADP
-kupata NOUN
-ombi NOUN
-kutoka ADP
-kwa ADP
-serikali NOUN
-ya ADJ
-Kigali PROPN
-, PUNCT
-la PRON
-kutaka NOUN
-akamatwe VERB
-na CCONJ
-kurudishwa NOUN
-nchini ADV
-humo ADJ
-. PUNCT
-
-Jina NOUN
-la ADJ
-mwanamme NOUN
-huyo ADJ
-halijatajwa VERB
-lakini CCONJ
-waendesha NOUN
-mashtaka NOUN
-wamesema VERB
-mwanamme NOUN
-huyo ADJ
-alikuwa AUX
-akifanya VERB
-kazi NOUN
-katika ADP
-benki NOUN
-na CCONJ
-anamiliki VERB
-duka NOUN
-la ADJ
-kuuza NOUN
-dawa NOUN
-, PUNCT
-anayetuhumiwa VERB
-kwa ADP
-kuandaa NOUN
-orodha NOUN
-ya ADJ
-watutsi NOUN
-waliopangiwa VERB
-kuuawa NOUN
-katika ADP
-mashambulizi NOUN
-hayo ADJ
-ya ADJ
-mwaka ADV
-1994 NUM
-. PUNCT
-
-Imetayarishwa VERB
-na PART
-Kennes PROPN
-Bwire PROPN
-, PUNCT
-VOA PROPN
-, PUNCT
-Washington PROPN
-DC PROPN
-. PUNCT
-
-Kenya PROPN
-itapokea VERB
-karibu ADV
-dozi NOUN
-72,000 NUM
-za ADJ
-chanjo NOUN
-ya ADJ
-Covid-19 PROPN
-wiki ADV
-hii ADJ
-kutoka ADP
-mpango NOUN
-wa ADJ
-Covax PROPN
-. PUNCT
-
-Dawa NOUN
-hizo ADJ
-zitawasili VERB
-kutokea NOUN
-Sudan PROPN
-Kusini NOUN
-baada ADP
-ya ADP
-maafisa NOUN
-wa ADJ
-wizara NOUN
-ya ADJ
-afya NOUN
-wa ADJ
-nchi NOUN
-hiyo ADJ
-kusema NOUN
-kwamba SCONJ
-hawataweza VERB
-kuzitumia NOUN
-kabla ADP
-ya ADP
-muda NOUN
-wake ADJ
-kumalizika NOUN
-. PUNCT
-
-Sudan PROPN
-Kusini NOUN
-ilipokea VERB
-dozi NOUN
-132,000 NUM
-za ADJ
-AstraZeneca PROPN
-chini ADP
-ya ADP
-mpango NOUN
-wa ADJ
-Covax PROPN
-, PUNCT
-mwishoni ADP
-mwa ADP
-mwezi ADV
-Machi ADV
-. PUNCT
-
-Lakini CCONJ
-naibu VERB
-Waziri NOUN
-wa ADJ
-Afya NOUN
-Mayen PROPN
-Machout PROPN
-amewaambia VERB
-waandishi NOUN
-habari NOUN
-Jumatano ADV
-kwamba SCONJ
-hawakuweza VERB
-kutumia NOUN
-dozi NOUN
-zote ADJ
-. PUNCT
-
 Pia SCONJ
 serikali NOUN
 imetoa VERB
@@ -636,6 +229,7 @@ hilo ADJ
 la ADJ
 maambukizi NOUN
 . PUNCT
+
 Mwandishi NOUN
 wa ADJ
 habari NOUN
@@ -652,7 +246,6 @@ mwezi ADV
 wa ADV
 tano ADV
 kwa ADP
-
 kuonyesha NOUN
 moja ADV
 kwa ADV
@@ -679,6 +272,7 @@ miaka NOUN
 4 NUM
 gerezani ADV
 . PUNCT
+
 Hukumu NOUN
 yake ADJ
 imekuja VERB
@@ -727,6 +321,7 @@ vilipolipuka VERB
 mjini ADV
 Wuhan PROPN
 . PUNCT
+
 Ripoti NOUN
 zake ADJ
 za ADJ
@@ -735,7 +330,6 @@ kwa ADV
 moja ADV
 za ADJ
 video NOUN
-
 na CCONJ
 maandishi NOUN
 , PUNCT
@@ -801,6 +395,7 @@ ya ADP
 mipaka NOUN
 yake ADJ
 . PUNCT
+
 Imesema VERB
 kwamba SCONJ
 uchumi NOUN
@@ -808,13 +403,13 @@ wake ADJ
 umeanza VERB
 kukua NOUN
 . PUNCT
+
 Nchi NOUN
 zingine ADJ
 zinapitia VERB
 wakati NOUN
 mgumu ADJ
 sana ADV
-
 kukabiliana NOUN
 na ADP
 maambukizi NOUN
@@ -894,9 +489,9 @@ mnamo ADV
 mwezi ADV
 Desemba ADV
 . PUNCT
+
 Kabila PROPN
 aliondoka VERB
-
 madarakani NOUN
 Januari ADV
 mwaka ADV
@@ -922,6 +517,7 @@ bado ADV
 wanadhibiti VERB
 bunge NOUN
 . PUNCT
+
 Rais NOUN
 Tshisekedi PROPN
 amesema VERB
@@ -976,9 +572,9 @@ na SCONJ
 benki NOUN
 kuu ADJ
 ya ADJ
-
 dunia ADJ
 . PUNCT
+
 Viongozi NOUN
 wanaomuunga VERB
 mkono NOUN
@@ -1034,6 +630,7 @@ kutekeleza NOUN
 lengo NOUN
 lake ADJ
 . PUNCT
+
 Iwapo SCONJ
 Tshisekedi PROPN
 atafaulu VERB
@@ -1050,7 +647,6 @@ uwezo NOUN
 wa ADP
 kuwasilisha NOUN
 mswada NOUN
-
 wa ADJ
 kutokuwa NOUN
 na ADP
@@ -1217,6 +813,7 @@ mkesha ADJ
 wa ADJ
 krisimasi NOUN
 . PUNCT
+
 Kulingana SCONJ
 na SCONJ
 umoja NOUN
@@ -1228,7 +825,6 @@ la ADJ
 Boko PROPN
 Haram PROPN
 limeua VERB
-
 zaidi SCONJ
 ya SCONJ
 watu NOUN
@@ -1290,6 +886,7 @@ makwao NOUN
 kwa ADP
 hiari NOUN
 . PUNCT
+
 Msaada NOUN
 huo ADJ
 wa ADJ
@@ -1327,7 +924,6 @@ la ADJ
 Maendeleo NOUN
 ya ADJ
 Kimataifa ADJ
-
 , PUNCT
 USAID PROPN
 , PUNCT
@@ -1351,6 +947,7 @@ serikali NOUN
 ya ADJ
 Tanzania PROPN
 . PUNCT
+
 Mkurugenzi NOUN
 Msaidizi NOUN
 anayesimamia ADJ
@@ -1489,6 +1086,7 @@ kukimbilia NOUN
 Rwanda PROPN
 Jumamosi NOUN
 . PUNCT
+
 Vyanzo NOUN
 vya ADJ
 habari NOUN
@@ -1504,7 +1102,6 @@ DRC PROPN
 wamewasili VERB
 Rwanda PROPN
 , PUNCT
-
 vikinukuu VERB
 mamlaka NOUN
 za ADJ
@@ -1742,10 +1339,10 @@ misaada NOUN
 ya ADJ
 dharura NOUN
 . PUNCT
+
 Bunge NOUN
 la ADJ
 Israeli PROPN
-
 Jumapili NOUN
 linatarajiwa VERB
 kuidhinisha NOUN
@@ -1800,6 +1397,7 @@ zilipelekea VERB
 kutokamilika NOUN
 inavyotakiwa VERB
 . PUNCT
+
 Naftali PROPN
 Bennet PROPN
 mzalendo NOUN
@@ -1816,7 +1414,6 @@ makubaliano NOUN
 ya ADJ
 kushirikiana NOUN
 madaraka NOUN
-
 na CCONJ
 kiongozi NOUN
 mwenye ADJ
@@ -1861,6 +1458,7 @@ miaka NOUN
 mingine ADJ
 miwili ADJ
 . PUNCT
+
 Netanyahu PROPN
 , PUNCT
 aliyeshikilia VERB
@@ -1897,10 +1495,10 @@ kiongozi NOUN
 wa ADJ
 upinzani NOUN
 . PUNCT
+
 Chanzo NOUN
 cha ADJ
 Habari NOUN
-
 : PUNCT
 Reuters PROPN
 Waziri NOUN
@@ -1972,12 +1570,12 @@ ndege NOUN
 hiyo ADJ
 mwenyewe PRON
 . PUNCT
+
 Rusesabagina PROPN
 , PUNCT
 ambaye ADJ
 ni AUX
 mkosoaji NOUN
-
 maarufu ADJ
 wa ADJ
 rais NOUN
@@ -2043,6 +1641,7 @@ matatizo NOUN
 ya ADJ
 moyo NOUN
 . PUNCT
+
 Amesema VERB
 kwamba SCONJ
 maafisa NOUN
@@ -2053,7 +1652,6 @@ Ubelgiji PROPN
 na CCONJ
 Marekani PROPN
 wamemtembelea VERB
-
 gerezani ADV
 na CCONJ
 kwamba SCONJ
@@ -2106,6 +1704,7 @@ katika ADP
 mapigano NOUN
 hayo ADJ
 . PUNCT
+
 Palma PROPN
 ulitekwa VERB
 katika ADP
@@ -2129,7 +1728,6 @@ la ADJ
 Cabo PROPN
 Delgado PROPN
 kwa ADP
-
 zaidi SCONJ
 ya SCONJ
 miaka NOUN
@@ -2149,6 +1747,7 @@ kwenda ADP
 mjini NOUN
 Palma PROPN
 . PUNCT
+
 Kamanda NOUN
 Chongo PROPN
 Vidigal PROPN
@@ -2280,13 +1879,13 @@ ya ADJ
 dola NOUN
 unaendelezwa VERB
 . PUNCT
+
 Picha NOUN
 za ADJ
 video NOUN
 zilionyesha VERB
 wanajeshi NOUN
 wakifunua VERB
-
 maiti NOUN
 kutoka ADP
 kwenye ADP
@@ -2297,6 +1896,7 @@ katika ADP
 mitaa NOUN
 hiyo ADJ
 . PUNCT
+
 Picha NOUN
 nyingine ADJ
 zilionyesha VERB
@@ -2352,6 +1952,7 @@ Marekani PROPN
 walioko AUX
 Ujerumani PROPN
 . PUNCT
+
 Biden PROPN
 ameyasema VERB
 hayo PRON
@@ -2387,6 +1988,7 @@ kwenye ADP
 nafasi NOUN
 yake ADJ
 . PUNCT
+
 Miongoni SCONJ
 mwa SCONJ
 mengine PRON
@@ -2396,7 +1998,6 @@ kipaumbele NOUN
 chake ADJ
 ni AUX
 mapinduzi NOUN
-
 ya ADJ
 Burma PROPN
 , PUNCT
@@ -2444,6 +2045,7 @@ mapigano NOUN
 ya ADJ
 Yemen PROPN
 . PUNCT
+
 Hatua NOUN
 nyingi ADJ
 za ADJ
@@ -2790,6 +2392,7 @@ ofisini ADV
 ya PRON
 15,000 NUM
 . PUNCT
+
 Trump PROPN
 kabla ADP
 ya ADP
@@ -2802,6 +2405,7 @@ tena ADV
 hadi ADP
 15,000 NUM
 . PUNCT
+
 Biden PROPN
 pia SCONJ
 aliweka VERB
@@ -2819,6 +2423,7 @@ kuchezea NOUN
 Marekani PROPN
 zimekwisha VERB
 . PUNCT
+
 Ziara NOUN
 ya ADJ
 Biden PROPN
@@ -2852,7 +2457,6 @@ silaha NOUN
 za ADJ
 nyuklia NOUN
 ikiwa AUX
-
 imebaki VERB
 siku NOUN
 mbili ADJ
@@ -2861,6 +2465,7 @@ kabla ADP
 ya ADP
 kumalizika NOUN
 . PUNCT
+
 Imetayarishwa VERB
 na PART
 mwandishi NOUN
@@ -2873,6 +2478,7 @@ VOA PROPN
 Washington PROPN
 DC PROPN
 . PUNCT
+
 Rais NOUN
 wa ADJ
 Somaliland PROPN
@@ -2913,6 +2519,7 @@ Kenya PROPN
 na CCONJ
 Somalia PROPN
 . PUNCT
+
 Matamshi NOUN
 yake ADJ
 Rais NOUN
@@ -2935,7 +2542,6 @@ wanadiplomasia NOUN
 wa ADJ
 Kenya PROPN
 mjini NOUN
-
 Mogadishu PROPN
 baada ADP
 ya ADP
@@ -2991,6 +2597,7 @@ ya ADJ
 watu NOUN
 wake ADJ
 . PUNCT
+
 Abdi PROPN
 ameishutumu VERB
 Somalia PROPN
@@ -3008,6 +2615,7 @@ kwa ADP
 muda NOUN
 mrefu ADV
 . PUNCT
+
 Rais NOUN
 Abdi PROPN
 anasema VERB
@@ -3021,7 +2629,6 @@ ya SCONJ
 Somaliland PROPN
 na CCONJ
 Kenya PROPN
-
 . PUNCT
 
 Uhusiano NOUN
@@ -3181,6 +2788,7 @@ Nairobi PROPN
 na CCONJ
 Hargeisa PROPN
 , PUNCT
+
 kuimarisha NOUN
 sekta NOUN
 za ADJ
@@ -3211,7 +2819,6 @@ mbili ADJ
 , PUNCT
 miongoni SCONJ
 mwa SCONJ
-
 mambo NOUN
 mengine ADJ
 . PUNCT
@@ -4970,6 +4577,7 @@ hakutoa VERB
 maelezo NOUN
 zaidi ADJ
 . PUNCT
+
 Amesema VERB
 SADC PROPN
 itachukua VERB
@@ -5000,7 +4608,6 @@ vikosi NOUN
 visivyo ADJ
 kuwa AUX
 vya ADJ
-
 serikali NOUN
 ambavyo ADJ
 vinakandamiza VERB
@@ -5011,6 +4618,7 @@ ya ADJ
 eneo NOUN
 hili ADJ
 . PUNCT
+
 Lakini CCONJ
 Rais NOUN
 wa ADJ
@@ -5141,6 +4749,7 @@ nyingine ADJ
 za ADJ
 kimataifa ADJ
 . PUNCT
+
 Tayari ADV
 Total PROPN
 ilikuwa AUX
@@ -5151,7 +4760,6 @@ na CCONJ
 kuwaondoa NOUN
 baadhi SCONJ
 ya SCONJ
-
 wafanyakazi NOUN
 mwisho NOUN
 wa ADJ
@@ -5168,6 +4776,7 @@ katika ADP
 eneo NOUN
 lake ADJ
 . PUNCT
+
 Tume NOUN
 ya ADJ
 Mawasiliano NOUN
@@ -5203,6 +4812,7 @@ kufanyika NOUN
 nchini ADV
 humo ADJ
 . PUNCT
+
 Mkurugenzi NOUN
 mkuu ADJ
 wa ADJ
@@ -5224,7 +4834,6 @@ huduma NOUN
 ya ADJ
 mitandao NOUN
 ya ADJ
-
 kijamii ADJ
 imesitishwa VERB
 . PUNCT
@@ -5261,6 +4870,7 @@ Monitor PROPN
 la ADJ
 Uganda PROPN
 . PUNCT
+
 Mitandao NOUN
 mingine ADJ
 ni AUX
@@ -5272,6 +4882,7 @@ Whatsapp PROPN
 na CCONJ
 Signal PROPN
 . PUNCT
+
 Vyombo NOUN
 vya ADJ
 habari NOUN
@@ -5298,6 +4909,7 @@ App NOUN
 za ADJ
 mawasiliano NOUN
 . PUNCT
+
 Walinda NOUN
 amani NOUN
 watatu ADJ
@@ -5311,7 +4923,6 @@ wameuawa VERB
 na CCONJ
 wengine PRON
 wawili ADJ
-
 wamejeruhiwa VERB
 katika ADP
 kile PRON
@@ -5340,6 +4951,7 @@ uchaguzi NOUN
 mkuu ADJ
 Jumapili NOUN
 . PUNCT
+
 UN PROPN
 imesema VERB
 katika ADP
@@ -5378,6 +4990,7 @@ haikutoa VERB
 maelezo NOUN
 zaidi ADJ
 . PUNCT
+
 Msemaji NOUN
 wa ADJ
 Katibu NOUN
@@ -5391,7 +5004,6 @@ amesema VERB
 mashambulizi NOUN
 dhidi SCONJ
 ya SCONJ
-
 walinda NOUN
 amani NOUN
 wa ADJ
@@ -5471,6 +5083,7 @@ Afrika PROPN
 ya ADJ
 Kati NOUN
 . PUNCT
+
 Muungano NOUN
 wa ADJ
 Wazalendo NOUN
@@ -5509,12 +5122,12 @@ mkuu NOUN
 , PUNCT
 Bangui PROPN
 . PUNCT
+
 Wakati NOUN
 huo ADJ
 huo ADJ
 Faustin PROPN
 Archange PROPN
-
 Touaderarais PROPN
 wa ADJ
 nchi NOUN
@@ -5582,6 +5195,7 @@ pamoja NOUN
 cha ADJ
 Bunge NOUN
 . PUNCT
+
 Msemaji NOUN
 wa ADJ
 White NOUN
@@ -5590,7 +5204,6 @@ House NOUN
 Jen PROPN
 Psaki PROPN
 , PUNCT
-
 alisema VERB
 kabla ADP
 ya ADP
@@ -5699,6 +5312,7 @@ maslahi NOUN
 ya ADJ
 Marekani PROPN
 . PUNCT
+
 Wakati NOUN
 huo ADJ
 huo ADJ
@@ -5709,7 +5323,6 @@ Baraza NOUN
 la ADJ
 Wawakilishi NOUN
 Nancy PROPN
-
 Pelosi PROPN
 alimwalika VERB
 Biden PROPN
@@ -7031,6 +6644,7 @@ bilioni ADJ
 618 NUM
 Rais NOUN
 wa ADJ
+
 Marekani PROPN
 Joe PROPN
 Biden PROPN
@@ -7057,7 +6671,6 @@ kuinua NOUN
 uchumi NOUN
 wa ADJ
 nchi NOUN
-
 ulioharibika VERB
 kutokana SCONJ
 na SCONJ
@@ -8076,6 +7689,7 @@ Saudi ADV
 Arabia ADV
 Jumanne ADV
 . PUNCT
+
 Mfalme NOUN
 wa ADJ
 Saudi PROPN
@@ -8092,7 +7706,6 @@ Qatar PROPN
 sasa ADV
 anatarajiwa VERB
 kuhudhuria NOUN
-
 mkutano NOUN
 huo ADJ
 kwa ADP
@@ -10418,6 +10031,7 @@ kwa ADP
 sasa ADV
 imeimarishwa VERB
 , PUNCT
+
 Sirro PROPN
 bado ADV
 ametahadharisha VERB
@@ -10468,6 +10082,7 @@ Oktoba NOUN
 27 NUM
 na CCONJ
 28 NUM
+
 Tanzania PROPN
 bara NOUN
 na CCONJ
@@ -10475,7 +10090,6 @@ visiwani NOUN
 ambapo ADJ
 ameeleza VERB
 kushangazwa NOUN
-
 na ADP
 madai NOUN
 ya ADJ
@@ -11637,6 +11251,7 @@ ni AUX
 Mdogo NOUN
 wangu ADJ
 . PUNCT
+
 Hussein PROPN
 Mwinyi PROPN
 ni AUX
@@ -11663,7 +11278,6 @@ yake ADJ
 kamshukuru VERB
 Mkapa PROPN
 , PUNCT
-
 akamshukuru VERB
 Kikwete PROPN
 kisha ADV
@@ -11806,6 +11420,7 @@ wa ADJ
 White PROPN
 House PROPN
 , PUNCT
+
 Jen PROPN
 Psaki PROPN
 alisema VERB
@@ -11874,7 +11489,6 @@ la ADJ
 makaazi NOUN
 lenye ADJ
 ghorofa NOUN
-
 12 NUM
 . PUNCT
 
@@ -14296,6 +13910,7 @@ mkuu ADJ
 wa ADJ
 Pentagon PROPN
 , PUNCT
+
 Jonathan PROPN
 Hoffman PROPN
 amewaambia VERB
@@ -14350,6 +13965,7 @@ Marekani PROPN
 Joe PROPN
 Biden PROPN
 , PUNCT
+
 wanasema VERB
 wameondoa VERB
 walinzi NOUN
@@ -14358,7 +13974,6 @@ katika ADP
 kikosi NOUN
 hicho ADJ
 ikiwa AUX
-
 miongoni SCONJ
 mwa SCONJ
 hatua NOUN
@@ -14783,6 +14398,7 @@ za ADJ
 kuchapa NOUN
 kazi NOUN
 , PUNCT
+
 kupiga NOUN
 vita NOUN
 rushwa NOUN
@@ -14830,7 +14446,6 @@ wa ADJ
 wilaya NOUN
 hiyo ADJ
 wamezungumzia VERB
-
 walivyoguswa VERB
 na PART
 kifo NOUN
@@ -15128,6 +14743,7 @@ hati NOUN
 zenye ADJ
 mashaka NOUN
 , PUNCT
+
 kutokana SCONJ
 na SCONJ
 ukaguzi NOUN
@@ -15176,7 +14792,6 @@ la ADJ
 Uzalishaji NOUN
 Mali NOUN
 la ADJ
-
 Magereza NOUN
 , PUNCT
 Wakala NOUN
@@ -15186,6 +14801,7 @@ Barabara NOUN
 TARURA PROPN
 ) PUNCT
 , PUNCT
+
 Wizara NOUN
 ya ADJ
 Afya NOUN
@@ -15306,6 +14922,7 @@ kikatiba ADJ
 Shura PROPN
 Kitata PROPN
 wa ADJ
+
 Ethiopia PROPN
 achukua VERB
 ushindi NOUN
@@ -15350,7 +14967,6 @@ mbio NOUN
 hizo ADJ
 na CCONJ
 kujikuta NOUN
-
 akimaliza VERB
 katika ADP
 nafasi NOUN
@@ -16056,6 +15672,7 @@ kati ADP
 ya SCONJ
 wengine PRON
 . PUNCT
+
 Kenya PROPN
 ilipata VERB
 uhuru NOUN
@@ -16065,7 +15682,6 @@ Uingereza PROPN
 Tarehe NOUN
 12 NUM
 Desemba NOUN
-
 1963 NUM
 , PUNCT
 na CCONJ
@@ -16117,8 +15733,8 @@ Waafrika NOUN
 ilikuwa AUX
 takriban ADV
 8,366,000 NUM
-
 . PUNCT
+
 Wakenya NOUN
 walianza VERB
 safari NOUN
@@ -16141,6 +15757,7 @@ la ADJ
 Mau PROPN
 Mau PROPN
 , PUNCT
+
 vuguvugu NOUN
 la ADJ
 wanamgambo NOUN
@@ -16195,10 +15812,10 @@ na CCONJ
 kuwaua NOUN
 baadhi SCONJ
 ya SCONJ
-
 Wakenya NOUN
 hao ADJ
 . PUNCT
+
 Mwaka NOUN
 1952 NUM
 , PUNCT
@@ -16279,6 +15896,7 @@ mwaka ADV
 wa ADJ
 1964 NUM
 . PUNCT
+
 Viongozi NOUN
 wa ADJ
 chama NOUN
@@ -16289,7 +15907,6 @@ cha ADJ
 ACT PROPN
 - PUNCT
 Wazalendo NOUN
-
 wanasema VERB
 wamejiunga VERB
 na ADP
@@ -16308,6 +15925,7 @@ za ADJ
 visiwa NOUN
 hivyo ADJ
 . PUNCT
+
 Mwenyekiti NOUN
 Maalim NOUN
 Seif PROPN
@@ -16338,6 +15956,7 @@ siku NOUN
 ya ADJ
 Jumanne NOUN
 . PUNCT
+
 Chama NOUN
 hicho ADJ
 kipya ADJ
@@ -16364,13 +15983,13 @@ uchaguzi NOUN
 wa ADJ
 Rais NOUN
 . PUNCT
+
 Hii ADJ
 ni AUX
 mara NOUN
 ya ADJ
 pili ADJ
 kwa ADP
-
 Sharif PROPN
 Hamad PROPN
 kuchukua NOUN
@@ -16501,6 +16120,7 @@ hakitashiriki VERB
 kwenye ADP
 serikali NOUN
 . PUNCT
+
 Mchambuzi NOUN
 wa ADJ
 masuala NOUN
@@ -16556,7 +16176,6 @@ kushiriki NOUN
 katika ADP
 maamuzi NOUN
 na CCONJ
-
 uwongozi NOUN
 . PUNCT
 
@@ -16658,6 +16277,7 @@ kusini ADP
 mwa ADP
 Afrika PROPN
 . PUNCT
+
 Tangazo NOUN
 la ADJ
 kuuzwa NOUN
@@ -16701,6 +16321,7 @@ sababu NOUN
 za ADJ
 kimazingira ADJ
 . PUNCT
+
 Wizara NOUN
 ya ADJ
 mazingira NOUN
@@ -16708,7 +16329,6 @@ mazingira NOUN
 misitu NOUN
 na CCONJ
 utalii NOUN
-
 imesema VERB
 kwamba SCONJ
 itauza VERB
@@ -16768,6 +16388,7 @@ hao ADJ
 nchini ADV
 mwao ADV
 . PUNCT
+
 Idadi NOUN
 ya ADJ
 ndovu NOUN
@@ -16786,8 +16407,8 @@ hadi ADP
 mwaka NOUN
 2019 NUM
 . PUNCT
-Umoja NOUN
 
+Umoja NOUN
 wa ADJ
 Ulaya PROPN
 , PUNCT
@@ -16822,6 +16443,7 @@ mkuu ADJ
 kote ADJ
 nchini ADV
 . PUNCT
+
 Matukio NOUN
 hayo ADJ
 ambayo ADJ
@@ -16855,6 +16477,7 @@ iliyofikiwa VERB
 bila SCONJ
 kutekelezwa NOUN
 . PUNCT
+
 Baraza NOUN
 la ADJ
 Ushirikiano NOUN
@@ -16863,7 +16486,6 @@ nchi NOUN
 za ADJ
 Ghuba PROPN
 GCC PROPN
-
 limepongeza VERB
 pia SCONJ
 tangazo NOUN
@@ -16883,6 +16505,7 @@ muelewano NOUN
 wa ADJ
 kudumu ADJ
 . PUNCT
+
 Mkuu NOUN
 wa ADP
 masuala NOUN
@@ -16938,6 +16561,7 @@ amani NOUN
 na CCONJ
 kisiasa ADJ
 . PUNCT
+
 Mwanadiplomasia NOUN
 huyo ADJ
 alihimiza VERB
@@ -16960,6 +16584,7 @@ utaratibu NOUN
 wa ADJ
 kisiasa ADJ
 . PUNCT
+
 Libya PROPN
 imekua VERB
 katika ADP
@@ -16977,11 +16602,11 @@ kiongozi NOUN
 wa ADJ
 muda ADV
 mrefu ADJ
-
 Moammar PROPN
 Ghadafi PROPN
 2011 NUM
 . PUNCT
+
 Vitendo NOUN
 viovu ADJ
 vya ADJ
@@ -17106,6 +16731,7 @@ kama ADP
 rais NOUN
 anayefuatia VERB
 . PUNCT
+
 Kama SCONJ
 ilivyo VERB
 sehemu NOUN
@@ -17125,7 +16751,6 @@ wa ADJ
 Januari NOUN
 6 NUM
 , PUNCT
-
 uliowaacha VERB
 watu NOUN
 watano ADJ
@@ -17136,6 +16761,7 @@ afisa NOUN
 wa ADJ
 polisi NOUN
 . PUNCT
+
 Baadhi NOUN
 walifananisha VERB
 na ADP
@@ -17147,6 +16773,7 @@ nchi NOUN
 ambazo ADJ
 wametoka VERB
 . PUNCT
+
 Walizungumzia VERB
 mpasuko NOUN
 wa ADJ
@@ -17201,7 +16828,6 @@ ya ADJ
 kuapishwa NOUN
 Biden PROPN
 Jumatano ADV
-
 . PUNCT
 
 Hata SCONJ
@@ -18364,12 +17990,12 @@ washirikiane VERB
 kuendeleza NOUN
 demokrasia NOUN
 . PUNCT
+
 Warepublikan NOUN
 na CCONJ
 Wademokrat NOUN
 lazima AUX
 wafanye VERB
-
 kazi NOUN
 kwa ADP
 pamoja NOUN

@@ -404,6 +404,7 @@ nɛ́ ADJ
 sín ADP
 dòmɛ̀ NOUN
 . PUNCT
+
 Yemɛ PRON
 è PRON
 wá VERB
@@ -418,7 +419,6 @@ hɛ́n VERB
 ɔ́ DET
 ná VERB
 hɛ̀n VERB
-
 nukɔn-yìyì NOUN
 sín ADP
 hlɔ́nhlɔ́n NOUN
@@ -1037,6 +1037,7 @@ axì NOUN
 mɛ̀ ADP
 é ADP
 . PUNCT
+
 " PUNCT
 Ɖò ADP
 nǔwíwá NOUN
@@ -1061,7 +1062,6 @@ atɔ̀ngɔ́ɔ ADJ
 tɔ̀n ADJ
 ɔ́ DET
 ɖò AUX
-
 fí-nɛ́ ADV
 " PUNCT
 gbɛ̌kplékplé NOUN
@@ -2434,6 +2434,7 @@ W PROPN
 kpán CCONJ
 mɛ ADP
 . PUNCT
+
 " PUNCT
 mɔ VERB
 è PRON
@@ -2461,9 +2462,9 @@ wíwá NOUN
 kpán CCONJ
 kanlin NOUN
 lɛ́ɛ DET
-
 tɔ̀n ADJ
 " PUNCT
+
 lóbó CCONJ
 ká ADV
 ná VERB
@@ -3180,6 +3181,7 @@ xwè NOUN
 tɔn ADJ
 gbè NOUN
 . PUNCT
+
 Bó ADP
 ná VERB
 dó VERB
@@ -3210,7 +3212,6 @@ wǒsùn NOUN
 tɔn ADJ
 ɔ́ DET
 ɖokpóo ADV
-
 . PUNCT
 
 Ɖò ADP
@@ -3604,6 +3605,7 @@ tò NOUN
 - PUNCT
 mɛ̀ ADP
 . PUNCT
+
 ( PUNCT
 José PROPN
 Didier PROPN
@@ -3622,13 +3624,13 @@ kpénúkún VERB
 dó ADP
 ayǐ NOUN
 ná VERB
-
 nɔ̀ VERB
 ganjí ADV
 wú ADP
 é PART
 ) PUNCT
 . PUNCT
+
 Nú ADP
 gǎn NOUN
 - PUNCT
@@ -3886,6 +3888,7 @@ ayizɛ́n NOUN
 mɛ̀ ADP
 din ADV
 : PUNCT
+
 Bɔ́ɔgú PROPN
 ( PUNCT
 Pɛlɛlɛ PROPN
@@ -3942,7 +3945,6 @@ Kpódjí PROPN
 Agěgé PROPN
 " PUNCT
 Ajòhùn PROPN
-
 " PUNCT
 Bònù PROPN
 ) PUNCT
@@ -4301,6 +4303,7 @@ xwè NOUN
 mɛ̀ ADP
 ó ADP
 . PUNCT
+
 Ɖó ADP
 azɔnkwín NOUN
 kolonâ PROPN
@@ -4320,7 +4323,6 @@ níí PART
 FBF PROPN
 " PUNCT
 ɔ́ DET
-
 gbɛ́ VERB
 ɖò ADP
 xwèjísùn PROPN
@@ -4438,6 +4440,7 @@ Benɛ PROPN
 é PRON
 gblamɛ ADP
 ; PUNCT
+
 ɖò ADP
 ɖɔ̀ NOUN
 - PUNCT
@@ -4470,7 +4473,6 @@ mɛ PRON
 21 NUM
 ( PUNCT
 ko ADV
-
 núkún NOUN
 ɖokpó NUM
 ) PUNCT
@@ -4878,6 +4880,7 @@ azɔxwé NOUN
 nɛ́ ADJ
 ɔ́ DET
 nù ADP
+
 ; PUNCT
 é PRON
 ká ADV
@@ -5116,6 +5119,7 @@ lɛ́ɛ DET
 mɛ̀ ADP
 ǎ PART
 ; PUNCT
+
 è PRON
 ká ADV
 síxú VERB
@@ -5138,6 +5142,7 @@ tògán NOUN
 ɔ́ DET
 ǎ PART
 ; PUNCT
+
 bɛ́ CCONJ
 ká ADV
 ná VERB
@@ -5156,7 +5161,6 @@ nǔ NOUN
 víví VERB
 nú ADP
 gǎn NOUN
-
 - PUNCT
 hɔn VERB
 - PUNCT
@@ -5981,6 +5985,7 @@ azɔnkwín NOUN
 cɔ́ CCONJ
 ganjí ADV
 : PUNCT
+
 azɔnkwín NOUN
 ɔ́ DET
 gbéjé VERB
@@ -6012,7 +6017,6 @@ wɛ̀ SCONJ
 Benjamin PROPN
 Hùnkpátín PROPN
 ɖɔ̀ SCONJ
-
 . PUNCT
 
 Bɛsín NOUN
@@ -6223,6 +6227,7 @@ nɛ́ ADJ
 mɛ̀ ADP
 ǎ PART
 . PUNCT
+
 Ɖi ADP
 xwè NOUN
 2020 NUM
@@ -6231,7 +6236,6 @@ xwè NOUN
 " PUNCT
 Acɛkpìkpà NOUN
 sɔ́ VERB
-
 nǔ NOUN
 è PRON
 ná VERB
@@ -6369,6 +6373,7 @@ lɛ́ɛ DET
 tɔn ADJ
 è PRON
 kpán CCONJ
+
 " PUNCT
 mɔkàn NOUN
 cícá NOUN
@@ -6387,7 +6392,6 @@ gbɔn ADP
 mɔkàn NOUN
 jí ADP
 ée PRON
-
 ná VERB
 nɔ́ VERB
 kplɔn VERB
@@ -6544,6 +6548,7 @@ gbɔn ADP
 mɔkàn NOUN
 gblamɛ ADP
 " PUNCT
+
 ajɔ̌ NOUN
 wà VERB
 gbɔn ADP
@@ -6558,7 +6563,6 @@ kpáa ADJ
 " PUNCT
 mɔkàn NOUN
 nǔwíwá NOUN
-
 lɛ́ɛ DET
 zinzan ADV
 dó VERB
@@ -7251,6 +7255,7 @@ jà DET
 lɛ́ɛ DET
 ɖye DET
 : PUNCT
+
 Agapit PROPN
 Napoléon PROPN
 Maforikan PROPN
@@ -7279,6 +7284,7 @@ sɔ́mì NOUN
 lí ADP
 xò VERB
 ; PUNCT
+
 Joel PROPN
 Atayi PROPN
 Gɛdɛgbě PROPN
@@ -7297,12 +7303,12 @@ lɛ́ DET
 nyí AUX
 ahwanjɛ NOUN
 tòví NOUN
-
 lɛ́ɛ DET
 jí ADP
 tɔ́ ADJ
 ɖokpó NUM
 . PUNCT
+
 Adonis PROPN
 Bowun PROPN
 " PUNCT
@@ -7494,6 +7500,7 @@ xwè NOUN
 gbè NOUN
 é PART
 " PUNCT
+
 bɔ̀ CCONJ
 ɖò VERB
 acɛkpìkpà NOUN
@@ -7511,7 +7518,6 @@ tɔn ADJ
 ɖò VERB
 azǎn NOUN
 nukɔntɔn ADJ
-
 avùvɔ̀sùn PROPN
 ɔ́ DET
 tɔn ADJ
@@ -7630,6 +7636,7 @@ xwè NOUN
 tɔn ADJ
 gbè NOUN
 " PUNCT
+
 bó ADP
 ké VERB
 ɖɔ̀ VERB
@@ -7659,7 +7666,6 @@ gbè NOUN
 ɔ́ DET
 " PUNCT
 ajaka NOUN
-
 ní ADP
 dɔn VERB
 sí ADP
@@ -10173,6 +10179,7 @@ gbà VERB
 è PRON
 wú ADP
 ; PUNCT
+
 xó NOUN
 è PRON
 flá VERB
@@ -10188,6 +10195,7 @@ din ADV
 é ADP
 nɛ́ ADJ
 . PUNCT
+
 Gbɔn ADP
 xó NOUN
 è PRON
@@ -10226,7 +10234,6 @@ hwenu NOUN
 è PRON
 ná VERB
 dó VERB
-
 gbá VERB
 xwé NOUN
 nɛ́ ADJ
@@ -10611,6 +10618,7 @@ mɛ PRON
 gege ADV
 tɔn ADJ
 . PUNCT
+
 Tɛ́nkpɔ́n NOUN
 nɛ́ ADJ
 ɔ́ DET
@@ -10624,7 +10632,6 @@ afatɔ́ɔ́n NUM
 afowe NUM
 kantɔn NUM
 ko ADV
-
 ) PUNCT
 ée PRON
 è PRON
@@ -10651,6 +10658,7 @@ mɔ VERB
 ɔ́ DET
 ǎ PART
 ; PUNCT
+
 è PRON
 ná VERB
 ɖɔ̀ VERB
@@ -11056,6 +11064,7 @@ azɔwatɔ́ NOUN
 ée PRON
 ɖu VERB
 tutomɛ NOUN
+
 ( PUNCT
 sùnzán NOUN
 fó VERB
@@ -11077,7 +11086,6 @@ kpán CCONJ
 sín ADP
 lè ADV
 é PART
-
 . PUNCT
 
 Ɖě ADP
@@ -11344,6 +11352,7 @@ mɛ̀ ADP
 lɛ́ɛ DET
 é PART
 " PUNCT
+
 mɛ NOUN
 è PRON
 nyí AUX
@@ -11370,7 +11379,6 @@ gbɛta NOUN
 ɔ́ DET
 mɛ̀ ADP
 ɖò ADP
-
 tò NOUN
 gudo ADV
 lɛ́ɛ DET
@@ -11567,6 +11575,7 @@ FCBE PROPN
 ɔ́ DET
 tɔn ADJ
 ; PUNCT
+
 é PRON
 ká ADV
 hɔn VERB
@@ -11595,7 +11604,6 @@ gbɛ NOUN
 légbè ADJ
 lègbè NOUN
 mɛ̀ ADP
-
 é PART
 . PUNCT
 
@@ -11869,6 +11877,7 @@ wá VERB
 yì VERB
 é PART
 . PUNCT
+
 Ɖò ADP
 azǎn NOUN
 afɔtɔn NUM
@@ -11893,7 +11902,6 @@ Benɛ PROPN
 " PUNCT
 acɛkpìkpà NOUN
 ɔ́ DET
-
 ká ADV
 ko ADV
 lá VERB
@@ -13611,6 +13619,7 @@ tɔn ADJ
 lɛ́ɛ DET
 é PART
 : PUNCT
+
 ée PRON
 ɖò VERB
 Agbomɛ NOUN
@@ -13650,7 +13659,6 @@ kpán CCONJ
 lí NOUN
 nù ADP
 ɖò ADP
-
 tò NOUN
 ɔ́ DET
 mɛ̀ ADP
@@ -13709,6 +13717,7 @@ jí ADP
 ná VERB
 é PART
 " PUNCT
+
 bó ADP
 ná VERB
 wá VERB
@@ -13724,7 +13733,6 @@ nŭlɛ́n NOUN
 kɛ́n NOUN
 yetɔn ADJ
 kpódó CCONJ
-
 xwè NOUN
 è PRON
 gbè NOUN
@@ -13764,6 +13772,7 @@ gbɔn ADP
 mɔli NOUN
 jí ADP
 " PUNCT
+
 è PRON
 ná VERB
 bó VERB
@@ -13795,7 +13804,6 @@ sɔ́ VERB
 tîin VERB
 ǎ PART
 é PART
-
 ɔ́ DET
 . PUNCT
 
@@ -14884,6 +14892,7 @@ tɛnmɛ ADJ
 lɛ́ɛ DET
 kpán CCONJ
 ) PUNCT
+
 " PUNCT
 è PRON
 ná VERB
@@ -14894,7 +14903,6 @@ sɔxa VERB
 è PRON
 ɖò VERB
 fínɛ́ NOUN
-
 ɔ́ DET
 wú ADP
 ǎ PART
@@ -15395,8 +15403,8 @@ lɛ́ɛ DET
 sín ADP
 dòmɛ̀ NOUN
 . PUNCT
-Ɖò ADP
 
+Ɖò ADP
 nǔwíwá NOUN
 lɛ́ɛ DET
 sín ADP
@@ -15566,11 +15574,11 @@ xwè NOUN
 tɔn ADJ
 mɛ ADP
 . PUNCT
+
 Nyǐkɔ́ NOUN
 nɛ́ ADJ
 lɛ́ɛ DET
 ɔ́ DET
-
 è PRON
 sɔ́ VERB
 jó ADP
@@ -16518,6 +16526,7 @@ bló VERB
 é PART
 " PUNCT
 " PUNCT
+
 Véronique PROPN
 Tɔ́nyífɔɖé PROPN
 Mɛwǎnǔ PROPN
@@ -16528,7 +16537,6 @@ hɔn NOUN
 - PUNCT
 yì VERB
 - PUNCT
-
 tɔ́ ADJ
 ée PRON
 nɔ́ AUX
@@ -16809,6 +16817,7 @@ xlɛ́ ADV
 gbɛ NOUN
 ɔ́ DET
 " PUNCT
+
 é PRON
 ná VERB
 xlɛ́ VERB
@@ -16820,7 +16829,6 @@ tamɛ NOUN
 lin ADV
 bó ADP
 sɔ́ VERB
-
 nǔ NOUN
 yaɖé ADJ
 yaɖé ADJ
@@ -17575,6 +17583,7 @@ má AUX
 yí VERB
 ǎ PART
 ; PUNCT
+
 ényí SCONJ
 mɛ́ ADP
 ɔ́ DET
@@ -17601,7 +17610,6 @@ mɛ̀ ADP
 " PUNCT
 mì PRON
 ná VERB
-
 syɛ́n VERB
 núkún NOUN
 bó ADP
@@ -18015,6 +18023,7 @@ kpán CCONJ
 tɛntin ADJ
 é PART
 " PUNCT
+
 bó CCONJ
 lɛ́ DET
 ɖɔ̀xó VERB
@@ -18043,7 +18052,6 @@ dó ADP
 Benɛ PROPN
 wɛ̀ ADP
 lɛ́ɛ DET
-
 é PART
 wú ADP
 . PUNCT
@@ -18435,6 +18443,7 @@ gbɛ́ NOUN
 tɔn ADJ
 lɛ́ɛ DET
 " PUNCT
+
 gǎn NOUN
 - PUNCT
 hɔn VERB
@@ -18454,7 +18463,6 @@ azɔ̌ NOUN
 tògán NOUN
 gbásá NOUN
 xɛ́ɛ ADV
-
 lɛ́ɛ DET
 é PART
 lɔ́ɔ ADV
@@ -19321,6 +19329,7 @@ mɛ̀ ADP
 ɔ́ DET
 ǎ PART
 . PUNCT
+
 Mɔ̌ NOUN
 wú ADP
 wɛ̀ ADP
@@ -19347,6 +19356,7 @@ afɔ NUM
 kpowun ADV
 wɛ̀ ADP
 ; PUNCT
+
 è PRON
 ná VERB
 bló VERB
@@ -19360,6 +19370,7 @@ Kplé NOUN
 ɖě DET
 ǎ PART
 : PUNCT
+
 sɔ́jà NOUN
 lɛ́ɛ DET
 sín ADP
@@ -19367,7 +19378,6 @@ zɔnlin NOUN
 zunzun NOUN
 kpódó CCONJ
 xwè NOUN
-
 gannyǐ ADV
 gannyǐ ADV
 kpán CCONJ
@@ -19512,6 +19522,7 @@ tɔn ADJ
 mɛ̀ ADP
 é PART
 ; PUNCT
+
 gàn NOUN
 xixo NOUN
 yɔywɛ VERB
@@ -19530,7 +19541,6 @@ dó ADP
 tokpɔnla NOUN
 wǒ NUM
 ée PRON
-
 ɖò VERB
 tofɔligbé NOUN
 Benɛ PROPN
@@ -20443,48 +20453,5 @@ ná VERB
 bló VERB
 xwè NOUN
 ayizɛn NOUN
-. PUNCT
-
-Nǔ NOUN
-voɖemɛ ADJ
-wɛ̀ SCONJ
-bɔ̀ CCONJ
-sɛ́n VERB
-dódó ADP
-abɔxwísùn PROPN
-xwè NOUN
-2019ɔ́ NUM
-tɔn ADJ
-è PRON
-è PRON
-huzu VERB
-adà NOUN
-ná VERB
-é PRON
-sɔ́ VERB
-nyìtè VERB
-nú ADP
-gǎn NOUN
-ɖùɖù ADJ
-xwè NOUN
-lɛ́ɛ DET
-bǐ ADJ
-ná VERB
-tò NOUN
-cɛɖɛɖɛ ADV
-lóbónú CCONJ
-è PRON
-ná VERB
-bló VERB
-sɔ́mì NOUN
-sɔ́mì NOUN
-lɛ́ɛ DET
-bǐ ADJ
-dó VERB
-kpɔ́ VERB
-bɛsín VERB
-xwè NOUN
-2026ɔ́ NUM
-mɛ̀ ADP
 . PUNCT
 

@@ -2741,6 +2741,7 @@ ibiri PRON
 2 NUM
 ) PUNCT
 , PUNCT
+
 ihazabu NOUN
 y PRON
 ' PUNCT
@@ -2774,7 +2775,6 @@ ebyiri PRON
 000 NUM
 FRW SYM
 ) PUNCT
-
 , PUNCT
 imirimo NOUN
 y PRON
@@ -3425,6 +3425,7 @@ iyo PRON
 mitwe NOUN
 bishoboke VERB
 ; PUNCT
+
 [ PUNCT
 . PUNCT
 . PUNCT
@@ -3456,7 +3457,6 @@ ibizakorwa VERB
 mu ADP
 kurwanya VERB
 iyo PRON
-
 mitwe NOUN
 ; PUNCT
 n CCONJ
@@ -13210,9 +13210,9 @@ ku ADP
 bijyanye VERB
 n CCONJ
 ' PUNCT
+
 imideli NOUN
 aribwo ADV
-
 natangiye VERB
 kwiyigisha VERB
 bimviramo VERB
@@ -16956,6 +16956,7 @@ gusubira VERB
 mu ADP
 Budage PROPN
 , PUNCT
+
 agarutse VERB
 mu ADP
 Rwanda PROPN
@@ -16989,7 +16990,6 @@ kwa PRON
 Richard PROPN
 Kandt PROPN
 . PUNCT
-
 """" PUNCT
 
 Iyi PRON

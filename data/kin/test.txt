@@ -5475,13 +5475,13 @@ Abanyarwanda NOUN
 mu ADP
 Buholandi PROPN
 , PUNCT
+
 hari VERB
 kandi CCONJ
 na CCONJ
 Sado PROPN
 Mubyeyi PROPN
 watanze VERB
-
 ikiganiro NOUN
 ku ADP
 bumenyi NOUN
@@ -13089,6 +13089,7 @@ RWAMREC PROPN
 Rutayisire PROPN
 Fidèle PROPN
 ; PUNCT
+
 Ngeruka PROPN
 Fabiola PROPN
 ukorera VERB
@@ -13099,7 +13100,6 @@ Mali PROPN
 Agnès PROPN
 Ammeux PROPN
 ukorera VERB
-
 Enabel PROPN
 muri ADP
 Guinée PROPN
@@ -15406,6 +15406,7 @@ mu ADP
 gutegura VERB
 Jenoside NOUN
 , PUNCT
+
 nka PRON
 bimwe PRON
 mu ADP
@@ -15421,7 +15422,6 @@ wo PRON
 kumurika VERB
 mu ADP
 buryo NOUN
-
 bw PRON
 ' PUNCT
 ikoranabuhanga NOUN
@@ -17551,6 +17551,7 @@ ni VERB
 yo PRON
 bafite VERB
 , PUNCT
+
 na CCONJ
 ho PRON
 mu ADP
@@ -17573,7 +17574,6 @@ ibihumbi NOUN
 buri PRON
 munsi NOUN
 mu ADP
-
 ntangiriro NOUN
 za PRON
 2021 NUM

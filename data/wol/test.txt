@@ -356,6 +356,7 @@ mi DET
 UA PROPN
 ) PUNCT
 , PUNCT
+
 mujjantalu NOUN
 yëngu NOUN
 - NOUN
@@ -385,7 +386,6 @@ ak CCONJ
 Macron PROPN
 ñooy AUX
 ay DET
-
 màndargaay NOUN
 naaxsaayu NOUN
 demlante NOUN
@@ -2016,6 +2016,7 @@ gi NOUN
 yaram NOUN
 wér NOUN
 , PUNCT
+
 te CCONJ
 sax ADV
 yenn PRON
@@ -2034,7 +2035,6 @@ mbooloo NOUN
 mi DET
 mën VERB
 a PART
-
 def VERB
 ngir ADP
 ëlbati VERB
@@ -4076,6 +4076,7 @@ mee NOUN
 atum NOUN
 2016 NUM
 , PUNCT
+
 cib ADP
 xaalis NOUN
 bu PRON
@@ -4101,7 +4102,6 @@ ak CCONJ
 juróom-ñeenti NUM
 téeméer NUM
 ak CCONJ
-
 juróom-ñaar-fukk NUM
 ak CCONJ
 ñeent NUM
@@ -4274,6 +4274,7 @@ milyaar NOUN
 2.964 NUM
 ) PUNCT
 , PUNCT
+
 te CCONJ
 mu PRON
 génne VERB
@@ -4304,13 +4305,13 @@ juróomi NUM
 milyaar NUM
 ( PUNCT
 3.398 NUM
-
 ) PUNCT
 ci ADP
 Seefaa PROPN
 ngir ADP
 LFR1 PROPN
 , PUNCT
+
 naal NOUN
 bi PRON
 fi ADV
@@ -4505,6 +4506,7 @@ déglu VERB
 yoon NOUN
 ) PUNCT
 , PUNCT
+
 Sang PROPN
 bi DET
 Maysa PROPN
@@ -4534,6 +4536,7 @@ ndawal NOUN
 jubóole NOUN
 gi DET
 , PUNCT
+
 waaye CCONJ
 wax NOUN
 jooju DET
@@ -4558,7 +4561,6 @@ Sulet NOUN
 atum NOUN
 1977 NUM
 wéddi VERB
-
 na AUX
 ko PRON
 , PUNCT
@@ -4980,11 +4982,11 @@ xëyu NOUN
 ndaw NOUN
 ñi DET
 , PUNCT
+
 ak CCONJ
 ay DET
 xeex NOUN
 yu PRON
-
 jëm VERB
 ci ADP
 mbënd NOUN
@@ -6032,6 +6034,7 @@ jàmbur NOUN
 la PRON
 jëfandikoo VERB
 . PUNCT
+
 Waaye CCONJ
 bi PRON
 ci ADP
@@ -6066,7 +6069,6 @@ te CCONJ
 moom PRON
 moo AUX
 jiite VERB
-
 kuréeli NOUN
 xelal NOUN
 yii DET
@@ -10287,8 +10289,8 @@ lu PRON
 yenuwul VERB
 maanaa ADV
 ! PUNCT
-Nguurug NOUN
 
+Nguurug NOUN
 njiitu NOUN
 réew NOUN
 mi DET
@@ -10586,6 +10588,7 @@ ci ADP
 at NOUN
 mi DET
 , PUNCT
+
 téeméeri NUM
 milyaar NUM
 ak CCONJ
@@ -10621,7 +10624,6 @@ FCFA PROPN
 ndimbal NOUN
 yi PRON
 ñu PRON
-
 yokk VERB
 ci ADP
 koppar NOUN
@@ -10633,6 +10635,7 @@ ci ADP
 at NOUN
 mi DET
 , PUNCT
+
 ñaari NUM
 téeméer NUM
 milyaar NUM
@@ -10659,6 +10662,7 @@ mën VERB
 a PART
 dox VERB
 , PUNCT
+
 tollu VERB
 na AUX
 ci ADP
@@ -10682,6 +10686,7 @@ FCFA PROPN
 ( PUNCT
 wér-gu-yaram NOUN
 , PUNCT
+
 juróom-ñaar-fukk NUM
 ak CCONJ
 juróom-ñetti NUM
@@ -10689,7 +10694,6 @@ milyaar NUM
 ak CCONJ
 juróom NUM
 ñaari NUM
-
 téeméeri NUM
 milyoŋ NUM
 ci ADP
@@ -10727,6 +10731,7 @@ ndëgërlaayu NOUN
 koom-koom NOUN
 li DET
 , PUNCT
+
 juróom-ñaari NUM
 téeméeri NUM
 milyaar NUM
@@ -10752,7 +10757,6 @@ milyaar NUM
 ak CCONJ
 juróom-ñaar NUM
 ak CCONJ
-
 juróom-benn-téeméeri NUM
 milyoŋ NUM
 ( PUNCT
@@ -10923,6 +10927,7 @@ tiyinu NOUN
 Bànk PROPN
 Monjaal PROPN
 , PUNCT
+
 dinañu AUX
 xaatim VERB
 ab DET
@@ -10952,7 +10957,6 @@ ci ADP
 xaalisu NOUN
 dolaar NOUN
 ( PUNCT
-
 134.000.000 NUM
 ) PUNCT
 , PUNCT
@@ -13639,6 +13643,7 @@ njëkk VERB
 a PART
 farataal VERB
 : PUNCT
+
 tolluwaayu NOUN
 yelleef NOUN
 yi DET
@@ -13697,10 +13702,10 @@ wa DET
 jaare VERB
 ko PRON
 ci ADP
-
 ab DET
 nattukaay NOUN
 ; PUNCT
+
 dogal VERB
 loolu PRON
 ci ADP
@@ -17897,5 +17902,107 @@ jaaxal VERB
 dunguruy NOUN
 nguur NOUN
 gi DET
+. PUNCT
+
+Ñépp PRON
+tee VERB
+woon AUX
+nañu AUX
+ci ADP
+waxtuw NOUN
+ndékki NOUN
+li DET
+ci ADP
+talaata NOUN
+jii DET
+ca ADP
+otel NOUN
+bu PRON
+Rhino PROPN
+Resort PROPN
+, PUNCT
+nekk VERB
+fa ADV
+nga PRON
+xam VERB
+ne SCONJ
+foofu ADV
+la AUX
+ñu PRON
+war VERB
+a PART
+tàmbalee VERB
+seenug DET
+tàggatu NOUN
+ngir ADP
+waaj VERB
+seen DET
+dajeek NOUN
+Madacascar PROPN
+gaawu NOUN
+ak CCONJ
+Mali PROPN
+talaata NOUN
+ja PRON
+ca ADP
+topp VERB
+. PUNCT
+
+Daray ADV
+Ljunberg PROPN
+feeñu VERB
+fi ADV
+wala CCONJ
+feeñagul VERB
+ci ADP
+ndoorteem NOUN
+. PUNCT
+
+Lay NOUN
+wi DET
+, PUNCT
+ngir ADP
+nëbb VERB
+wax NOUN
+ji PRON
+am VERB
+ci ADP
+jéggi VERB
+dayoog NOUN
+njëgu NOUN
+roplaanu NOUN
+njiitu NOUN
+réew NOUN
+la AUX
+, PUNCT
+ci ADP
+jamono NOUN
+joo PRON
+xam VERB
+ne SCONJ
+jafe-jafey NOUN
+koom NOUN
+ak CCONJ
+wàllu NOUN
+wér-gu-yaram NOUN
+ak CCONJ
+askan NOUN
+dafa AUX
+lëmbe VERB
+réew NOUN
+mi DET
+. PUNCT
+
+Wone VERB
+ag DET
+tële NOUN
+ci ADP
+mettit NOUN
+yiy PRON
+dal VERB
+ci ADP
+kaw NOUN
+askan NOUN
+wi DET
 . PUNCT
 

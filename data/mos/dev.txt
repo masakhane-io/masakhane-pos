@@ -714,6 +714,7 @@ yʋʋm NOUN
 1996 NUM
 ) PUNCT
 , PUNCT
+
 Dɛrktɛɛr PROPN
 ning DET
 sẽn SCONJ
@@ -729,7 +730,6 @@ pãnga NOUN
 2001 NUM
 ) PUNCT
 ne CCONJ
-
 drɛktɛɛr NOUN
 ning DET
 sẽn SCONJ

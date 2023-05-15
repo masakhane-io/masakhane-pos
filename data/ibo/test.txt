@@ -903,6 +903,7 @@ ebe NOUN
 nchekwa NOUN
 ozi NOUN
 , PUNCT
+
 ma CCONJ
 kwuokwa VERB
 na SCONJ
@@ -918,7 +919,6 @@ n' ADP
 ịkwàlite VERB
 mmepe NOUN
 tọrọ VERB
-
 àtọ VERB
 n' ADP
 obodo NOUN
@@ -6028,6 +6028,7 @@ spaịnaa NOUN
 kọọdụ NOUN
 ya DET
 , PUNCT
+
 tinyekwara VERB
 ndị NOUN
 ọzọ NOUN
@@ -6043,7 +6044,6 @@ ha DET
 , PUNCT
 n' ADP
 agbata NOUN
-
 ọnwa NOUN
 Julaị PROPN
 ahọ NOUN
@@ -10626,6 +10626,7 @@ akụnaụba NOUN
 obibi NOUN
 ndụ NOUN
 , PUNCT
+
 ọnọdụ NOUN
 nchekwa NOUN
 na CCONJ
@@ -10647,7 +10648,6 @@ mmekọrịta NOUN
 na CCONJ
 ijikọaka VERB
 ọnụ NOUN
-
 . PUNCT
 
 Ihe NOUN
@@ -14755,7 +14755,6 @@ ihe NOUN
 dị VERB
 iche ADJ
 iche ADJ
-AUX AUX
 ebute VERB
 ọrịa NOUN
 , PUNCT

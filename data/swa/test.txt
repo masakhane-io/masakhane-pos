@@ -3249,6 +3249,7 @@ wa ADJ
 watu NOUN
 wengi ADJ
 , PUNCT
+
 uamuzi NOUN
 uliosifiwa VERB
 na PART
@@ -3257,7 +3258,6 @@ wa ADJ
 Mataifa NOUN
 kama ADV
 ni AUX
-
 pigo NOUN
 dhidi SCONJ
 ya SCONJ
@@ -6861,6 +6861,7 @@ muungano NOUN
 wa ADJ
 Tanzania PROPN
 , PUNCT
+
 Ali PROPN
 Hassan PROPN
 Mwinyi PROPN
@@ -6888,7 +6889,6 @@ kuendelea NOUN
 kuimarisha NOUN
 uzalendo NOUN
 na CCONJ
-
 fikra NOUN
 alizokuwa AUX
 nazo PRON
@@ -7763,6 +7763,7 @@ ya SCONJ
 watu NOUN
 35 NUM
 . PUNCT
+
 Wanasiasa NOUN
 wa ADJ
 upinzani NOUN
@@ -7772,7 +7773,6 @@ wa ADJ
 mwaka NOUN
 huu ADJ
 wamesema VERB
-
 kwamba SCONJ
 mikutano NOUN
 ya ADJ
@@ -7813,6 +7813,7 @@ wagombea NOUN
 wa ADJ
 upinzani NOUN
 . PUNCT
+
 Imetayarishwa VERB
 na PART
 Kennes PROPN
@@ -7849,7 +7850,6 @@ katika ADP
 miaka ADV
 michache ADV
 iliyopita ADV
-
 Kiongozi NOUN
 mpya ADJ
 wa ADJ
@@ -7883,6 +7883,7 @@ cha ADJ
 baba NOUN
 yake ADJ
 . PUNCT
+
 Deby PROPN
 aliwasili VERB
 katika ADP
@@ -7986,6 +7987,7 @@ Mali PROPN
 na CCONJ
 Mauritania PROPN
 . PUNCT
+
 Misri PROPN
 itaishikilia VERB
 meli NOUN
@@ -8010,9 +8012,9 @@ fidia NOUN
 ya ADJ
 dola ADJ
 milioni ADJ
-
 900 NUM
 . PUNCT
+
 Mojawapo SCONJ
 ya SCONJ
 makampuni NOUN
@@ -8095,6 +8097,7 @@ ya ADJ
 mfereji NOUN
 huo ADJ
 . PUNCT
+
 Meli NOUN
 hiyo ADJ
 yenye ADJ
@@ -8103,7 +8106,6 @@ wa ADJ
 mita NOUN
 400 NUM
 iligonga VERB
-
 mwamba NOUN
 na CCONJ
 kwenda VERB
@@ -8179,13 +8181,13 @@ wanamgambo NOUN
 la ADJ
 Hamas PROPN
 . PUNCT
+
 Makubaliano NOUN
 ya ADJ
 sitisho NOUN
 la ADJ
 mapigano NOUN
 lilipangwa VERB
-
 kuanza NOUN
 saa NOUN
 8 NUM
@@ -8252,6 +8254,7 @@ ya ADJ
 kundi NOUN
 hilo ADJ
 . PUNCT
+
 Waisraeli NOUN
 walikabiliwa VERB
 na PART
@@ -8269,7 +8272,6 @@ na CCONJ
 kupiga NOUN
 kambi NOUN
 za ADJ
-
 wakimbizi NOUN
 na CCONJ
 malengo NOUN
@@ -8310,6 +8312,7 @@ Marekani PROPN
 kufikia NOUN
 makubaliano NOUN
 . PUNCT
+
 Rais NOUN
 huyo ADJ
 wa ADJ
@@ -8343,10 +8346,10 @@ sitisho NOUN
 la ADJ
 mapigano NOUN
 . PUNCT
+
 Shirika NOUN
 la ADJ
 kuhudumia NOUN
-
 wakimbizi NOUN
 la ADJ
 Umoja NOUN
@@ -8404,6 +8407,7 @@ Mataifa NOUN
 umesema VERB
 Jumapili ADV
 . PUNCT
+
 Wafanyakazi NOUN
 walipangiwa VERB
 kurudishwa NOUN
@@ -8422,7 +8426,6 @@ kulinda NOUN
 amani NOUN
 ya ADJ
 Umoja NOUN
-
 wa ADJ
 Mataifa NOUN
 ( PUNCT
@@ -8660,6 +8663,7 @@ wa ADJ
 afya NOUN
 Duniani NOUN
 . PUNCT
+
 Blinken PROPN
 pia SCONJ
 aliangazia VERB
@@ -8699,7 +8703,6 @@ lengo NOUN
 la ADJ
 mikutano NOUN
 ya ADJ
-
 Jumanne NOUN
 . PUNCT
 
@@ -9053,6 +9056,7 @@ kwa ADP
 ghasia NOUN
 hizo ADJ
 . PUNCT
+
 Waendesha NOUN
 mashtaka NOUN
 katika ADP
@@ -9084,7 +9088,6 @@ la ADJ
 Marekani PROPN
 mwezi NOUN
 uliopita VERB
-
 ili SCONJ
 kuwashambulia VERB
 wabunge NOUN
@@ -10269,6 +10272,7 @@ sheria NOUN
 za ADJ
 uhamiaji NOUN
 . PUNCT
+
 Lakini CCONJ
 pindi ADV
 Warepublican PROPN
@@ -10297,7 +10301,6 @@ ya ADJ
 mara ADV
 kwa ADV
 mara ADV
-
 na CCONJ
 wabunge NOUN
 warepublican NOUN
@@ -16289,5 +16292,336 @@ nchi NOUN
 zao ADJ
 kuanzia NOUN
 Jumatatu ADV
+. PUNCT
+
+Qatar PROPN
+imetangaza VERB
+hatua NOUN
+kali ADJ
+za ADJ
+kudhibiti NOUN
+virusi NOUN
+vya ADJ
+corona PROPN
+kwa ADP
+wale PRON
+wanaowasili VERB
+kutoka ADP
+Saudi PROPN
+Arabia PROPN
+. PUNCT
+
+Doha PROPN
+itawataka VERB
+wasafiri NOUN
+kuonyesha NOUN
+uthibitisho NOUN
+wa ADJ
+vipimo NOUN
+hasi ADJ
+vya ADJ
+virusi NOUN
+vya ADJ
+corona PROPN
+, PUNCT
+na CCONJ
+kufanyiwa NOUN
+vipimo NOUN
+tena SCONJ
+mpakani NOUN
+na CCONJ
+kuwekwa NOUN
+karantini NOUN
+katika ADP
+hoteli NOUN
+iliyochaguliwa VERB
+na PART
+serikali NOUN
+kwa ADP
+wiki NOUN
+moja ADJ
+. PUNCT
+
+Waziri NOUN
+mkuu ADJ
+Abiy PROPN
+Ahmed PROPN
+, PUNCT
+ameandika VERB
+ujumbe NOUN
+wa ADJ
+twiter NOUN
+kwamba SCONJ
+mlango NOUN
+wa ADJ
+mwisho ADJ
+wa ADJ
+amani NOUN
+ambao ADJ
+ulikuwa AUX
+wazi ADJ
+kwa ADP
+vikosi NOUN
+vya ADJ
+TPLF PROPN
+kutumia NOUN
+sasa ADV
+umefungwa VERB
+kabisa ADV
+baada ADP
+ya ADP
+vikosi NOUN
+hivyo ADJ
+kudharau NOUN
+watu NOUN
+wa ADJ
+Ethiopia PROPN
+. PUNCT
+
+Mapema NOUN
+wiki NOUN
+hii ADJ
+, PUNCT
+Abiy PROPN
+, PUNCT
+ambaye ADJ
+alishinda VERB
+tuzo NOUN
+la ADJ
+amani NOUN
+la ADJ
+Nobel PROPN
+mwaka NOUN
+uliopita VERB
+kwa ADP
+juhudi NOUN
+zake ADJ
+za ADJ
+kumaliza NOUN
+vita NOUN
+na CCONJ
+migogoro NOUN
+ya ADJ
+kila ADV
+mara ADV
+kati SCONJ
+ya SCONJ
+Ethiopia PROPN
+na CCONJ
+Eritrea PROPN
+, PUNCT
+alitoa VERB
+amri NOUN
+ya ADJ
+saa NOUN
+72 NUM
+kwa ADP
+vikosi NOUN
+vya ADJ
+Tigray PROPN
+katika ADP
+mji NOUN
+wa ADJ
+Mekele PROPN
+kujisalimisha NOUN
+la ADV
+sivyo ADV
+washambuliwe VERB
+kijeshi ADJ
+. PUNCT
+
+Wanajeshi NOUN
+wa ADJ
+Ethiopia PROPN
+wamekuwa AUX
+wakipigana VERB
+na ADP
+vikosi NOUN
+vya ADJ
+Tigray PROPN
+tangu ADV
+Novemba ADV
+4 NUM
+, PUNCT
+wakati NOUN
+Abiy PROPN
+alipotuma VERB
+jeshi NOUN
+la ADJ
+ulinzi NOUN
+wa ADJ
+taifa NOUN
+katika ADP
+eneo NOUN
+hilo ADJ
+baada SCONJ
+ya SCONJ
+vikosi NOUN
+hivyo ADJ
+kushutumiwa NOUN
+kwa ADP
+kushambulia NOUN
+kambi NOUN
+ya ADJ
+jeshi NOUN
+la ADJ
+taifa NOUN
+. PUNCT
+
+Mamia NOUN
+ya ADJ
+watu NOUN
+wameuawa VERB
+na CCONJ
+zaidi SCONJ
+ya SCONJ
+40,000 NUM
+kukimbilia NOUN
+Sudan PROPN
+kama SCONJ
+wakimbizi NOUN
+kutokana SCONJ
+na SCONJ
+vita NOUN
+hivyo ADJ
+wakisimulia VERB
+hali NOUN
+mbaya ADJ
+katika ADP
+eneo NOUN
+la ADJ
+Tigray PROPN
+. PUNCT
+
+Abiy PROPN
+amewaonya VERB
+wakazi NOUN
+wa ADJ
+Mekele PROPN
+kuweka NOUN
+chini ADP
+silaha NOUN
+na CCONJ
+kusalia NOUN
+majumbani NOUN
+mwao ADJ
+. PUNCT
+
+Makundi NOUN
+ya ADJ
+kutetea NOUN
+haki NOUN
+yameelezea VERB
+wasiwasi NOUN
+kuhusu ADP
+vita NOUN
+hivyo ADJ
+, PUNCT
+umoja NOUN
+wa ADJ
+mataifa NOUN
+ukitoa VERB
+wito NOUN
+kwa ADP
+waziri NOUN
+mkuu NOUN
+Abiy PROPN
+Ahmed PROPN
+kufanya NOUN
+mazungumzo NOUN
+na CCONJ
+kumaliza NOUN
+vita NOUN
+hivyo ADJ
+kwa ADP
+njia NOUN
+ya ADJ
+kidiplomasia ADJ
+. PUNCT
+
+Umoja NOUN
+wa ADJ
+mataifa NOUN
+umesema VERB
+kwamba SCONJ
+vita NOUN
+hivyo ADJ
+vimesababisha VERB
+mateso NOUN
+mengi ADJ
+kwa ADP
+watu NOUN
+wa ADJ
+eneo NOUN
+hilo ADJ
+ambao ADJ
+tayari ADV
+wanakabiliwa VERB
+na ADP
+janga NOUN
+la ADJ
+virusi NOUN
+vya ADJ
+Corona PROPN
+. PUNCT
+
+Abiy PROPN
+amekataa VERB
+pendekezo NOUN
+la ADJ
+kufanya NOUN
+mazungumzo NOUN
+. PUNCT
+
+Imetayarishwa VERB
+na PART
+Kennes PROPN
+Bwire PROPN
+, PUNCT
+VOA PROPN
+, PUNCT
+Washington PROPN
+DC PROPN
+Wakaazi NOUN
+katika ADP
+mataifa NOUN
+mbalimbali ADJ
+ya ADJ
+Afrika PROPN
+wanaendelea VERB
+kufuatilia NOUN
+matokeo NOUN
+ya ADJ
+uchaguzi NOUN
+mkuu ADJ
+wa ADJ
+Marekani PROPN
+kwa ADP
+hisia NOUN
+tofauti ADJ
+zilizojaa VERB
+kejeli NOUN
+na CCONJ
+hali NOUN
+ya ADJ
+kutoamini NOUN
+hasa SCONJ
+baada ADP
+ya ADP
+rais NOUN
+Donald PROPN
+Trump PROPN
+kujaribu NOUN
+kujitangaza NOUN
+mshindi NOUN
+wa ADJ
+uchaguzi NOUN
+huo ADJ
+kabla ADP
+ya ADP
+hesabu NOUN
+ya ADJ
+kura NOUN
+kukamilika NOUN
 . PUNCT
 

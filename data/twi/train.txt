@@ -1,144 +1,3 @@
-Wɔne VERB
-Kenya PROPN
-National PROPN
-Library PROPN
-Services PROPN
-( PUNCT
-Kenya PROPN
-) PUNCT
-ne CCONJ
-Public PROPN
-Library PROPN
-"""" PUNCT
-Fran PROPN
-Galivic PROPN
-"""" PUNCT
-Koprivnica PROPN
-( PUNCT
-croatia PROPN
-) PUNCT
-na DET
-esii VERB
-akan VERB
-maa AUX
-badwakuo NOUN
-yiyii VERB
-wɔn PRON
-. PUNCT
-
-Ebinom NOUN
-nso ADV
-wɔ VERB
-hɔ ADV
-a DET
-, PUNCT
-sɛ CCONJ
-wɔhwɛ AUX
-mfoni NOUN
-a DET
-nkurɔfo NOUN
-de AUX
-agu NOUN
-sohyial NOUN
-media NOUN
-so ADP
-, PUNCT
-na CCONJ
-wɔde AUX
-toto VERB
-wɔn PRON
-asetena NOUN
-ho ADP
-a DET
-, PUNCT
-na CCONJ
-wɔayɛ VERB
-mmɔbɔ NOUN
-. PUNCT
-
-Nhwehwɛmufo NOUN
-Thomas PROPN
-Libby PROPN
-ka VERB
-sɛ ADV
-, PUNCT
-"""" PUNCT
-Robɔt NOUN
-afiri NOUN
-ntumi AUX
-nnannan NOUN
-ne CCONJ
-ho NOUN
-te ADP
-sɛ ADV
-aboa VERB
-, PUNCT
-enti ADV
-biribiara PRON
-a DET
-wɔbɛyɛ VERB
-ama ADP
-abɛn NOUN
-sɛnea ADV
-mmoa NOUN
-tumi AUX
-dannan VERB
-wɔn PRON
-ho PRON
-no DET
-, PUNCT
-bɛyɛ VERB
-nkɔso NOUN
-a DET
-wɔanya VERB
-wɔ ADP
-mfiridwuma NOUN
-mu ADP
-. PUNCT
-
-Bere NOUN
-a DET
-na AUX
-mewɔ VERB
-ntoaso NOUN
-sukuu NOUN
-no DET
-, PUNCT
-na AUX
-meka VERB
-bɔɔlbɔ NOUN
-kuw VERB
-no DET
-ho ADP
-. PUNCT
-
-Bere NOUN
-biara ADJ
-a DET
-mmofra NOUN
-no DET
-wɔ VERB
-wo PRON
-nkyɛn ADP
-no DET
-, PUNCT
-ka VERB
-wɔn PRON
-ho ADP
-nsɛm NOUN
-kyerɛ VERB
-wɔn PRON
-maame NOUN
-no DET
-, PUNCT
-nanso CCONJ
-taa ADV
-ka VERB
-wɔn PRON
-ho ADP
-asɛmpa NOUN
-. PUNCT
-
 binom NOUN
 wɔ VERB
 hɔ ADV
@@ -764,6 +623,7 @@ wɔn PRON
 ne CCONJ
 Dr PROPN
 . PROPN
+
 Annthony PROPN
 Nsiah PROPN
 Asare PROPN
@@ -804,6 +664,7 @@ paneɛ NOUN
 no DET
 bi ADJ
 . PUNCT
+
 Ahwɛsofoɔ NOUN
 mpem NUM
 aduowɔtwe NOUN
@@ -817,7 +678,6 @@ dwumadie NOUN
 yi DET
 mu ADP
 . PUNCT
-
 """" PUNCT
 
 Ɔde NOUN
@@ -2913,6 +2773,7 @@ aduonu NOUN
 - PUNCT
 wɔtwe VERB
 . PUNCT
+
 Wɔsan ADP
 nso ADV
 sɛesɛe AUX
@@ -2935,7 +2796,6 @@ wɔ ADP
 baabi NOUN
 a DET
 wɔbubu VERB
-
 pɛtro ADJ
 no DET
 . PUNCT
@@ -3677,6 +3537,7 @@ abadiakyiri NOUN
 PRO NOUN
 Sgt PROPN
 . PUNCT
+
 Evans PROPN
 Isaaɔ PROPN
 Entie ADV
@@ -3719,7 +3580,6 @@ a DET
 ɔfrɛ VERB
 ne PRON
 ho PRON
-
 sɛ ADV
 dɔkota NOUN
 a DET
@@ -3736,6 +3596,7 @@ a DET
 Assin PROPN
 Adadientam PROPN
 . PUNCT
+
 Wɔde PRON
 saa DET
 asɛm NOUN
@@ -4485,6 +4346,7 @@ no DET
 akonnwa NOUN
 mu ADP
 . PUNCT
+
 Wɔde PRON
 sima VERB
 bɛyɛ VERB
@@ -4492,7 +4354,6 @@ mmienu NUM
 na CCONJ
 ɛdii VERB
 saa DET
-
 dwuma NOUN
 no DET
 . PUNCT
@@ -4949,6 +4810,7 @@ asɛm NOUN
 yi DET
 so ADP
 . PUNCT
+
 Meyɛ VERB
 NPP NOUN
 ni DET
@@ -4963,6 +4825,7 @@ no DET
 yie ADV
 koraa ADV
 . PUNCT
+
 2020 NUM
 abatoɔ NOUN
 berɛ NOUN
@@ -4981,7 +4844,6 @@ mmarahyɛbɛdwani NOUN
 yi DET
 nso ADV
 wamfii VERB
-
 yɛn PRON
 . PUNCT
 Mesuiɛ VERB
@@ -5223,6 +5085,7 @@ nso ADV
 agye VERB
 atom NOUN
 . PUNCT
+
 Me PRON
 deɛ ADJ
 , PUNCT
@@ -5237,6 +5100,7 @@ nhyehyɛeɛ NOUN
 no DET
 mu ADP
 . PUNCT
+
 Daabi VERB
 ! PUNCT
 Na AUX
@@ -5252,7 +5116,6 @@ mu ADP
 a DET
 , PUNCT
 aban NOUN
-
 no DET
 bɛdi VERB
 fo ADV
@@ -6313,6 +6176,7 @@ Obubuo NOUN
 2017 NUM
 mu ADP
 . PUNCT
+
 Na ADV
 ɔsoafoɔ NOUN
 a DET
@@ -6337,7 +6201,6 @@ so ADP
 retwɛn VERB
 agye VERB
 mmuaeɛ NOUN
-
 afiri NOUN
 Ghana NOUN
 mmarahyɛbadwafie NOUN
@@ -7397,11 +7260,11 @@ bammɔ NOUN
 adwuma NOUN
 ntotoeɛfoɔ NOUN
 . PUNCT
+
 Kɛnnel NOUN
 dwuamdie NOUN
 yi DET
 hyɛɛ VERB
-
 aseɛ VERB
 firii VERB
 bosome NOUN
@@ -7416,6 +7279,7 @@ a DET
 ɛdi VERB
 kan ADV
 . PUNCT
+
 Nso ADV
 , PUNCT
 Opare PROPN
@@ -7428,6 +7292,7 @@ amma VERB
 Francis PROPN
 Arthur PROPN
 . PUNCT
+
 ɔman NOUN
 bammɔ NOUN
 adwuma NOUN
@@ -7489,6 +7354,7 @@ ntumi VERB
 nyɛ PRON
 n'adwuma NOUN
 . PUNCT
+
 Wei PRON
 nti ADV
 , PUNCT
@@ -7527,7 +7393,6 @@ Opare PROPN
 - PUNCT
 Addo PROPN
 sɛ ADV
-
 ɔmfiri VERB
 ne PRON
 diberɛ NOUN
@@ -7547,6 +7412,7 @@ nto VERB
 no DET
 mu ADP
 . PUNCT
+
 Wɔduruiɛ VERB
 no DET
 , PUNCT
@@ -8783,6 +8649,7 @@ saa DET
 diberɛ NOUN
 yi DET
 . PUNCT
+
 Mebɔ VERB
 mpaeɛ NOUN
 sɛ ADV
@@ -8805,7 +8672,6 @@ akwan NOUN
 mu ADP
 no DET
 bɛwie VERB
-
 pɛyɛ VERB
 . PUNCT
 
@@ -8987,6 +8853,7 @@ ntoma NOUN
 pa ADJ
 afira VERB
 . PUNCT
+
 Anoyifoɔ NOUN
 no DET
 mu ADP
@@ -9000,6 +8867,7 @@ no DET
 daakye VERB
 yie ADV
 . PUNCT
+
 Sɛ CCONJ
 ɛba VERB
 nwomasua NOUN
@@ -9026,6 +8894,7 @@ no DET
 wɔ ADP
 daakye NOUN
 . PUNCT
+
 Wɔn PRON
 mu ADP
 47 NUM
@@ -9192,6 +9061,7 @@ too VERB
 dwa VERB
 sɛ ADV
 : PUNCT
+
 """" PUNCT
 Yɛama VERB
 ɔsɔfo VERB
@@ -9214,6 +9084,7 @@ a DET
 Asanteman PROPN
 mu ADP
 . PUNCT
+
 Afei ADV
 , PUNCT
 yɛrebɔ VERB
@@ -9560,6 +9431,7 @@ bi ADV
 pɛ VERB
 so ADP
 . PUNCT
+
 Saa ADV
 adwene NOUN
 a DET
@@ -9581,7 +9453,6 @@ a DET
 nyɛ PRON
 no DET
 yɛ VERB
-
 nnaadaa NOUN
 a DET
 wɔnsosɔ VERB
@@ -9758,6 +9629,7 @@ dwo VERB
 si ADJ
 fa VERB
 . PUNCT
+
 Saa ADV
 nhwehwɛmu NOUN
 yi DET
@@ -9789,7 +9661,6 @@ asomdwoeɛ NOUN
 da VERB
 adi VERB
 wɔ ADP
-
 mpɔtam NOUN
 mu ADP
 . PUNCT
@@ -10366,6 +10237,7 @@ nni VERB
 hɔ ADV
 koraa ADV
 . PUNCT
+
 Wiase NOUN
 mu ADP
 nyinaa PRON
@@ -10376,7 +10248,6 @@ aman NOUN
 num NUM
 a DET
 asomdwoeɛ NOUN
-
 nni VERB
 no DET
 mu ADP
@@ -10587,6 +10458,7 @@ kaa VERB
 ho PRON
 sɛ ADV
 : PUNCT
+
 """" PUNCT
 Mfeɛ NOUN
 mmiɛnsa NOUN
@@ -10631,7 +10503,6 @@ no DET
 bɛfa VERB
 ne PRON
 yiedie NOUN
-
 ntoma NOUN
 asan NOUN
 afira VERB
@@ -10718,6 +10589,7 @@ mmienu NUM
 yi DET
 ntam ADP
 . PUNCT
+
 ɛho VERB
 hia VERB
 sɛ DET
@@ -10758,6 +10630,7 @@ mpɔn NOUN
 . PUNCT
 . PUNCT
 . PUNCT
+
 ayankofa NOUN
 a DET
 ɛda AUX
@@ -10776,7 +10649,6 @@ ama ADP
 West PROPN
 Africa PROPN
 ne CCONJ
-
 Abibiman NOUN
 nyinaa ADJ
 . PUNCT
@@ -11168,6 +11040,7 @@ wɔn PRON
 nkɔ VERB
 ayaresabea NOUN
 . PUNCT
+
 Animdefoɔ NOUN
 kyerɛ VERB
 sɛ DET
@@ -11197,7 +11070,6 @@ a DET
 na CCONJ
 wei PRON
 na DET
-
 GN PROPN
 Health PROPN
 Ambulance PROPN
@@ -15099,6 +14971,7 @@ dwuma NOUN
 asi VERB
 afa ADP
 . PUNCT
+
 Aban NOUN
 no DET
 nso ADV
@@ -15126,7 +14999,6 @@ mentemehoase NOUN
 bi DET
 asi VERB
 a DET
-
 , PUNCT
 anaa CCONJ
 sɛdeɛ CCONJ
@@ -15665,6 +15537,7 @@ mmienu NUM
 wɔ ADP
 Europe PROPN
 . PUNCT
+
 THES PRON
 nhwehwɛmu NOUN
 a DET
@@ -15674,7 +15547,6 @@ kyerɛ VERB
 sɛ ADV
 , PUNCT
 saa DET
-
 suapɔn NOUN
 yi DET
 tɔ VERB
@@ -15883,6 +15755,7 @@ bɔɔ VERB
 no DET
 no DET
 . PUNCT
+
 Na ADV
 ɔkyerɛɛ VERB
 sɛ ADV
@@ -15893,7 +15766,6 @@ lɔyani NOUN
 na CCONJ
 ɔsan AUX
 nso ADV
-
 yɛ VERB
 aban NOUN
 lɔya VERB
@@ -16020,6 +15892,7 @@ no DET
 nyɛ VERB
 adwene NOUN
 . PUNCT
+
 ɔkyerɛ VERB
 sɛ ADV
 , PUNCT
@@ -16044,6 +15917,7 @@ wɔdii VERB
 asɛm NOUN
 no DET
 . PUNCT
+
 Na CCONJ
 ɔrekasa VERB
 afa VERB
@@ -16065,7 +15939,6 @@ mmara NOUN
 adwuma NOUN
 no DET
 ano NOUN
-
 , PUNCT
 nti ADP
 ɔno VERB
@@ -16453,6 +16326,7 @@ faeɛ VERB
 no DET
 ntom NOUN
 . PUNCT
+
 Nti PART
 ɛwɔ AUX
 sɛ DET
@@ -16461,7 +16335,6 @@ hɔ ADV
 ( PUNCT
 GLɔɔ NOUN
 na CCONJ
-
 ɔkɔkyerɛ VERB
 deɛ ADJ
 nti CCONJ
@@ -16535,12 +16408,12 @@ anim NOUN
 . PUNCT
 . PUNCT
 . PUNCT
+
 adɛn ADV
 nti ADV
 na AUX
 woreka VERB
 sɛn ADV
-
 wɔntumi VERB
 mfa ADP
 wonnyina VERB
@@ -16698,6 +16571,7 @@ na DET
 ɔnkɔka VERB
 n'asɛm NOUN
 . PUNCT
+
 ɛbɛboa VERB
 wɔn PRON
 ara ADV
@@ -16717,7 +16591,6 @@ nyɛ VERB
 nokorɛ NOUN
 . PUNCT
 . PUNCT
-
 """" PUNCT
 
 Nsɛnsɛm NOUN
@@ -17678,6 +17551,7 @@ anya VERB
 anyinam NOUN
 ahoɔden ADJ
 . PUNCT
+
 ɛwɔ VERB
 sɛ ADV
 yɛbɔ VERB
@@ -17691,7 +17565,6 @@ sesa VERB
 deɛ DET
 wɔka VERB
 fa VERB
-
 yɛn PRON
 ho ADP
 no DET
@@ -21558,6 +21431,7 @@ mogya NOUN
 mu ADP
 yareɛ NOUN
 . PUNCT
+
 Seisei ADP
 abɔdeɛ NOUN
 mu ADP
@@ -21585,7 +21459,6 @@ sɛ DET
 yɛyɛɛ VERB
 abɔdeɛ NOUN
 mu ADP
-
 mpɛnsɛmpɛnsɛmmubea NOUN
 no DET
 maa AUX
@@ -22391,6 +22264,7 @@ ntua NOUN
 aban NOUN
 ka ADV
 ? PUNCT
+
 Fagutubea NOUN
 nnwuma NOUN
 bi DET
@@ -22398,7 +22272,6 @@ retua VERB
 nanso CCONJ
 mu ADP
 fa ADJ
-
 kɛseɛ ADJ
 no DET
 ara ADV
@@ -22703,6 +22576,7 @@ sika NOUN
 bɛma VERB
 no DET
 . PUNCT
+
 ɛyɛ VERB
 awerɛho NOUN
 sɛ ADV
@@ -22727,7 +22601,6 @@ tetefone NOUN
 so ADP
 maa VERB
 no PRON
-
 mfaa NOUN
 da VERB
 . PUNCT
@@ -23000,6 +22873,7 @@ dwanetoa NOUN
 no DET
 ase ADP
 . PUNCT
+
 Saa ADV
 berɛ NOUN
 yi DET
@@ -23016,7 +22890,6 @@ aban NOUN
 no DET
 hɔ ADV
 sɛ DET
-
 wɔnhyɛ VERB
 dwanetoa NOUN
 no DET
@@ -23142,6 +23015,7 @@ kwan NOUN
 no DET
 so ADP
 . PUNCT
+
 Nsuo NOUN
 yiri VERB
 fa ADP
@@ -23170,7 +23044,6 @@ a DET
 wadi VERB
 afe NOUN
 no DET
-
 hweree VERB
 ne PRON
 nkwa NOUN
@@ -23287,6 +23160,7 @@ n'adwumayɛfoɔ NOUN
 wɔ ADP
 n'afuom NOUN
 . PUNCT
+
 Wɔde VERB
 aban NOUN
 kawa VERB
@@ -23296,7 +23170,6 @@ nsa VERB
 , PUNCT
 kyee VERB
 no PRON
-
 hyɛɛ VERB
 piɔk ADJ
 - PUNCT
@@ -23998,6 +23871,7 @@ Ndebugre PROPN
 buaa VERB
 sɛ ADV
 , PUNCT
+
 " PUNCT
 Worepɛ VERB
 akyerɛ VERB
@@ -24021,9 +23895,9 @@ wɔn PRON
 sɛ DET
 wɔnyɛ VERB
 na ADV
-
 wɔbɛyɛ VERB
 ? PUNCT
+
 Sɛ CCONJ
 woyɛ VERB
 biribi PRON

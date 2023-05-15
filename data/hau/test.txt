@@ -13428,6 +13428,7 @@ wasa NOUN
 AFCON PROPN
 2021 NUM
 : PUNCT
+
 Za'ai X
 wasan NOUN
 Najeriya PROPN
@@ -13504,7 +13505,6 @@ daga ADP
 Austria PROPN
 da CCONJ
 Mohamed PROPN
-
 Turay PROPN
 daga ADP
 China PROPN

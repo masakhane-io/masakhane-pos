@@ -1364,9 +1364,9 @@ m' PART
 ade NOUN
 sɛn ADV
 ? PUNCT
+
 " PUNCT
 Anka AUX
-
 mɛhwɛ VERB
 n' PART
 anim NOUN
@@ -1745,11 +1745,11 @@ me PRON
 ? PUNCT
 " PUNCT
 ? PUNCT
+
 Ansa ADP
 na ADP
 Ansa ADP
 wobɛtɔ VERB
-
 ɛlɛtrɔnik ADJ
 afiri NOUN
 ama ADP
@@ -2679,6 +2679,7 @@ no DET
 renyɛ VERB
 yiye ADV
 . PUNCT
+
 Nnipa NOUN
 pii ADJ
 nnim VERB
@@ -2700,9 +2701,9 @@ nka VERB
 ɔte VERB
 sɛ DET
 wayɛ VERB
-
 ankonam NOUN
 . PUNCT
+
 Ɔno PRON
 nso ADV
 nka VERB
@@ -2743,6 +2744,7 @@ aduoson NUM
 num NUM
 aduoson NUM
 . PUNCT
+
 Adwumayɛfoɔ NOUN
 kuo NOUN
 Adwumayɛfoɔ NOUN
@@ -2788,7 +2790,6 @@ gu VERB
 na CCONJ
 nso CCONJ
 na CCONJ
-
 ɛnam ADP
 mfasoɔ NOUN
 dodoɔ ADJ
@@ -5134,17 +5135,18 @@ rehwɛ VERB
 amanfoɔ NOUN
 foforɔ ADJ
 . PUNCT
+
 Yei DET
 hyɛɛ VERB
 yabufuo VERB
 maa ADP
 ɛde AUX
 mennte VERB
-
 meho VERB
 ase ADP
 baaeɛ NOUN
 . PUNCT
+
 Wɔn ADP
 a DET
 ɔredi VERB
@@ -5153,6 +5155,7 @@ no DET
 annyɛ VERB
 adeɛ NOUN
 . PUNCT
+
 """" PUNCT
 panin NOUN
 bi ADJ
@@ -6543,6 +6546,7 @@ sɛ DET
 """" PUNCT
 Maa ADP
 , PUNCT
+
 magyae NOUN
 mu ADP
 , PUNCT
@@ -6580,7 +6584,6 @@ asɛdeɛ NOUN
 kɛseɛ ADJ
 bɛto VERB
 hɔ ADV
-
 ɛsiane AUX
 w'abusua VERB
 asɛdeɛ NOUN
@@ -6863,6 +6866,7 @@ ne CCONJ
 ɑsetenɑ NOUN
 pɑ ADV
 . PUNCT
+
 Aduɑn NOUN
 , PUNCT
 ɑdurɑde NOUN
@@ -6879,6 +6883,7 @@ nso ADV
 kɑ VERB
 ho PRON
 . PUNCT
+
 Sɑɑ ADV
 ɑrɑ VERB
 nso ADV
@@ -6895,7 +6900,6 @@ mɑ PART
 obi PRON
 ɑ VERB
 onni VERB
-
 ɑdwumɑ NOUN
 bi DET
 yɛ VERB
@@ -11806,6 +11810,7 @@ a DET
 ofi VERB
 mu ADP
 . PUNCT
+
 Enti CCONJ
 seesei NOUN
 , PUNCT
@@ -11833,6 +11838,7 @@ m'ani VERB
 abegye NOUN
 ho ADP
 . PUNCT
+
 Mabehu VERB
 sɛ ADV
 , PUNCT
@@ -11849,6 +11855,7 @@ nea PRON
 mu ADP
 mmɔden NOUN
 . PUNCT
+
 Me PRON
 ne CCONJ
 nkurɔfo NOUN
@@ -11871,10 +11878,10 @@ afi ADP
 wɔn PRON
 hɔ ADV
 . PUNCT
+
 Na ADV
 mɛka VERB
 paa ADV
-
 a DET
 , PUNCT
 wei PRON
@@ -14833,6 +14840,7 @@ a DET
 yɛde VERB
 bɛtɔ VERB
 . PUNCT
+
 Enti CCONJ
 nea PRON
 yɛyɛe VERB
@@ -14848,11 +14856,11 @@ no DET
 , PUNCT
 na ADV
 n'ani NOUN
-
 gyee VERB
 ho PRON
 paa ADV
 . PUNCT
+
 Mihui VERB
 sɛ ADV
 , PUNCT
@@ -14917,5 +14925,19 @@ sɛ ADV
 afa VERB
 afuro NOUN
 anaa CCONJ
+. PUNCT
+
+Ná AUX
+kar NOUN
+no DET
+ayɛ VERB
+krado NOUN
+. PUNCT
+
+Minni VERB
+wo VERB
+ho PRON
+menasepɔw NOUN
+biara ADJ
 . PUNCT
 

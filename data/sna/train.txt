@@ -5742,6 +5742,7 @@ yaanenge AUX
 achipomerwa VERB
 imboferefetwa VERB
 , PUNCT
+
 sezvakaitwa ADV
 ne ADP
 vachuchisi NOUN
@@ -5752,7 +5753,6 @@ pa ADP
 mhosva NOUN
 dziri AUX
 kupomerwa VERB
-
 Amai NOUN
 Mupfumira PROPN
 , PUNCT
@@ -14756,6 +14756,7 @@ ingave AUX
 yakakonzera VERB
 kufa NOUN
 kwa ADP
+
 Va NOUN
 Mutedza PROPN
 kunyange SCONJ
@@ -14776,7 +14777,6 @@ ye ADP
 chibatiso NOUN
 kuti DET
 pane AUX
-
 veruzhinji NOUN
 vakawanda ADJ
 vaifanira VERB

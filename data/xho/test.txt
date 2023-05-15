@@ -1219,6 +1219,7 @@ akhayivu NOUN
 , PUNCT
 amaphephandaba NOUN
 , PUNCT
+
 udliwanondlebe NOUN
 neenkcubabuchopho NOUN
 zamasiko NOUN
@@ -1243,7 +1244,6 @@ lweminyanya NOUN
 kunye CCONJ
 nokubaluleka NOUN
 kotywala NOUN
-
 besiNtu NOUN
 kwaXhosa NOUN
 . PUNCT

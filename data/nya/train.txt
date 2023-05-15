@@ -31,7 +31,7 @@ ukuchitikira VERB
 mnyanja NOUN
 ya ADP
 Malawi PROPN
-"," PUNCT
+, PUNCT
 kupanda VERB
 apo PRON
 kuchepa VERB
@@ -115,14 +115,14 @@ kumayambiriro VERB
 a DET
 chaka NOUN
 chino ADJ
-"," PUNCT
+, PUNCT
 ngakhale CCONJ
 madera NOUN
 ambiri ADJ
 mvula NOUN
 sidagwe VERB
 yokwanira ADJ
-"," PUNCT
+, PUNCT
 madzi NOUN
 osefulira ADJ
 adavuta VERB
@@ -138,7 +138,7 @@ komanso CCONJ
 maboma NOUN
 a DET
 Chikwawa PROPN
-"," PUNCT
+, PUNCT
 ndi ADP
 Mulanje PROPN
 komwe ADV
@@ -149,7 +149,7 @@ miyoyo NOUN
 yawo ADJ
 komanso CCONJ
 ziweto NOUN
-"," PUNCT
+, PUNCT
 nyumba NOUN
 ndi ADP
 katundu NOUN
@@ -164,7 +164,7 @@ kwa ADP
 miyezi NOUN
 yoposera ADJ
 6 NUM
-"," PUNCT
+, PUNCT
 amalandidwa VERB
 chiphaso NOUN
 koteronso CCONJ
@@ -186,7 +186,7 @@ kwa ADP
 miyezi NOUN
 yoposa ADJ
 5 NUM
-"," PUNCT
+, PUNCT
 sapatsidwanso VERB
 chiphaso NOUN
 chophera ADJ
@@ -198,7 +198,7 @@ nkanulo NOUN
 Zikhulupiriro NOUN
 zina ADJ
 ukamva VERB
-"," PUNCT
+, PUNCT
 mutu NOUN
 wake ADJ
 weniweni ADV
@@ -226,7 +226,7 @@ amakhulupirira VERB
 kuti CCONJ
 mwana NOUN
 akabadwa VERB
-"," PUNCT
+, PUNCT
 pamafunika VERB
 mwambo NOUN
 wa ADP
@@ -276,7 +276,7 @@ kuba VERB
 ndalama NOUN
 mboma NOUN
 cashgate NOUN
-"," PUNCT
+, PUNCT
 njala NOUN
 ndi ADP
 zina PRON
@@ -308,7 +308,7 @@ lidzagwiritsidwa VERB
 ntchito NOUN
 
 Osadanda VERB
-"," PUNCT
+, PUNCT
 mwayiphula ADV
 basi ADV
 ! PUNCT
@@ -318,7 +318,7 @@ nonse PRON
 mbasi ADV
 momwe PRON
 muno PRON
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Iye PRON
@@ -380,7 +380,7 @@ wake ADJ
 kupolisi NOUN
 ya ADP
 Kawale NOUN
-"," PUNCT
+, PUNCT
 sadadziwe VERB
 kuti CCONJ
 nkupeza VERB
@@ -388,12 +388,12 @@ nthiti NOUN
 
 Akumafika VERB
 pakhomo ADV
-"," PUNCT
+, PUNCT
 sungatulukenso VERB
 kuopa VERB
 kuti CCONJ
 akugwira VERB
-"," PUNCT
+, PUNCT
 uwu PRON
 ndiye CCONJ
 ukumakhala VERB
@@ -402,12 +402,12 @@ wawo ADJ
 kuti CCONJ
 agwire VERB
 ziweto NOUN
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Joyce PROPN
 Mhango PROPN
-"," PUNCT
+, PUNCT
 adalandira VERB
 chikho NOUN
 cha ADP
@@ -474,7 +474,7 @@ kuli ADV
 Human PROPN
 Rights PROPN
 Commission PROPN
-"," PUNCT
+, PUNCT
 koma CCONJ
 ufulu NOUN
 wa ADP
@@ -513,7 +513,7 @@ kutuluka VERB
 mdziko NOUN
 muno ADJ
 siyapafupi VERB
-"," PUNCT
+, PUNCT
 ndipo CCONJ
 sikwapafupi VERB
 kuchitapo VERB
@@ -523,7 +523,7 @@ adatero VERB
 Chaka NOUN
 chili VERB
 chonse PRON
-"," PUNCT
+, PUNCT
 ma ADP
 trawler NOUN
 amayenderedwa VERB
@@ -551,7 +551,7 @@ zaka NOUN
 
 Chitatha ADP
 chisankho NOUN
-"," PUNCT
+, PUNCT
 tidafunsanso VERB
 ndemanga NOUN
 za ADP
@@ -571,7 +571,7 @@ tsogolo NOUN
 Iye PRON
 adati VERB
 mundondomekoyi NOUN
-"," PUNCT
+, PUNCT
 ntchito NOUN
 zina ADJ
 zomwe PRON
@@ -664,7 +664,7 @@ chothetsa VERB
 mchitidwe NOUN
 wa ADP
 katangale NOUN
-"," PUNCT
+, PUNCT
 adaonjezera VERB
 
 Pa ADP
@@ -689,14 +689,14 @@ la ADP
 Dizilo NOUN
 Petulo PROPN
 Palibe VERB
-"," PUNCT
+, PUNCT
 malinga CCONJ
 ndi ADP
 kufotokoza VERB
 kwa ADP
 Joloji PROPN
 Chiponda PROPN
-"," PUNCT
+, PUNCT
 lidali VERB
 logula VERB
 chimangacho NOUN
@@ -760,7 +760,7 @@ choti ADJ
 adye VERB
 pakhomo ADV
 pake PRON
-"," PUNCT
+, PUNCT
 mmalo ADV
 mopita ADV
 yekha PRON
@@ -777,12 +777,12 @@ waberedwa VERB
 
 Abale NOUN
 anzanga NOUN
-"," PUNCT
+, PUNCT
 tingoyerekeza VERB
 kuti CCONJ
 mwalemba PRON
 wantchito ADJ
-"," PUNCT
+, PUNCT
 ndiye CCONJ
 mukumukaikira VERB
 kuti CCONJ
@@ -801,7 +801,7 @@ afufuze VERB
 momwe PRON
 anabera VERB
 ndiwozo NOUN
-"," PUNCT
+, PUNCT
 wantchito ADJ
 wanu PRON
 akapita VERB
@@ -899,7 +899,7 @@ kukwaniritsa VERB
 zinthu NOUN
 ngati CCONJ
 izi PRON
-"," PUNCT
+, PUNCT
 ndiye CCONJ
 lamulo NOUN
 latsopanoli ADJ
@@ -926,7 +926,7 @@ ndipo CCONJ
 titafika VERB
 pa ADP
 Bandawe PROPN
-"," PUNCT
+, PUNCT
 ndidamufunsa VERB
 ngati CCONJ
 angandipatse VERB
@@ -945,7 +945,7 @@ ku ADP
 Malaza PRON
 ku ADP
 Chintheche NOUN
-"," PUNCT
+, PUNCT
 adafotokoza VERB
 
 Afisi NOUN
@@ -958,14 +958,14 @@ usiku NOUN
 wokhawokha ADJ
 dzuwa NOUN
 likalowa VERB
-"," PUNCT
+, PUNCT
 koma CCONJ
 awawa PRON
 akudabwitsa VERB
 chifukwa CCONJ
 akuyenda VERB
 masana NOUN
-"," PUNCT
+, PUNCT
 
 Ndipo SCONJ
 tsikuli NOUN
@@ -1037,7 +1037,7 @@ a DET
 Pano PRON
 akumayenda VERB
 mmagulu NOUN
-"," PUNCT
+, PUNCT
 tsiku NOUN
 lililonse ADJ
 afisi NOUN
@@ -1058,7 +1058,7 @@ ngozi NOUN
 ngati CCONJ
 yomwe PRON
 idachitika VERB
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Koma SCONJ
@@ -1088,7 +1088,7 @@ ndi ADP
 alenje NOUN
 kuti CCONJ
 atithandize VERB
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Bambo NOUN
@@ -1141,7 +1141,7 @@ Afisi NOUN
 awawa PRON
 kulipo VERB
 akuchoka VERB
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Tsiku NOUN
@@ -1164,12 +1164,12 @@ koma CCONJ
 sadamvere VERB
 ndipo CCONJ
 adapita VERB
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Harrison PROPN
 Lano PROPN
-"," PUNCT
+, PUNCT
 mmodzi NUM
 mwa ADP
 olumidwa ADJ
@@ -1191,10 +1191,10 @@ ndalama NOUN
 
 Zonse ADJ
 zikatheka VERB
-"," PUNCT
+, PUNCT
 tibwerera VERB
 konko ADV
-"," PUNCT
+, PUNCT
 adatero VERB
 
 DC PROPN
@@ -1223,7 +1223,7 @@ athandize VERB
 
 Ngoziyo NOUN
 itachitika VERB
-"," PUNCT
+, PUNCT
 alenje NOUN
 a DET
 boma NOUN
@@ -1247,7 +1247,7 @@ yati VERB
 ngakhale SCONJ
 afisiwa NOUN
 avuta VERB
-"," PUNCT
+, PUNCT
 anthu NOUN
 asaganize VERB
 kuti ADP
@@ -1259,10 +1259,10 @@ abwereranso VERB
 . PUNCT
 
 Bamboyu NOUN
-"," PUNCT
+, PUNCT
 Alfred PROPN
 Thala PROPN
-"," PUNCT
+, PUNCT
 wa DET
 mmudzi NOUN
 mwa ADP
@@ -1275,7 +1275,7 @@ ndi CCONJ
 kupha VERB
 mkazi NOUN
 wake ADJ
-"," PUNCT
+, PUNCT
 anthu NOUN
 akukhala VERB
 mobisala ADV
@@ -1310,12 +1310,12 @@ mbuzi NOUN
 Alenje NOUN
 amatchera VERB
 mfuti NOUN
-"," PUNCT
+, PUNCT
 amaikapo VERB
 nyama NOUN
 kuti ADP
 adye VERB
-"," PUNCT
+, PUNCT
 upeza VERB
 angodya VERB
 nyama NOUN
@@ -1374,7 +1374,7 @@ zimamenyana VERB
 . PUNCT
 
 Inu PRON
-"," PUNCT
+, PUNCT
 munthu NOUN
 nkupha VERB
 nyerere ADJ
@@ -1386,7 +1386,7 @@ kuti ADP
 ena PRON
 adathyola VERB
 mipando NOUN
-"," PUNCT
+, PUNCT
 kutenga VERB
 makalilole NOUN
 ndi CCONJ
@@ -1405,12 +1405,12 @@ akazi NOUN
 
 Utatha VERB
 mpira NOUN
-"," PUNCT
+, PUNCT
 sindikudziwa VERB
 kuti ADP
 udatha VERB
 bwanji ADV
-"," PUNCT
+, PUNCT
 Abiti PROPN
 Patuma PROPN
 adandikoka VERB
@@ -1421,10 +1421,10 @@ mkulu NOUN
 Mneneri PROPN
 wa PROPN
 DCCMS PROPN
-"," PUNCT
+, PUNCT
 Ellina PROPN
 Kululanga PROPN
-"," PUNCT
+, PUNCT
 akuti VERB
 nkhani NOUN
 ya ADP
@@ -1462,7 +1462,7 @@ amangoti VERB
 5 NUM
 kwa ADP
 1 NUM
-"," PUNCT
+, PUNCT
 5 NUM
 kwa ADP
 1 NUM
@@ -1478,7 +1478,7 @@ Patuma INTJ
 
 Wina PRON
 adamukumbatira VERB
-"," PUNCT
+, PUNCT
 wina PRON
 kumupsopsona VERB
 
@@ -1507,14 +1507,14 @@ kwa DET
 
 Adati AUX
 tinyamuke VERB
-"," PUNCT
+, PUNCT
 ulendo NOUN
 wobwerera ADJ
 pa ADP
 
 Tili VERB
 mnjira NOUN
-"," PUNCT
+, PUNCT
 yemwe PRON
 amaoneka VERB
 kuti ADP
@@ -1526,7 +1526,7 @@ adati: VERB
 Tikakafika VERB
 ku ADP
 Mwanza PROPN
-"," PUNCT
+, PUNCT
 tikadzera VERB
 kwa ADP
 Ayaya PROPN
@@ -1559,7 +1559,7 @@ Kenako ADV
 kudali AUX
 kusaka VERB
 mango NOUN
-"," PUNCT
+, PUNCT
 ngumbi NOUN
 ndi CCONJ
 zina PRON
@@ -1603,7 +1603,7 @@ Mwamadi PROPN
 wati VERB
 gawoli NOUN
 likatha VERB
-"," PUNCT
+, PUNCT
 anthu NOUN
 amene ADJ
 amagwiritsira VERB
@@ -1626,7 +1626,7 @@ Mu ADP
 June PROPN
 chaka NOUN
 chino ADJ
-"," PUNCT
+, PUNCT
 bungweli NOUN
 lidamaliza VERB
 gawo NOUN
@@ -1684,7 +1684,7 @@ sitima NOUN
 Pamene SCONJ
 tikupanga VERB
 izi PRON
-"," PUNCT
+, PUNCT
 sitima NOUN
 zina ADJ
 zizitha VERB
@@ -1699,7 +1699,7 @@ poyamba ADV
 chifukwa CCONJ
 tidalibe VERB
 malo NOUN
-"," PUNCT
+, PUNCT
 koma CCONJ
 tsopano ADV
 izi PRON
@@ -1708,12 +1708,12 @@ kuchitika VERB
 popanda ADV
 vuto NOUN
 lililonse ADJ
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Padakali ADV
 pano ADV
-"," PUNCT
+, PUNCT
 malo NOUN
 amene ADJ
 amangepo VERB
@@ -1731,7 +1731,7 @@ tsiku NOUN
 Zopeza ADV
 za ADP
 nthambiyi NOUN
-"," PUNCT
+, PUNCT
 zikuonetsa VERB
 kuti CCONJ
 mwayi NOUN
@@ -1764,7 +1764,7 @@ zakhala VERB
 zikukambidwa VERB
 za ADP
 mkalabongo NOUN
-"," PUNCT
+, PUNCT
 mowa NOUN
 waukali ADJ
 umene PRON
@@ -1774,7 +1774,7 @@ amene PRON
 akuumwa VERB
 koma CCONJ
 tsopano ADV
-"," PUNCT
+, PUNCT
 makampani NOUN
 21 NUM
 akufufuzidwa VERB
@@ -1793,7 +1793,7 @@ Mwamadi PROPN
 akuti VERB
 gawoli NOUN
 likatha VERB
-"," PUNCT
+, PUNCT
 anthu NOUN
 amene ADJ
 amagwiritsira VERB
@@ -1807,7 +1807,7 @@ izichitika VERB
 
 Zonse PRON
 zikatha VERB
-"," PUNCT
+, PUNCT
 ndiye VERB
 kuti CCONJ
 Nkaya NOUN
@@ -1826,7 +1826,7 @@ Sitima NOUN
 yochokera ADJ
 ku ADP
 Mwanza PROPN
-"," PUNCT
+, PUNCT
 komanso CCONJ
 Kanengo PROPN
 zizidutsana VERB
@@ -1850,10 +1850,10 @@ avota VERB
 Kwatsala ADV
 utsi NOUN
 wokha ADJ
-"," PUNCT
+, PUNCT
 nsima NOUN
 yapsa ADJ
-"," PUNCT
+, PUNCT
 chapakula VERB
 chipande NOUN
 ndipo CCONJ
@@ -1884,7 +1884,7 @@ chomwe PRON
 
 Lachiwiri PROPN
 lapitali ADV
-"," PUNCT
+, PUNCT
 zipani NOUN
 zinayi NUM
 mwa ADP
@@ -1907,11 +1907,11 @@ a DET
 Kaliyeka NOUN
 ku ADP
 Lilongwe PROPN
-"," PUNCT
+, PUNCT
 Bunda NOUN
 ku ADP
 Kasungu PROPN
-"," PUNCT
+, PUNCT
 Bembeke NOUN
 ku ADP
 Dedza PROPN
@@ -1933,7 +1933,7 @@ wamphamvu ADJ
 Powomola ADV
 zonse ADJ
 Lachitatu ADV
-"," PUNCT
+, PUNCT
 chipani NOUN
 cha ADP
 MCP PROPN
@@ -2020,7 +2020,7 @@ amabwerera VERB
 kumisonkhano NOUN
 ya ADP
 kampeni NOUN
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Menyani: PROPN
@@ -2037,7 +2037,7 @@ ayamikira VERB
 momwe PRON
 zisankhozi NOUN
 zayendera VERB
-"," PUNCT
+, PUNCT
 bungwe NOUN
 loyendetsa ADJ
 zisankho NOUN
@@ -2070,7 +2070,7 @@ omwe PRON
 amayembekezeka AUX
 kuponya VERB
 voti NOUN
-"," PUNCT
+, PUNCT
 anthu NOUN
 25 NUM
 150 NUM
@@ -2086,10 +2086,10 @@ wa ADP
 bungwe NOUN
 la ADP
 MEC PROPN
-"," PUNCT
+, PUNCT
 Jane PROPN
 Ansah PROPN
-"," PUNCT
+, PUNCT
 adati ADJ
 izi PRON
 nzofunika VERB
@@ -2104,10 +2104,10 @@ ukachenjede PROPN
 ya PROPN
 Chancellor PROPN
 College PROPN
-"," PUNCT
+, PUNCT
 Boniface PROPN
 Dulani PROPN
-"," PUNCT
+, PUNCT
 adati VERB
 gwelo NOUN
 la ADP
@@ -2132,15 +2132,15 @@ ya ADP
 mmudzi NOUN
 mdziko NOUN
 muno ADJ
-"," PUNCT
+, PUNCT
 Yunus PROPN
 Lambat PROPN
-"," PUNCT
+, PUNCT
 adanena VERB
 izi PRON
 pokumbukira NOUN
 maikowa ADJ
-"," PUNCT
+, PUNCT
 amene PRON
 adayambira VERB
 pa ADP
@@ -2172,15 +2172,15 @@ Pokhapokha CCONJ
 khalidwe NOUN
 lotereli ADJ
 litasintha VERB
-"," PUNCT
+, PUNCT
 vuto NOUN
 lothawa ADJ
 kuvota VERB
 silingathe AUX
-"," PUNCT
+, PUNCT
 
 Mayi NOUN
-"," PUNCT
+, PUNCT
 ndati AUX
 ndicheze VERB
 nanu PRON
@@ -2261,7 +2261,7 @@ Network PROPN
 Mesn PUNCT
 Steve PROPN
 Duwa PROPN
-"," PUNCT
+, PUNCT
 adati VERB
 ichi PRON
 nchizindikiro NOUN
@@ -2288,7 +2288,7 @@ ndi ADP
 atsogoleri NOUN
 omwe ADJ
 adawasankha VERB
-"," PUNCT
+, PUNCT
 makamaka ADV
 pakayendetsedwe NOUN
 ka ADP
@@ -2323,18 +2323,18 @@ chiyembekezo NOUN
 choti ADJ
 atumikiridwa VERB
 bwino ADV
-"," PUNCT
+, PUNCT
 ndiye SCONJ
 zikapanda AUX
 kuyenda VERB
 momwe PRON
 amayembekezera VERB
-"," PUNCT
+, PUNCT
 zotsatira NOUN
 zake ADJ
 zimakhala VERB
 zimenezi PRON
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Mfundozi NOUN
@@ -2360,7 +2360,7 @@ nkulandira VERB
 
 Tikaunika VERB
 bwinobwino ADV
-"," PUNCT
+, PUNCT
 timaona VERB
 kuti ADP
 zomwe PRON
@@ -2383,11 +2383,11 @@ yako ADJ
 uigwiritse VERB
 ntchito NOUN
 ina ADJ
-"," PUNCT
+, PUNCT
 adatero VERB
 Adam PROPN
 Potani PROPN
-"," PUNCT
+, PUNCT
 wochokera VERB
 kwa ADP
 
@@ -2399,7 +2399,7 @@ ku ADP
 Nchezi PROPN
 ku PROPN
 Lilongwe PROPN
-"," PUNCT
+, PUNCT
 adali VERB
 ndi ADP
 ndemanga NOUN
@@ -2426,7 +2426,7 @@ azitumikira AUX
 
 Chisankho NOUN
 chisadachitike VERB
-"," PUNCT
+, PUNCT
 Tamvani PROPN
 adacheza VERB
 ndi ADP
@@ -2452,10 +2452,10 @@ wa NOUN
 chipani NOUN
 cha NOUN
 MCP PROPN
-"," PUNCT
+, PUNCT
 Alekeni PROPN
 Menyani PROPN
-"," PUNCT
+, PUNCT
 adati VERB
 zotsatirazi NOUN
 zidasonyeza VERB
@@ -2509,10 +2509,10 @@ wa PROPN
 chipani PROPN
 cha ADP
 DPP PROPN
-"," PUNCT
+, PUNCT
 Francis PROPN
 Kasaira PROPN
-"," PUNCT
+, PUNCT
 adati VERB
 chipanichi NOUN
 chidachita VERB
@@ -2572,10 +2572,10 @@ wa ADP
 mtsogoleri NOUN
 wa ADP
 chipanichi NOUN
-"," PUNCT
+, PUNCT
 Uladi PROPN
 Mussa PROPN
-"," PUNCT
+, PUNCT
 sadayankhe VERB
 foni NOUN
 yake ADJ
@@ -2612,10 +2612,10 @@ ndipo CCONJ
 apolisi NOUN
 adatiuza VERB
 kuti ADP
-"," PUNCT
+, PUNCT
 ngati SCONJ
 sangathe VERB
-"," PUNCT
+, PUNCT
 ine PRON
 ndi VERB
 amene PRON
@@ -2625,7 +2625,7 @@ ndegeyo NOUN
 ndipodi SCONJ
 ndidaiononga VERB
 poitentha ADV
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Ngati SCONJ
@@ -2638,7 +2638,7 @@ kutula VERB
 pansi NOUN
 udindo NOUN
 wake ADJ
-"," PUNCT
+, PUNCT
 ndiye VERB
 kuti ADP
 chisankho NOUN
@@ -2653,7 +2653,7 @@ adzasankhe VERB
 mtsogoleri NOUN
 wa ADP
 dziko NOUN
-"," PUNCT
+, PUNCT
 aphungu NOUN
 a DET
 Nyumba NOUN
@@ -2698,7 +2698,7 @@ pomwe PRON
 chinthu NOUN
 china ADJ
 chachilendo ADJ
-"," PUNCT
+, PUNCT
 chomwe PRON
 akuchiganizira VERB
 kuti ADP
@@ -2706,7 +2706,7 @@ ndi VERB
 ndege NOUN
 ya ADP
 ufiti NOUN
-"," PUNCT
+, PUNCT
 chidagwa VERB
 
 Titamfunsa VERB
@@ -2718,7 +2718,8 @@ mndegemo NOUN
 mudali VERB
 anthu NOUN
 40 NUM
-"," PUNCT
+, PUNCT
+
 Phiri PROPN
 adati VERB
 adaunika AUX
@@ -2765,7 +2766,6 @@ abale NOUN
 a DET
 mfitizo NOUN
 akhoza VERB
-
 kukawachita VERB
 
 Ngakhale CCONJ
@@ -2773,7 +2773,7 @@ ena PRON
 akuti VERB
 ufiti NOUN
 kulibe VERB
-"," PUNCT
+, PUNCT
 kunja ADV
 kuno ADJ
 kukuchitika VERB
@@ -2787,7 +2787,7 @@ kuti ADP
 adziwe VERB
 zomwe PRON
 zikuchitika VERB
-"," PUNCT
+, PUNCT
 
 Iye PRON
 adati VERB
@@ -2864,7 +2864,7 @@ mkazi NOUN
 samamulonjeza VERB
 mwamuna NOUN
 wake ADJ
-"," PUNCT
+, PUNCT
 ndiye CCONJ
 pamenepa PRON
 mwamuna NOUN
@@ -2876,10 +2876,10 @@ angomusiya VERB
 ? PUNCT
 
 LF PROPN
-"," PUNCT
+, PUNCT
 Wokondeka ADJ
 LF PROPN
-"," PUNCT
+, PUNCT
 Munthu NOUN
 utha VERB
 kukhala AUX
@@ -2944,7 +2944,7 @@ moyo NOUN
 wawo ADJ
 wonse PRON
 mbanja NOUN
-"," PUNCT
+, PUNCT
 pamene CCONJ
 chibwenzi NOUN
 mumatha AUX
@@ -2968,11 +2968,11 @@ ambiri ADJ
 ngakhale CCONJ
 uli VERB
 pabanja NOUN
-"," PUNCT
+, PUNCT
 monga CCONJ
 ndanena VERB
 kale NOUN
-"," PUNCT
+, PUNCT
 koma CCONJ
 amene PRON
 umatherana VERB
@@ -2984,7 +2984,7 @@ zakumphasa NOUN
 ndi VERB
 mmodzi NUM
 yekha ADJ
-"," PUNCT
+, PUNCT
 wachikondi NOUN
 wako ADJ
 . PUNCT
@@ -3057,7 +3057,7 @@ Pamene CCONJ
 pali VERB
 chikondi NOUN
 sipasowa VERB
-"," PUNCT
+, PUNCT
 zochitika NOUN
 zimasonyeza VERB
 zokha PRON
@@ -3071,7 +3071,7 @@ wina PRON
 Polankhula VERB
 za ADP
 tsikuli NOUN
-"," PUNCT
+, PUNCT
 Tadala PROPN
 adati VERB
 iye PRON
@@ -3135,18 +3135,18 @@ kutsogolo ADV
 
 Ndiye CCONJ
 nditani VERB
-"," PUNCT
+, PUNCT
 agogo NOUN
 ? PUNCT
 
 LC PROPN
-"," PUNCT
+, PUNCT
 Zikomo PART
 LC PROPN
-"," PUNCT
+, PUNCT
 Mwana NOUN
 wanga ADJ
-"," PUNCT
+, PUNCT
 chimene PRON
 ukufuna AUX
 sindikuchidziwa VERB
@@ -3208,7 +3208,7 @@ akukwatira VERB
 zaka NOUN
 ziwiri NUM
 zikubwerazi VERB
-"," PUNCT
+, PUNCT
 makamaka ADV
 ukufuna VERB
 kuti ADP
@@ -3223,7 +3223,7 @@ zili VERB
 ndi ADP
 iwe PRON
 mwini ADJ
-"," PUNCT
+, PUNCT
 koma CCONJ
 chomwe PRON
 ndingakulangize VERB
@@ -3247,13 +3247,13 @@ tikwatirane VERB
 lero ADV
 ndi ADP
 lero ADV
-"," PUNCT
+, PUNCT
 koma CCONJ
 mumtima NOUN
 mwake ADJ
 mulibe VERB
 chikondi NOUN
-"," PUNCT
+, PUNCT
 pomwe PRON
 wina PRON
 anena VERB
@@ -3280,7 +3280,7 @@ ndi CCONJ
 lero NOUN
 linadetsa VERB
 mnthengu NOUN
-"," PUNCT
+, PUNCT
 komanso CCONJ
 ukasauka VERB
 sunga VERB
@@ -3309,7 +3309,7 @@ kuti ADP
 tione VERB
 ubwino NOUN
 patsogolo ADV
-"," PUNCT
+, PUNCT
 osati VERB
 kuchita AUX
 zinthu NOUN
@@ -3320,7 +3320,7 @@ Tsono CCONJ
 monga ADP
 ndanena VERB
 kale ADV
-"," PUNCT
+, PUNCT
 zili VERB
 ndi ADP
 iwe PRON
@@ -3335,7 +3335,7 @@ Koma CCONJ
 ndikanakhala AUX
 ndili VERB
 ine PRON
-"," PUNCT
+, PUNCT
 ndikanamupatsa VERB
 mpata NOUN
 mwamuna NOUN
@@ -3362,7 +3362,7 @@ nthawitu NOUN
 Kaneneni VERB
 akakuchitirani VERB
 nkhanza NOUN
-"," PUNCT
+, PUNCT
 apolisi NOUN
 auza VERB
 ana NOUN
@@ -3377,7 +3377,7 @@ ndi ADP
 nkhanza NOUN
 za DET
 mbanja NOUN
-"," PUNCT
+, PUNCT
 apolisi NOUN
 amema VERB
 atsikana NOUN
@@ -3391,7 +3391,7 @@ awo ADJ
 kapena CCONJ
 
 Patsikulo NOUN
-"," PUNCT
+, PUNCT
 apolisi NOUN
 komanso CCONJ
 akuluakulu NOUN
@@ -3428,7 +3428,7 @@ musitandede NOUN
 Ndimafuna AUX
 kudzakhala VERB
 dotolo NOUN
-"," PUNCT
+, PUNCT
 izi PRON
 sizingatheke VERB
 ngati CCONJ
@@ -3441,7 +3441,7 @@ wanga ADJ
 Ndadziwa VERB
 ufulu NOUN
 wanga ADJ
-"," PUNCT
+, PUNCT
 komanso CCONJ
 zomwe PRON
 ndingachite VERB
@@ -3449,7 +3449,7 @@ ngati ADP
 wina NOUN
 atandiphwanyira VERB
 ufuluwo NOUN
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Iye PRON
@@ -3469,10 +3469,10 @@ tsogolo NOUN
 Mmodzi NUM
 mwa DET
 alimiwo NOUN
-"," PUNCT
+, PUNCT
 Henry PROPN
 Kapalasa PROPN
-"," PUNCT
+, PUNCT
 wa DET
 mmudzi NOUN
 mwa ADP
@@ -3480,7 +3480,7 @@ Chabwera PROPN
 kwa ADP
 A_Mabuka PUNCT
 mbomalo NOUN
-"," PUNCT
+, PUNCT
 adati VERB
 nandolo NOUN
 watsika VERB
@@ -3505,7 +3505,7 @@ ena ADJ
 mboma NOUN
 la ADP
 Mulanje PROPN
-"," PUNCT
+, PUNCT
 ati VERB
 ali AUX
 ndi ADP
@@ -3529,7 +3529,7 @@ Pamene SCONJ
 ena PRON
 akolola VERB
 nandolo NOUN
-"," PUNCT
+, PUNCT
 wina PRON
 akadali VERB
 mmunda NOUN
@@ -3537,7 +3537,7 @@ kuti ADP
 aume VERB
 bwino ADV
 Kapalasa PROPN
-"," PUNCT
+, PUNCT
 yemwe PRON
 ndi VERB
 gogo NOUN
@@ -3545,7 +3545,7 @@ wa DET
 zilumika NUM
 zoposa ADV
 90 NUM
-"," PUNCT
+, PUNCT
 adati VERB
 chiyembekezo NOUN
 chake ADJ
@@ -3563,7 +3563,7 @@ a DET
 nkhaninkhani ADV
 pakutha VERB
 pamsikawo NOUN
-"," PUNCT
+, PUNCT
 ayamba AUX
 
 Kuno PRON
@@ -3606,7 +3606,7 @@ kotereku ADJ
 sikunachitikepo VERB
 nkale ADV
 lonse PRON
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Alimi NOUN
@@ -3692,12 +3692,12 @@ tipeza VERB
 ndalama NOUN
 zogulira ADJ
 chimanga NOUN
-"," PUNCT
+, PUNCT
 koma CCONJ
 pamenepa PRON
 tasowa VERB
 pogwira NOUN
-"," PUNCT
+, PUNCT
 anadandaula VERB
 
 Kapalasa PROPN
@@ -3748,7 +3748,7 @@ asagulitse VERB
 msanga ADV
 nandolo NOUN
 wawo ADJ
-"," PUNCT
+, PUNCT
 komanso CCONJ
 kuti ADP
 akonze VERB
@@ -3769,7 +3769,7 @@ ndili VERB
 ndi ADP
 maluso NOUN
 osiyanasiyana ADJ
-"," PUNCT
+, PUNCT
 adanditenga VERB
 dziko NOUN
 lonse ADJ
@@ -3797,7 +3797,7 @@ woti ADJ
 gulu NOUN
 lathu ADJ
 lingamavine VERB
-"," PUNCT
+, PUNCT
 ndidayambitsa VERB
 guleyu NOUN
 ndipo CCONJ
@@ -3853,7 +3853,7 @@ Party NOUN
 PP PUNCT
 Ken PROPN
 Msonda PROPN
-"," PUNCT
+, PUNCT
 komanso CCONJ
 wa ADP
 chipani NOUN
@@ -3867,10 +3867,10 @@ womenyera ADJ
 ufulu NOUN
 wa ADP
 anthu NOUN
-"," PUNCT
+, PUNCT
 Unandi PROPN
 Banda PROPN
-"," PUNCT
+, PUNCT
 apempha VERB
 bungweli NOUN
 kuti ADP
@@ -4005,7 +4005,7 @@ mmudzi NOUN
 mwa ADP
 Zinyongo PROPN
 Makwakwa PROPN
-"," PUNCT
+, PUNCT
 mboma NOUN
 la ADP
 Mzimba PROPN
@@ -4014,7 +4014,7 @@ Mzimba PROPN
 Uku ADV
 nkomwe PRON
 ndakulira VERB
-"," PUNCT
+, PUNCT
 kuphatikizirapo VERB
 ku ADP
 Chikwawa PROPN
@@ -4121,7 +4121,7 @@ kutchuthi NOUN
 ndi VERB
 nkhani NOUN
 yabwino ADJ
-"," PUNCT
+, PUNCT
 chifukwa ADP
 tikufuna VERB
 tidziwe VERB
@@ -4153,7 +4153,7 @@ kokha ADV
 kwa ADP
 zisankho NOUN
 chachibwereza ADJ
-"," PUNCT
+, PUNCT
 koma CCONJ
 kuti ADP
 izi PRON
@@ -4164,7 +4164,7 @@ cha ADP
 Ife PRON
 sitikukondwa VERB
 nazo ADV
-"," PUNCT
+, PUNCT
 zikuonetseratu VERB
 kuti ADP
 bungweli NOUN
@@ -4183,7 +4183,7 @@ zisachitike VERB
 
 Tadandaula VERB
 nazo PRON
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Mogwirizana CCONJ
@@ -4192,7 +4192,7 @@ akulu NOUN
 a DET
 zipani NOUN
 ziwirizi NUM
-"," PUNCT
+, PUNCT
 Banda PROPN
 adati VERB
 kutumizidwa VERB
@@ -4212,7 +4212,7 @@ yaikulu ADJ
 komanso CCONJ
 
 Mwachidule PART
-"," PUNCT
+, PUNCT
 izi PRON
 zikutanthauza VERB
 kuti ADP
@@ -4248,10 +4248,10 @@ yoona ADJ
 za ADP
 chuma NOUN
 kubungweli NOUN
-"," PUNCT
+, PUNCT
 Linda PROPN
 Kunje PROPN
-"," PUNCT
+, PUNCT
 akuti VERB
 anthu NOUN
 asadandaule VERB
@@ -4264,7 +4264,7 @@ chisankho NOUN
 simangochitika VERB
 tsiku NOUN
 limodzi ADJ
-"," PUNCT
+, PUNCT
 ndi VERB
 ndondomeko NOUN
 yomwe PRON
@@ -4279,7 +4279,7 @@ poti ADP
 anthu NOUN
 ena ADJ
 kulibeko VERB
-"," PUNCT
+, PUNCT
 ntchito NOUN
 igwirika VERB
 bwanji PRON
@@ -4288,7 +4288,7 @@ bwanji PRON
 Izi PRON
 tikudandaula VERB
 nazo PRON
-"," PUNCT
+, PUNCT
 adatero VERB
 Ndanga PROPN
 . PUNCT
@@ -4343,7 +4343,7 @@ kuchitika VERB
 
 Masiku NOUN
 apitawo VERB
-"," PUNCT
+, PUNCT
 apolisi NOUN
 adagwira VERB
 galimoto NOUN
@@ -4369,13 +4369,13 @@ adzamulipirira VERB
 atanena VERB
 bwino ADV
 ndakatulo NOUN
-"," PUNCT
+, PUNCT
 koma CCONJ
 ngakhale ADJ
 adatsindika VERB
 za ADP
 thandizolo NOUN
-"," PUNCT
+, PUNCT
 izi ADJ
 sizidatheke VERB
 ndipo CCONJ
@@ -4431,26 +4431,26 @@ pansi NOUN
 
 Apeza VERB
 njira NOUN
-"," PUNCT
+, PUNCT
 mwina ADJ
 akudziwa VERB
 chomwe PRON
 chikuchitika VERB
-"," PUNCT
+, PUNCT
 idatero VERB
 mfumuyo NOUN
-"," PUNCT
+, PUNCT
 yomwe ADJ
 sidafotokoze VERB
 njira NOUN
 
 Niko PROPN
-"," PUNCT
+, PUNCT
 Mwachoka ADV
 kumpando NOUN
 wosunga ADJ
 zisinsi NOUN
-"," PUNCT
+, PUNCT
 mwafika ADV
 kumpando NOUN
 woulula ADJ
@@ -4466,7 +4466,7 @@ adafunsa VERB
 Malinga CCONJ
 ndi ADP
 Jere PROPN
-"," PUNCT
+, PUNCT
 namwaliyu NOUN
 ndi VERB
 namwino NOUN
@@ -4489,7 +4489,7 @@ ndipo CCONJ
 munthu NOUN
 akapezeka VERB
 wolakwa ADJ
-"," PUNCT
+, PUNCT
 chilango NOUN
 chake ADJ
 chachikulu ADJ
@@ -4520,10 +4520,10 @@ mneneri NOUN
 wa ADP
 apolisi NOUN
 mbomali NOUN
-"," PUNCT
+, PUNCT
 Rome PROPN
 Chauluka PROPN
-"," PUNCT
+, PUNCT
 adati VERB
 mkuluyu NOUN
 akuti VERB
@@ -4603,19 +4603,19 @@ kuti CCONJ
 mowawu NOUN
 umaononga VERB
 ubongo NOUN
-"," PUNCT
+, PUNCT
 mapapo NOUN
-"," PUNCT
+, PUNCT
 impso NOUN
-"," PUNCT
+, PUNCT
 komanso CCONJ
 kulumalitsa VERB
 nkhope NOUN
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Chenjerani VERB
-"," PUNCT
+, PUNCT
 2017 NUM
 tisatuwe VERB
 ndi ADP
@@ -4638,7 +4638,7 @@ cha ADP
 2017 NUM
 chili VERB
 pamphuno NOUN
-"," PUNCT
+, PUNCT
 akadaulo NOUN
 ena ADJ
 a DET
@@ -4683,21 +4683,21 @@ Ndakaika VERB
 . PUNCT
 
 Iwe PRON
-"," PUNCT
+, PUNCT
 mwana NOUN
 wa ADP
 zaka NOUN
 15 NUM
-"," PUNCT
+, PUNCT
 chibwenzi NOUN
 nchachiyani NUM
-"," PUNCT
+, PUNCT
 mwanawe NOUN
 ? PUNCT
 
 Ayi ADV
 ndithu ADV
-"," PUNCT
+, PUNCT
 ukayamba VERB
 zibwenzi NOUN
 pamsinkhu NOUN
@@ -4737,7 +4737,7 @@ lili VERB
 ndi ADP
 zaka NOUN
 zingati ADJ
-"," PUNCT
+, PUNCT
 koma CCONJ
 ngati CCONJ
 ndi VERB
@@ -4755,7 +4755,7 @@ mwana NOUN
 wamngono ADJ
 ngati CCONJ
 iwe PRON
-"," PUNCT
+, PUNCT
 nchifukwa CCONJ
 chake PRON
 sakulabadira VERB
@@ -4765,7 +4765,7 @@ zokuimbira VERB
 Ndiye CCONJ
 ngati CCONJ
 umamva VERB
-"," PUNCT
+, PUNCT
 chonde ADV
 musiye VERB
 ndipo CCONJ
@@ -4778,7 +4778,7 @@ Ukapanda VERB
 kumva VERB
 langizo NOUN
 langa ADJ
-"," PUNCT
+, PUNCT
 kaya ADV
 zako PRON
 izo PRON
@@ -4802,7 +4802,7 @@ amalakwitsa VERB
 ? PUNCT
 
 Kwambiri ADV
-"," PUNCT
+, PUNCT
 chifukwa CCONJ
 potero ADV
 paja PRON
@@ -4835,7 +4835,7 @@ vloboola VERB
 mmphuno NOUN
 osati CCONJ
 masewera NOUN
-"," PUNCT
+, PUNCT
 ndiye CCONJ
 ngati VERB
 munthu NOUN
@@ -4877,7 +4877,7 @@ maiko NOUN
 a DET
 anzathu NOUN
 amachitira VERB
-"," PUNCT
+, PUNCT
 pamenepanso ADV
 ndi VERB
 nkhani NOUN
@@ -4923,12 +4923,12 @@ mukunenawo VERB
 . PUNCT
 
 Mwachitsanzo ADV
-"," PUNCT
+, PUNCT
 kuno ADV
 kwathu NOUN
 pakakhala VERB
 zochitika VERB
-"," PUNCT
+, PUNCT
 nthawi NOUN
 zambiri ADV
 timadalira VERB
@@ -5034,7 +5034,7 @@ wabwino ADV
 pothana ADV
 ndi ADP
 uchidakwa NOUN
-"," PUNCT
+, PUNCT
 kusuta VERB
 fodya NOUN
 ndi ADP
@@ -5050,7 +5050,7 @@ Fomu NOUN
 4 NUM
 Nditaona VERB
 uthengawo NOUN
-"," PUNCT
+, PUNCT
 ndidangoti VERB
 mwayi NOUN
 
@@ -5059,7 +5059,7 @@ matenti NOUN
 palibe VERB
 chimene PRON
 chachitikapo VERB
-"," PUNCT
+, PUNCT
 mabuloko NOUN
 sadayambe VERB
 kumangidwa VERB
@@ -5076,7 +5076,7 @@ alipo VERB
 kuti CCONJ
 mabuloko NOUN
 amangidwa VERB
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Ku ADP
@@ -5142,10 +5142,10 @@ lakufalo ADJ
 amangoti VERB
 laponda VERB
 lamphawi ADJ
-"," PUNCT
+, PUNCT
 ndiwo NOUN
 zapezeka VERB
-"," PUNCT
+, PUNCT
 osadziwa VERB
 kuti CCONJ
 akuika VERB
@@ -5198,10 +5198,10 @@ Centre PROPN
 mumzinda NOUN
 wa ADP
 Blantyre PROPN
-"," PUNCT
+, PUNCT
 Veronica PROPN
 Mughogho PROPN
-"," PUNCT
+, PUNCT
 wati VERB
 TB NOUN
 ya ADP
@@ -5216,7 +5216,7 @@ madzi NOUN
 osefulira ADJ
 angabwere VERB
 lero NOUN
-"," PUNCT
+, PUNCT
 pali ADV
 mantha NOUN
 kuti CCONJ
@@ -5243,13 +5243,13 @@ mzisakasa NOUN
 ngati CCONJ
 izi PRON
 Mwachisanzo ADV
-"," PUNCT
+, PUNCT
 unduna NOUN
 wamaphunziro ADJ
 wapatsidwa VERB
 K235 NUM
 biliyoni NUM
-"," PUNCT
+, PUNCT
 koma CCONJ
 mkulu NOUN
 wa ADP
@@ -5286,7 +5286,7 @@ Illovo PROPN
 nzotamandika ADJ
 chifukwa PRON
 kulilekerera VERB
-"," PUNCT
+, PUNCT
 dzombe NOUN
 likadakhoza VERB
 kufalikira VERB
@@ -5301,7 +5301,7 @@ zina PRON
 . PUNCT
 
 Poyankhapo ADV
-"," PUNCT
+, PUNCT
 Dausi PROPN
 adati VERB
 anthu NOUN
@@ -5335,7 +5335,7 @@ zomwe PRON
 zatilepheretsa VERB
 kuchititsa VERB
 zisankhozi NOUN
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Ndili PRON
@@ -5504,7 +5504,7 @@ chidwi NOUN
 a DET
 Mzuzu PROPN
 Museum PROPN
-"," PUNCT
+, PUNCT
 mukapeza VERB
 kuti CCONJ
 kuli ADV
@@ -5534,12 +5534,12 @@ guleyu NOUN
 monga: CCONJ
 Kusangalatsa VERB
 anthu NOUN
-"," PUNCT
+, PUNCT
 kuwaphunzitsa VERB
 zosiyanasiyana ADJ
 kudzera CCONJ
 mmagule NOUN
-"," PUNCT
+, PUNCT
 kusunga VERB
 chikhalidwe NOUN
 komanso CCONJ
@@ -5549,7 +5549,7 @@ patsogolo ADV
 Kuchokera ADP
 kubanja NOUN
 langa ADJ
-"," PUNCT
+, PUNCT
 ndakhala VERB
 ndikunenedwa VERB
 kuti CCONJ
@@ -5612,7 +5612,7 @@ Mwa ADP
 ena PRON
 ndimavina VERB
 mganda NOUN
-"," PUNCT
+, PUNCT
 malipenga NOUN
 ndi ADP
 chilimika NOUN
@@ -5620,12 +5620,12 @@ zochokera ADJ
 ku ADP
 Nkhata PROPN
 Bay PROPN
-"," PUNCT
+, PUNCT
 mapenenga NOUN
 a DET
 ku ADP
 Karonga PROPN
-"," PUNCT
+, PUNCT
 beni PROPN
 kuchokera ADP
 ku ADP
@@ -5676,12 +5676,12 @@ kusakhale VERB
 
 Mu ADP
 2015 NUM
-"," PUNCT
+, PUNCT
 mtsogoleri NOUN
 wa ADP
 dziko NOUN
 lino ADJ
-"," PUNCT
+, PUNCT
 Peter PROPN
 Mutharika PROPN
 adalengeza VERB
@@ -5729,7 +5729,7 @@ chaka NOUN
 chino ADJ
 moti ADV
 mabungwe NOUN
-"," PUNCT
+, PUNCT
 boma NOUN
 ndi ADP
 ena PRON
@@ -5747,7 +5747,7 @@ chino ADJ
 yadza VERB
 ndi ADP
 mkokomo NOUN
-"," PUNCT
+, PUNCT
 mantha VERB
 ali VERB
 chaka NOUN
@@ -5768,12 +5768,12 @@ out ADP
 but CCONJ
 my ADJ
 agent NOUN
-"," PUNCT
+, PUNCT
 who PRON
 also ADV
 manages VERB
 Tawonga PROPN
-"," PUNCT
+, PUNCT
 is VERB
 very ADV
 busy NOUN
@@ -5791,7 +5791,7 @@ matter NOUN
 of ADP
 being VERB
 patient NOUN
-"," PUNCT
+, PUNCT
 he PRON
 said VERB
 yesterday ADV
@@ -5828,12 +5828,12 @@ nthawi NOUN
 yabwino ADJ
 kuti CCONJ
 ikamasiya VERB
-"," PUNCT
+, PUNCT
 mbewu NOUN
 zikhale VERB
 zili VERB
 pena PRON
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Iye PRON
@@ -5854,33 +5854,34 @@ tili VERB
 ndi ADP
 La ADP
 Nina PROPN
-"," PUNCT
+, PUNCT
 ndiye CCONJ
 kuti VERB
 tilandira VERB
 mvula NOUN
 yambiri ADJ
-"," PUNCT
+, PUNCT
 mvula NOUN
 imeneyi ADJ
 tisangoyirekerera VERB
-"," PUNCT
+, PUNCT
 tiyeni VERB
 tibzale VERB
 mbewu NOUN
 zina ADJ
 monga CCONJ
 mpunga NOUN
-"," PUNCT
+, PUNCT
 chinangwa NOUN
-"," PUNCT
+, PUNCT
 mbatata NOUN
 ndi ADP
 zina PRON
 kuti CCONJ
 madziwa VERB
 atithandize VERB
-"," PUNCT
+, PUNCT
+
 adatero VERB
 Nkhono PROPN
 Mvula PUNCT
@@ -5909,7 +5910,6 @@ silinaikepo VERB
 mtima NOUN
 pantchito ADV
 yogawa VERB
-
 makuponi NOUN
 ogulira NOUN
 feteleza NOUN
@@ -5919,7 +5919,7 @@ zotsika ADJ
 
 Tikunena VERB
 pano ADV
-"," PUNCT
+, PUNCT
 madera NOUN
 ena ADJ
 sanalandirebe VERB
@@ -5936,7 +5936,7 @@ njala NOUN
 Alimi NOUN
 ambiri ADJ
 abzala VERB
-"," PUNCT
+, PUNCT
 chimanga NOUN
 chawo ADJ
 chakula VERB
@@ -5958,7 +5958,7 @@ ndi ADP
 ndondomeko NOUN
 ya ADP
 feteleza NOUN
-"," PUNCT
+, PUNCT
 si VERB
 bwezi ADV
 tikudandaula VERB
@@ -5976,12 +5976,12 @@ monga CCONJ
 zidalili VERB
 zaka NOUN
 zapitazi ADJ
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Mchaka NOUN
 chikuthachi ADJ
-"," PUNCT
+, PUNCT
 kudagwa VERB
 dzombe NOUN
 limene ADJ
@@ -6066,7 +6066,7 @@ a DET
 
 Ife PRON
 ojiya NOUN
-"," PUNCT
+, PUNCT
 osenza NOUN
 ndi ADP
 osolola NOUN
@@ -6085,7 +6085,7 @@ Chiradzulu PROPN
 Apapa PRON
 afune VERB
 asafune VERB
-"," PUNCT
+, PUNCT
 mawa NOUN
 kulibe VERB
 woyendetsa NOUN
@@ -6094,7 +6094,7 @@ kuchoka VERB
 pano ADV
 pa ADP
 Wenela PROPN
-"," PUNCT
+, PUNCT
 adayamba VERB
 nkhani NOUN
 mmodzi NUM
@@ -6120,10 +6120,10 @@ akanadziwa VERB
 
 Anzakewo NOUN
 adamuukira VERB
-"," PUNCT
+, PUNCT
 kumuthira VERB
 maphuzo NOUN
-"," PUNCT
+, PUNCT
 monga CCONJ
 achitira VERB
 anthuwa NOUN
@@ -6187,7 +6187,7 @@ kwambiri ADV
 
 Sitikufuna VERB
 zimenezo PRON
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Kodi PRON
@@ -6220,11 +6220,11 @@ ndiye CCONJ
 pano ADV
 akufuna VERB
 kutifinya VERB
-"," PUNCT
+, PUNCT
 adayankha VERB
 mkulu NOUN
 wina PRON
-"," PUNCT
+, PUNCT
 mmaso NOUN
 muli ADV
 gwaaa INTJ
@@ -6250,7 +6250,7 @@ zokwiya ADJ
 ndi ADP
 malamulo NOUN
 okhazikika NOUN
-"," PUNCT
+, PUNCT
 simukuona VERB
 kuti CCONJ
 masiku NOUN
@@ -6286,7 +6286,7 @@ mukuona VERB
 kuti CCONJ
 akhwima VERB
 kwambiri ADV
-"," PUNCT
+, PUNCT
 mukadakambirana VERB
 ndi ADP
 aphungu NOUN
@@ -6315,24 +6315,24 @@ za ADP
 umbuli NOUN
 mukuchita VERB
 apazi VERB
-"," PUNCT
+, PUNCT
 
 Palibe VERB
-"," PUNCT
+, PUNCT
 kaya ADV
 wina PRON
 afune VERB
 kaya ADV
 asafune VERB
-"," PUNCT
+, PUNCT
 ife PRON
 tikukachita VERB
 zionetsero VERB
 basi ADV
-"," PUNCT
+, PUNCT
 adatero VERB
 wina PRON
-"," PUNCT
+, PUNCT
 akutulutsa VERB
 
 Adachinola VERB
@@ -6353,7 +6353,7 @@ May PROPN
 2014 NUM
 macheza NOUN
 sadachedwe VERB
-"," PUNCT
+, PUNCT
 koma CCONJ
 apo PRON
 akuti VERB
@@ -6408,7 +6408,7 @@ Eyi INTJ
 
 Posafuna ADV
 kutsalira VERB
-"," PUNCT
+, PUNCT
 zigandanga VERB
 za ADP
 ku ADP
@@ -6431,7 +6431,7 @@ Pomwe PRON
 moto NOUN
 umazilala VERB
 Loweruka NOUN
-"," PUNCT
+, PUNCT
 madalaivala NOUN
 aja ADJ
 adagwirizana VERB
@@ -6449,7 +6449,7 @@ Queens PROPN
 
 Pa ADP
 Mibawa NOUN
-"," PUNCT
+, PUNCT
 adati VERB
 mtengo NOUN
 wakwera VERB
@@ -6463,7 +6463,7 @@ Chifukwa SCONJ
 ? PUNCT
 
 Kaya ADV
-"," PUNCT
+, PUNCT
 adayankha VERB
 
 Abiti PROPN
@@ -6484,7 +6484,7 @@ WhatsApp NOUN
 Sindikudziwa VERB
 ankalemba VERB
 chiyani ADV
-"," PUNCT
+, PUNCT
 koma CCONJ
 uthenga NOUN
 womaliza ADJ
@@ -6495,7 +6495,7 @@ pachipatala NOUN
 
 Titafika VERB
 pasitejipo NOUN
-"," PUNCT
+, PUNCT
 tidapeza VERB
 kuti CCONJ
 amalankhula VERB
@@ -6519,7 +6519,7 @@ ameneyu PRON
 
 Akachita VERB
 makani NOUN
-"," PUNCT
+, PUNCT
 manambala NOUN
 aapolisi NOUN
 aja ADJ
@@ -6534,7 +6534,7 @@ chamba NOUN
 chili VERB
 mthumba NOUN
 awa ADJ
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Lonjezo NOUN
@@ -6545,13 +6545,13 @@ loto NOUN
 Bambo NOUN
 ake ADJ
 adamwalira VERB
-"," PUNCT
+, PUNCT
 chiyembekezo NOUN
 chidali VERB
 pa ADP
 bambo NOUN
 womupeza ADJ
-"," PUNCT
+, PUNCT
 nawonso PRON
 adamukhumudwitsa VERB
 pomugwiririra ADV
@@ -6595,7 +6595,7 @@ pa ADP
 18 NUM
 March PROPN
 2013 NUM
-"," PUNCT
+, PUNCT
 chiyembekezo NOUN
 cha ADP
 Zione NOUN
@@ -6622,7 +6622,7 @@ ndi ADP
 mphunzitsi NOUN
 wa ADP
 Zione PROPN
-"," PUNCT
+, PUNCT
 adalonjeza VERB
 Zione PROPN
 patsiku NOUN
@@ -6678,7 +6678,7 @@ zaka NOUN
 Atamufunsa VERB
 za ADP
 sukulu NOUN
-"," PUNCT
+, PUNCT
 iye PRON
 adati AUX
 akufuna VERB
@@ -6692,7 +6692,7 @@ adati VERB
 amulipirira VERB
 sukulu NOUN
 yake ADJ
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Tsogolo NOUN
@@ -6729,14 +6729,14 @@ ngati CCONJ
 mmawa NOUN
 kwa ADP
 Zione PROPN
-"," PUNCT
+, PUNCT
 zoti CCONJ
 adachitidwa VERB
 chipongwe NOUN
 ndi ADP
 bambo NOUN
 ake ADJ
-"," PUNCT
+, PUNCT
 zidaiwalika VERB
 . PUNCT
 
@@ -6754,7 +6754,7 @@ chimwemwe NOUN
 . PUNCT
 
 Titangotuluka VERB
-"," PUNCT
+, PUNCT
 ndidaimbira VERB
 foni NOUN
 malume NOUN
@@ -6768,22 +6768,22 @@ akusukulu NOUN
 zomwe ADJ
 apulezidenti NOUN
 adandilonjeza VERB
-"," PUNCT
+, PUNCT
 ndidasangalala VERB
 kwambiri ADV
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Chidatsala VERB
 nkuti CCONJ
 Zione PROPN
-"," PUNCT
+, PUNCT
 yemwe VERB
 panthawiyo ADV
 adali VERB
 Sitandede NOUN
 8 NUM
-"," PUNCT
+, PUNCT
 akhoze VERB
 mayeso NOUN
 . PUNCT
@@ -6792,7 +6792,7 @@ Ndidakalimbikira VERB
 kusukulu NOUN
 ndipo CCONJ
 ndidakhozadi VERB
-"," PUNCT
+, PUNCT
 
 Ndidapita VERB
 kuofesi NOUN
@@ -6805,7 +6805,7 @@ nkuti VERB
 Zione PROPN
 adali AUX
 asadabereke VERB
-"," PUNCT
+, PUNCT
 adati VERB
 tidikire VERB
 abereke VERB
@@ -6813,7 +6813,7 @@ kaye ADV
 kuti CCONJ
 abwerere VERB
 kusukulu NOUN
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Apa PRON
@@ -6832,7 +6832,7 @@ Pa ADP
 9 NUM
 January PROPN
 2014 NUM
-"," PUNCT
+, PUNCT
 mwana NOUN
 adabadwa VERB
 ndipo CCONJ
@@ -6875,7 +6875,7 @@ andiimbira VERB
 Poona VERB
 kuti CCONJ
 sakuimba VERB
-"," PUNCT
+, PUNCT
 ndidapitanso VERB
 ndipo CCONJ
 adandiuza VERB
@@ -6883,7 +6883,7 @@ kuti CCONJ
 ndisiye VERB
 nambala NOUN
 aimba VERB
-"," PUNCT
+, PUNCT
 koma CCONJ
 sadaimbe VERB
 . PUNCT
@@ -6903,7 +6903,7 @@ mpaka CCONJ
 lero NOUN
 pamene PRON
 ndatopa VERB
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Ngakhale SCONJ
@@ -6916,7 +6916,7 @@ kalata NOUN
 zokumbutsa ADJ
 za ADP
 lonjezolo NOUN
-"," PUNCT
+, PUNCT
 komabe CCONJ
 palibe VERB
 chidachitika VERB
@@ -6926,7 +6926,7 @@ Msangulutso NOUN
 utaimbira VERB
 foni NOUN
 Mihowa PROPN
-"," PUNCT
+, PUNCT
 iye PRON
 adati AUX
 tilankhule VERB
@@ -6946,7 +6946,7 @@ mneneri NOUN
 wa ADP
 Joyce PROPN
 Banda PROPN
-"," PUNCT
+, PUNCT
 imbirani VERB
 mneneri NOUN
 wake ADJ
@@ -7027,7 +7027,7 @@ koma CCONJ
 chaka NOUN
 chino ADJ
 ayi ADV
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Mayi NOUN
@@ -7051,13 +7051,13 @@ kulumikizana VERB
 kwabwino ADV
 ndi ADP
 mtsikanayo NOUN
-"," PUNCT
+, PUNCT
 
 Koma CCONJ
 mthandizi NOUN
 wa ADP
 Banda PROPN
-"," PUNCT
+, PUNCT
 akuti VERB
 ndondomeko NOUN
 zoyenera ADJ
@@ -7166,7 +7166,7 @@ kusukulu NOUN
 Bambo NOUN
 wa ADP
 pabanjapo NOUN
-"," PUNCT
+, PUNCT
 Evance PROPN
 Milanzie PROPN
 wati VERB
@@ -7179,12 +7179,12 @@ pomvetsa ADV
 Ndi VERB
 mwana NOUN
 wanzeru ADJ
-"," PUNCT
+, PUNCT
 zangovuta VERB
 kuti CCONJ
 lonjezolo NOUN
 silidatheke VERB
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Aka PRON
@@ -7203,7 +7203,7 @@ lonjezolo NOUN
 
 Mu ADP
 2004 NUM
-"," PUNCT
+, PUNCT
 mtsogoleri NOUN
 wakale ADJ
 Bingu PROPN
@@ -7234,7 +7234,7 @@ ali VERB
 ndi ADP
 mtima NOUN
 wabwino ADJ
-"," PUNCT
+, PUNCT
 cholinga NOUN
 akalonjeza VERB
 apateko VERB
@@ -7244,17 +7244,17 @@ cha ADP
 mtima NOUN
 womwe ADJ
 aonetsa VERB
-"," PUNCT
+, PUNCT
 koma CCONJ
 nzachisoni NOUN
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Pamene SCONJ
 izi PRON
 zili VERB
 chonchi CCONJ
-"," PUNCT
+, PUNCT
 Zione PROPN
 ndi ADP
 wokhumudwa ADJ
@@ -7270,14 +7270,14 @@ ya ADP
 kaganizidwe VERB
 ka ADP
 munthu NOUN
-"," PUNCT
+, PUNCT
 Chiwoza PROPN
 Bandawe PROPN
 akuti VERB
 Zione PROPN
 kukhala VERB
 wachichepere ADJ
-"," PUNCT
+, PUNCT
 izi PRON
 zingakhudze VERB
 moyo NOUN
@@ -7339,20 +7339,20 @@ ayamba AUX
 kuoneka VERB
 Anthu NOUN
 akakhala VERB
-"," PUNCT
+, PUNCT
 basi ADV
 amangoganiza VERB
 kuti CCONJ
 timapanga VERB
 zimenezo PRON
-"," PUNCT
+, PUNCT
 koma CCONJ
 sichoncho CCONJ
 . PUNCT
 
 Sindipanga VERB
 zimenezo PRON
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Chakuamba PROPN
@@ -7364,16 +7364,16 @@ kuno NOUN
 waphunzitsa VERB
 anthu NOUN
 ambiri ADV
-"," PUNCT
+, PUNCT
 Malemia PROPN
 
 Malinga PART
 ndi ADP
 Ishmael PROPN
-"," PUNCT
+, PUNCT
 miyezi NOUN
 yapitayo ADJ
-"," PUNCT
+, PUNCT
 amayi NOUN
 ena ADJ
 adafika VERB
@@ -7435,7 +7435,7 @@ ali VERB
 ndi ADP
 nkhuku NOUN
 yoyera ADJ
-"," PUNCT
+, PUNCT
 adalongosola VERB
 
 Iye PRON
@@ -7472,7 +7472,7 @@ kupolisi ADV
 komwe PRON
 adandiuza VERB
 zochita NOUN
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Iye PRON
@@ -7495,7 +7495,7 @@ kuti ADP
 Malinga PART
 ndi ADP
 Ishmael PROPN
-"," PUNCT
+, PUNCT
 adamuitanitsanso VERB
 mkuluyo NOUN
 kuti ADP
@@ -7505,7 +7505,7 @@ za ADP
 
 Sadachedwe VERB
 Adabweradi VERB
-"," PUNCT
+, PUNCT
 apa ADV
 nkuti ADP
 nditawauza VERB
@@ -7523,7 +7523,7 @@ yomwe PRON
 amammangayi VERB
 adali AUX
 asadatchule VERB
-"," PUNCT
+, PUNCT
 iye PRON
 
 Koma CCONJ
@@ -7537,7 +7537,7 @@ adayamba AUX
 kukana VERB
 kuti ADP
 sichoncho VERB
-"," PUNCT
+, PUNCT
 koma CCONJ
 apolisi NOUN
 adamumanga VERB
@@ -7554,7 +7554,7 @@ kumachuluka VERB
 ngozi NOUN
 za ADP
 pamsewu NOUN
-"," PUNCT
+, PUNCT
 mchitidwe NOUN
 wa ADP
 umbava NOUN
@@ -7625,7 +7625,7 @@ kupatula VERB
 zopangitsa ADJ
 ngozi NOUN
 zina PRON
-"," PUNCT
+, PUNCT
 nkhani NOUN
 yaikulu ADJ
 imakhala VERB
@@ -7734,7 +7734,7 @@ nthawi NOUN
 zambiri ADJ
 chifukwa CCONJ
 chokomedwa ADJ
-"," PUNCT
+, PUNCT
 anthu NOUN
 amasiya VERB
 pakhomo ADV
@@ -7756,7 +7756,7 @@ ana NOUN
 akusewera VERB
 kapena CCONJ
 kusangalala VERB
-"," PUNCT
+, PUNCT
 pali VERB
 munthu NOUN
 wamkulu ADJ
@@ -7769,7 +7769,7 @@ kuvulala VERB
 ngati CCONJ
 ali VERB
 okhaokha PRON
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Ndikukhulupirira VERB
@@ -7791,7 +7791,7 @@ nkhaniyi NOUN
 ndi VERB
 ya ADP
 gulu NOUN
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Mkangano NOUN
@@ -7805,7 +7805,7 @@ zagwedera VERB
 mboma NOUN
 la ADP
 Neno PROPN
-"," PUNCT
+, PUNCT
 Nsanje PROPN
 komanso CCONJ
 Salima PROPN
@@ -7866,7 +7866,7 @@ wa ADP
 boma NOUN
 la ADP
 Neno PROPN
-"," PUNCT
+, PUNCT
 khalansala NOUN
 komanso CCONJ
 phungu NOUN
@@ -7892,7 +7892,7 @@ nayo ADV
 Nako ADV
 ku ADP
 Nsanje PROPN
-"," PUNCT
+, PUNCT
 boma NOUN
 lidaimitsa VERB
 mfumu NOUN
@@ -7969,13 +7969,13 @@ pogwira ADV
 ntchito NOUN
 ndi ADP
 makhansala NOUN
-"," PUNCT
+, PUNCT
 ofesi NOUN
 ya ADP
 chitukuko NOUN
 pa ADP
 boma NOUN
-"," PUNCT
+, PUNCT
 komanso CCONJ
 ofesi NOUN
 ya ADP
@@ -8023,7 +8023,7 @@ abanja NOUN
 kuti CCONJ
 atipatse VERB
 mfumu NOUN
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Mughogho PROPN
@@ -8047,7 +8047,7 @@ zikutanthauza VERB
 kuti CCONJ
 ku ADP
 Salima PROPN
-"," PUNCT
+, PUNCT
 Nsanje PROPN
 ndi ADP
 Neno PROPN
@@ -8078,7 +8078,7 @@ mfumu NOUN
 Chekucheku PROPN
 amene ADJ
 adachotsedwa VERB
-"," PUNCT
+, PUNCT
 koma CCONJ
 mwadzidzidzi ADV
 kudaperekedwa VERB
@@ -8104,7 +8104,7 @@ pano ADV
 tilibe VERB
 mfumu NOUN
 Chekucheku PROPN
-"," PUNCT
+, PUNCT
 adatero VERB
 Phiri PROPN
 . PUNCT
@@ -8140,7 +8140,7 @@ Chikonde NOUN
 kwa ADP
 mfumu NOUN
 Chekucheku PROPN
-"," PUNCT
+, PUNCT
 MacPherson PROPN
 Dzimadzi PROPN
 adati VERB
@@ -8163,7 +8163,7 @@ Pali ADV
 ntchito NOUN
 yotuta ADJ
 mchenga NOUN
-"," PUNCT
+, PUNCT
 njerwa NOUN
 komanso CCONJ
 kwale NOUN
@@ -8199,7 +8199,7 @@ zina ADJ
 ndikumawatengera VERB
 kwa ADP
 DC PROPN
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Ndivomere VERB
@@ -8210,7 +8210,7 @@ chosowekera VERB
 kwa ADP
 mfumu NOUN
 Chekucheku PROPN
-"," PUNCT
+, PUNCT
 adaomba VERB
 mkota NOUN
 
@@ -8227,7 +8227,7 @@ la ADP
 malamulo NOUN
 okhudza ADJ
 mafumu NOUN
-"," PUNCT
+, PUNCT
 boma NOUN
 lidaimitsa VERB
 mfumu NOUN
@@ -8253,7 +8253,7 @@ May PROPN
 
 Lachiwiri NUM
 msabatayi NOUN
-"," PUNCT
+, PUNCT
 Chekucheku PROPN
 adauza VERB
 Tamvani PROPN
@@ -8280,7 +8280,7 @@ kuti CCONJ
 andibwezeretse VERB
 pa ADP
 mpandopo NOUN
-"," PUNCT
+, PUNCT
 
 Ku ADP
 Nsanje PROPN
@@ -8294,7 +8294,7 @@ adalembera VERB
 DC PROPN
 wa ADP
 bomalo NOUN
-"," PUNCT
+, PUNCT
 komanso CCONJ
 unduna NOUN
 wa ADP
@@ -8310,10 +8310,10 @@ December PROPN
 
 Mfumu NOUN
 yochotsedwayo ADJ
-"," PUNCT
+, PUNCT
 Stanford PROPN
 Tukula PROPN
-"," PUNCT
+, PUNCT
 idachotsedwa VERB
 pamene ADV
 imaganiziridwa VERB
@@ -8326,9 +8326,9 @@ boma NOUN
 lidaimitsa VERB
 mfumu NOUN
 Kuluunda PROPN
-"," PUNCT
+, PUNCT
 Saidi PROPN
-"," PUNCT
+, PUNCT
 mu ADP
 May PROPN
 chaka NOUN
@@ -8353,7 +8353,7 @@ Pocheza ADV
 ndi ADP
 Tamvani PROPN
 Lachiwiri NUM
-"," PUNCT
+, PUNCT
 mfumuyi NOUN
 idati VERB
 ndikudikirira VERB
@@ -8400,14 +8400,14 @@ pa ADP
 nkhani NOUN
 zokhudza ADJ
 mafumu NOUN
-"," PUNCT
+, PUNCT
 
 Sitidafikepo VERB
 pomagwira ADV
 ntchito NOUN
 popanda ADV
 mafumuwa NOUN
-"," PUNCT
+, PUNCT
 ndiwofunikabe VERB
 koma CCONJ
 pokhapokha CCONJ
@@ -8427,10 +8427,10 @@ nkhani NOUN
 zachitukuko ADJ
 ku ADP
 Neno PROPN
-"," PUNCT
+, PUNCT
 Henry PROPN
 Chitema PROPN
-"," PUNCT
+, PUNCT
 akuti VERB
 kusowekera VERB
 kwa ADP
@@ -8468,7 +8468,7 @@ lachifumu ADJ
 kotero ADV
 sangagwire VERB
 ntchito NOUN
-"," PUNCT
+, PUNCT
 
 Boma NOUN
 la ADP
@@ -8507,7 +8507,7 @@ walowadi VERB
 mmanda NOUN
 Gwanda PROPN
 Chakuamba PROPN
-"," PUNCT
+, PUNCT
 mmodzi NUM
 mwa ADP
 amkhalakale VERB
@@ -8542,7 +8542,7 @@ a DET
 kuchigwachi NOUN
 ali VERB
 moyo NOUN
-"," PUNCT
+, PUNCT
 chimatsikira VERB
 mmanda NOUN
 ku ADP
@@ -8592,7 +8592,7 @@ ambiri ADV
 adalira: VERB
 Wapita VERB
 Mbuya NOUN
-"," PUNCT
+, PUNCT
 wapita VERB
 Mbuya NOUN
 ! PUNCT
@@ -8611,7 +8611,7 @@ A DET
 Chakuamba PROPN
 ku ADP
 Nsanje PROPN
-"," PUNCT
+, PUNCT
 a DET
 Chakuamba PROPN
 ku ADP
@@ -8640,7 +8640,7 @@ mtsogoleri NOUN
 wakale ADJ
 Bakili PROPN
 Muluzi PROPN
-"," PUNCT
+, PUNCT
 Sipika NOUN
 wakale ADJ
 akuluakulu NOUN
@@ -8648,7 +8648,7 @@ a DET
 zipani NOUN
 za ADP
 MCP PROPN
-"," PUNCT
+, PUNCT
 ndi ADP
 DPP PROPN
 ndi ADP
@@ -8667,7 +8667,7 @@ ndi ADP
 Kabineti NOUN
 George PROPN
 Mkondiwa PROPN
-"," PUNCT
+, PUNCT
 kungotchurapo VERB
 ena PRON
 
@@ -8717,11 +8717,11 @@ mmalo ADP
 mwa ADP
 A_Mlolo PUNCT
 pamaliropo NOUN
-"," PUNCT
+, PUNCT
 adati VERB
 ngakhale CCONJ
 akulira VERB
-"," PUNCT
+, PUNCT
 koma CCONJ
 ndi VERB
 osangalala VERB
@@ -8757,11 +8757,11 @@ adali VERB
 weniweni ADV
 ; PUNCT
 wangwiro ADJ
-"," PUNCT
+, PUNCT
 wachilungamo ADJ
-"," PUNCT
+, PUNCT
 wosaopa ADJ
-"," PUNCT
+, PUNCT
 mkhalakale ADJ
 pandale ADJ
 . PUNCT
@@ -8798,12 +8798,12 @@ dziko NOUN
 la ADP
 South PROPN
 Africa PROPN
-"," PUNCT
+, PUNCT
 pokhululukira ADV
 chipani NOUN
 cha ADP
 MCP PROPN
-"," PUNCT
+, PUNCT
 chomwe ADJ
 chidamangitsa VERB
 nkumuponya VERB
@@ -8811,7 +8811,7 @@ mndende NOUN
 kwa ADP
 zaka NOUN
 14 NUM
-"," PUNCT
+, PUNCT
 koma CCONJ
 atatuluka VERB
 kundendeko NOUN
@@ -8826,7 +8826,7 @@ omwe PRON
 
 Pa ADP
 ichi PRON
-"," PUNCT
+, PUNCT
 Malemia PROPN
 adati VERB
 Chakuamba PROPN
@@ -8840,7 +8840,7 @@ akaona VERB
 kuti CCONJ
 zinthu NOUN
 zikulakwika VERB
-"," PUNCT
+, PUNCT
 zomwe CCONJ
 zinkamuika VERB
 mmavuto NOUN
@@ -8930,7 +8930,7 @@ Marymount NOUN
 mumzinda NOUN
 wa ADP
 Mzuzu PROPN
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Iye PRON
@@ -8981,7 +8981,7 @@ mwa ADP
 akuluakulu NOUN
 a DET
 boma NOUN
-"," PUNCT
+, PUNCT
 adalolera VERB
 kukambirana VERB
 ndi ADP
@@ -8999,10 +8999,10 @@ za ADP
 ndale NOUN
 mdziko NOUN
 muno ADJ
-"," PUNCT
+, PUNCT
 Humphrey PROPN
 Mvula PROPN
-"," PUNCT
+, PUNCT
 adati VERB
 Chakuamba PROPN
 adamenyera VERB
@@ -9028,7 +9028,7 @@ chipani NOUN
 Malinga CCONJ
 ndi ADP
 Mvula NOUN
-"," PUNCT
+, PUNCT
 Chakuamba PROPN
 adali VERB
 wolimba ADJ
@@ -9056,7 +9056,7 @@ mtsogoleri NOUN
 wa ADP
 dziko NOUN
 lino ADJ
-"," PUNCT
+, PUNCT
 adatsala VERB
 pangono ADV
 kupambana VERB
@@ -9084,7 +9084,7 @@ mu ADP
 mzinda NOUN
 wa ADP
 Blantyre PROPN
-"," PUNCT
+, PUNCT
 naikudwa VERB
 mmanda NOUN
 ndi ADP
@@ -9113,7 +9113,7 @@ maiko NOUN
 Si AUX
 ali VERB
 yekha ADJ
-"," PUNCT
+, PUNCT
 pali VERB
 ena PRON
 a DET
@@ -9144,11 +9144,11 @@ nsombazo NOUN
 ndi VERB
 zimenezi ADJ
 Mboma PROPN
-"," PUNCT
+, PUNCT
 wochokera ADJ
 ku ADP
 Blantyre PROPN
-"," PUNCT
+, PUNCT
 adayamba VERB
 bizinesiyi NOUN
 mu ADP
@@ -9218,7 +9218,7 @@ momwe PRON
 miyambo NOUN
 ina ADJ
 imakhalira VERB
-"," PUNCT
+, PUNCT
 ayi AUX
 . PUNCT
 
@@ -9227,18 +9227,18 @@ chimachitika VERB
 nchakuti ADP
 mwana NOUN
 akabadwa VERB
-"," PUNCT
+, PUNCT
 chinthu NOUN
 choyambirira ADJ
 nkudziwitsa VERB
 abale NOUN
-"," PUNCT
+, PUNCT
 makamaka ADV
 amalume NOUN
 ake ADJ
 kapena CCONJ
 azakhali NOUN
-"," PUNCT
+, PUNCT
 omwe PRON
 amakanena VERB
 kwa ADP
@@ -9263,7 +9263,7 @@ wa ADP
 March PROPN
 chaka NOUN
 chino ADJ
-"," PUNCT
+, PUNCT
 nduna NOUN
 ya ADP
 zachilengedwe NOUN
@@ -9272,7 +9272,7 @@ nyama NOUN
 zakunkhalango ADJ
 Tshekedi PROPN
 Khama PROPN
-"," PUNCT
+, PUNCT
 mng'ono NOUN
 wake ADJ
 wa ADP
@@ -9288,7 +9288,7 @@ aletse VERB
 Pamene PRON
 amaletsa VERB
 malondawa NOUN
-"," PUNCT
+, PUNCT
 nkuti VERB
 Mboma PROPN
 komanso CCONJ
@@ -9305,7 +9305,7 @@ Kuyambira SCONJ
 March PROPN
 mpaka ADP
 lero NOUN
-"," PUNCT
+, PUNCT
 anthuwa NOUN
 akhala AUX
 akubindikira VERB
@@ -9339,7 +9339,7 @@ litilole AUX
 tipite VERB
 kukagulitsa VERB
 nsombazi NOUN
-"," PUNCT
+, PUNCT
 adatero ADJ
 Mboma PROPN
 . PUNCT
@@ -9351,14 +9351,14 @@ K2 PUNCT
 kuti ADP
 ndigule VERB
 nsombazi NOUN
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Nsomba NOUN
 zambiri ADJ
 zayamba AUX
 kuola VERB
-"," PUNCT
+, PUNCT
 ntchentche NOUN
 zangoumbirira VERB
 mathirakiwa NOUN
@@ -9368,13 +9368,13 @@ Komabe CCONJ
 sindichitira VERB
 mwina PRON
 achimwene NOUN
-"," PUNCT
+, PUNCT
 ndikuyenera VERB
 kupita VERB
 ndi ADP
 nsombazi NOUN
 ndikagulitse VERB
-"," PUNCT
+, PUNCT
 ndidachita VERB
 kukongola VERB
 ndalama NOUN
@@ -9387,7 +9387,7 @@ yomwe PRON
 ndingapezeyo VERB
 ndi CCONJ
 yomweyo PRON
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Lero ADV
@@ -9400,7 +9400,7 @@ galimoto NOUN
 akufuna VERB
 kuti ADP
 azipita VERB
-"," PUNCT
+, PUNCT
 malinga PART
 ndi ADP
 mabwana NOUN
@@ -9427,7 +9427,7 @@ wapansi ADJ
 Akuimba VERB
 tsiku ADV
 lililonse ADJ
-"," PUNCT
+, PUNCT
 akuti AUX
 ndichotse VERB
 nsombazi NOUN
@@ -9444,7 +9444,7 @@ chilichonse PRON
 nchifukwa VERB
 chake PRON
 akwiya VERB
-"," PUNCT
+, PUNCT
 
 Mukati VERB
 chinthu NOUN
@@ -9455,7 +9455,7 @@ azaumoyo NOUN
 amati VERB
 mwana NOUN
 akangobadwa VERB
-"," PUNCT
+, PUNCT
 pompo ADV
 ayamwe VERB
 ? PUNCT
@@ -9488,7 +9488,7 @@ pang'onopang'ono ADV
 chifukwa ADP
 cha DET
 maphunziro NOUN
-"," PUNCT
+, PUNCT
 anthu NOUN
 adayamba AUX
 kuzindikira VERB
@@ -9535,7 +9535,7 @@ Sitilola VERB
 kuti ADP
 geniyi NOUN
 ipitirire VERB
-"," PUNCT
+, PUNCT
 mchitidwewu NOUN
 wapangitsa VERB
 kuti ADP
@@ -9549,7 +9549,7 @@ zowalola ADJ
 kuti ADP
 aphe VERB
 nsomba NOUN
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Izi PRON
@@ -9592,9 +9592,9 @@ Wenela PROPN
 
 Palibe AUX
 ojiya ADJ
-"," PUNCT
+, PUNCT
 osolola ADJ
-"," PUNCT
+, PUNCT
 osenza ADJ
 ndi CCONJ
 oitanira ADJ
@@ -9636,14 +9636,14 @@ la ADP
 Dizilo PROPN
 Petulo PROPN
 Palibe PROPN
-"," PUNCT
+, PUNCT
 malinga PART
 ndi ADP
 kufotokoza VERB
 kwa ADP
 Joloji PROPN
 Chiponda PROPN
-"," PUNCT
+, PUNCT
 lidali VERB
 logula ADJ
 chimangacho NOUN
@@ -9707,7 +9707,7 @@ choti ADP
 adye VERB
 pakhomo ADV
 pake ADJ
-"," PUNCT
+, PUNCT
 mmalo PART
 mopita ADV
 yekha PRON
@@ -9724,12 +9724,12 @@ waberedwa VERB
 
 Abale NOUN
 anzanga ADJ
-"," PUNCT
+, PUNCT
 tingoyerekeza VERB
 kuti ADP
 mwalemba VERB
 wantchito NOUN
-"," PUNCT
+, PUNCT
 ndiye CCONJ
 mukumukaikira VERB
 kuti ADP
@@ -9748,7 +9748,7 @@ afufuze VERB
 momwe PRON
 anabera VERB
 ndiwozo NOUN
-"," PUNCT
+, PUNCT
 wantchito NOUN
 wanu ADJ
 akapita VERB
@@ -9854,7 +9854,7 @@ zimamenyana VERB
 . PUNCT
 
 Inu PRON
-"," PUNCT
+, PUNCT
 munthu NOUN
 nkupha VERB
 nyerere NOUN
@@ -9866,7 +9866,7 @@ kuti ADP
 ena PRON
 adathyola VERB
 mipando NOUN
-"," PUNCT
+, PUNCT
 kutenga VERB
 makalilole NOUN
 ndi ADP
@@ -9885,12 +9885,12 @@ akazi INTJ
 
 Utatha VERB
 mpira NOUN
-"," PUNCT
+, PUNCT
 sindikudziwa VERB
 kuti ADP
 udatha VERB
 bwanji PRON
-"," PUNCT
+, PUNCT
 Abiti PROPN
 Patuma PROPN
 adandikoka VERB
@@ -9917,7 +9917,7 @@ amangoti VERB
 5 NUM
 kwa ADP
 1 NUM
-"," PUNCT
+, PUNCT
 5 NUM
 kwa ADP
 1 NUM
@@ -9933,12 +9933,12 @@ Patuma INTJ
 
 Wina PRON
 adamukumbatira VERB
-"," PUNCT
+, PUNCT
 wina PRON
 kumupsopsona VERB
 
 Osadanda VERB
-"," PUNCT
+, PUNCT
 mwayiphula INTJ
 basi VERB
 ! PUNCT
@@ -9948,7 +9948,7 @@ nonse PRON
 mbasi NOUN
 momwe ADJ
 muno ADV
-"," PUNCT
+, PUNCT
 
 Tsopano ADV
 mukati VERB
@@ -9966,7 +9966,7 @@ mwambo NOUN
 ? PUNCT
 
 Eya PART
-"," PUNCT
+, PUNCT
 ndimayembekezera VERB
 funso NOUN
 limenelo ADJ
@@ -10022,14 +10022,14 @@ kwa DET
 
 Adati AUX
 tinyamuke VERB
-"," PUNCT
+, PUNCT
 ulendo NOUN
 wobwerera ADJ
 pa ADP
 
 Tili VERB
 mnjira NOUN
-"," PUNCT
+, PUNCT
 yemwe PRON
 amaoneka VERB
 kuti ADP
@@ -10041,7 +10041,7 @@ adati: VERB
 Tikakafika VERB
 ku ADP
 Mwanza PROPN
-"," PUNCT
+, PUNCT
 tikadzera VERB
 kwa ADP
 Ayaya PROPN
@@ -10074,7 +10074,7 @@ Kenako ADV
 kudali AUX
 kusaka VERB
 mango NOUN
-"," PUNCT
+, PUNCT
 ngumbi NOUN
 ndi CCONJ
 zina PRON
@@ -10086,7 +10086,7 @@ chibwerere VERB
 ku ADP
 Mwanza PROPN
 Mapiri NOUN
-"," PUNCT
+, PUNCT
 nkhalango NOUN
 komanso CCONJ
 madambo NOUN
@@ -10112,7 +10112,7 @@ la ADP
 Mwanza PROPN
 layamba AUX
 kuvala VERB
-"," PUNCT
+, PUNCT
 kubisa VERB
 kusambuka NOUN
 kwake ADJ
@@ -10124,7 +10124,7 @@ mboma NOUN
 la ADP
 Nsanje PROPN
 zikutsalima VERB
-"," PUNCT
+, PUNCT
 pamene CCONJ
 65 NUM
 0 NUM
@@ -10202,18 +10202,18 @@ kuchita VERB
 ulimi NOUN
 wa ADP
 ziweto NOUN
-"," PUNCT
+, PUNCT
 wa ADP
 kumunda NOUN
-"," PUNCT
+, PUNCT
 kugwiritsa VERB
 ntchito NOUN
 mbaula NOUN
 zamakono ADJ
-"," PUNCT
+, PUNCT
 kuchita VERB
 bizinesi NOUN
-"," PUNCT
+, PUNCT
 kutsatira VERB
 njira NOUN
 zamakono ADJ
@@ -10237,7 +10237,7 @@ ku ADP
 bungwe NOUN
 la ADP
 Cepa PROPN
-"," PUNCT
+, PUNCT
 Stephen PROPN
 Chikuse PROPN
 akuti VERB
@@ -10246,7 +10246,7 @@ aliyense PRON
 ali VERB
 ndi ADP
 chochita NOUN
-"," PUNCT
+, PUNCT
 nkovuta VERB
 kuti ADP
 mitengo NOUN
@@ -10254,7 +10254,7 @@ mitengo NOUN
 Anthu NOUN
 alibe VERB
 zochita NOUN
-"," PUNCT
+, PUNCT
 alibe VERB
 popezera ADV
 ndalama NOUN
@@ -10275,7 +10275,7 @@ kuwapezera VERB
 chochita NOUN
 monga CCONJ
 tikuchitira VERB
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Izi PRON
@@ -10304,14 +10304,14 @@ mwana NOUN
 Nzeru NOUN
 za ADP
 Cepa PROPN
-"," PUNCT
+, PUNCT
 lero ADV
 Kheli PROPN
 ali VERB
 ndi ADP
 mbuzi NOUN
 10 NUM
-"," PUNCT
+, PUNCT
 wayamba AUX
 kukolola VERB
 matumba NOUN
@@ -10390,14 +10390,14 @@ Ndamanga VERB
 nyumba NOUN
 ya ADP
 malata NOUN
-"," PUNCT
+, PUNCT
 ndagula VERB
 wailesi NOUN
 komanso CCONJ
 mpando NOUN
 wa ADP
 pamwamba NOUN
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Nthawi NOUN
@@ -10407,13 +10407,13 @@ monga CCONJ
 ankachitira VERB
 kale ADV
 alibe VERB
-"," PUNCT
+, PUNCT
 ndipo CCONJ
 nthawi NOUN
 zonse ADJ
 amakhala VERB
 kumunda NOUN
-"," PUNCT
+, PUNCT
 kubusa NOUN
 komanso CCONJ
 banja NOUN
@@ -10430,7 +10430,7 @@ akufotokozera VERB
 mkazi NOUN
 wake ADJ
 Sineliya PROPN
-"," PUNCT
+, PUNCT
 kale ADV
 amadalira VERB
 makala NOUN
@@ -10441,7 +10441,7 @@ idasintha VERB
 . PUNCT
 
 Kale ADV
-"," PUNCT
+, PUNCT
 timapeza VERB
 ndalama NOUN
 pootcha ADP
@@ -10455,7 +10455,7 @@ njira NOUN
 zambiri ADJ
 zopezera VERB
 ndalama NOUN
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Pulogalamu NOUN
@@ -10476,7 +10476,7 @@ ndalama NOUN
 limachoka VERB
 ku ADP
 UK PROPN
-"," PUNCT
+, PUNCT
 Irish PROPN
 ndi CCONJ
 boma NOUN
@@ -10502,23 +10502,23 @@ zikuchitikanso VERB
 mmaboma NOUN
 a DET
 Nsanje PROPN
-"," PUNCT
+, PUNCT
 Chikwawa PROPN
-"," PUNCT
+, PUNCT
 Mulanje PROPN
-"," PUNCT
+, PUNCT
 Thyolo PROPN
-"," PUNCT
+, PUNCT
 Mwanza PROPN
-"," PUNCT
+, PUNCT
 Machinga PROPN
-"," PUNCT
+, PUNCT
 Balaka PROPN
-"," PUNCT
+, PUNCT
 Salima PROPN
-"," PUNCT
+, PUNCT
 Dedza PROPN
-"," PUNCT
+, PUNCT
 Kasungu PROPN
 ndi CCONJ
 Karonga PROPN
@@ -10536,7 +10536,7 @@ ukwati NOUN
 ndi ADP
 Ardron PROPN
 Msowoya PROPN
-"," PUNCT
+, PUNCT
 mnyamata NOUN
 yemwe ADJ
 akugwira VERB
@@ -10552,9 +10552,9 @@ amene ADJ
 amadikirira VERB
 pa ADP
 Sindi PROPN
-"," PUNCT
+, PUNCT
 pepani PART
-"," PUNCT
+, PUNCT
 mtima NOUN
 wa ADP
 njoleyi NOUN
@@ -10562,7 +10562,7 @@ wasankha VERB
 
 Kodi PRON
 Sindi PROPN
-"," PUNCT
+, PUNCT
 katswiri NOUN
 womwetsa ADJ
 zigoli NOUN
@@ -10570,7 +10570,7 @@ mtimu ADV
 ya ADP
 Malawi PROPN
 Queens PROPN
-"," PUNCT
+, PUNCT
 adakumana VERB
 bwanji PRON
 ndi ADP
@@ -10632,9 +10632,9 @@ pamene PRON
 timu NOUN
 ya ADP
 Sindi PROPN
-"," PUNCT
+, PUNCT
 Tigresses PROPN
-"," PUNCT
+, PUNCT
 inkakwapulana VERB
 ndi ADP
 Diamonds PROPN
@@ -10648,7 +10648,7 @@ udalipolipo VERB
 Ardron PROPN
 atangofika VERB
 pabwalopo ADV
-"," PUNCT
+, PUNCT
 akuti VERB
 adafunsa VERB
 anthu NOUN
@@ -10662,7 +10662,7 @@ kuti CCONJ
 Sindi PROPN
 ndi VERB
 uyo PRON
-"," PUNCT
+, PUNCT
 ndidamuitana VERB
 ndi ADP
 kumupatsa VERB
@@ -10679,7 +10679,7 @@ koma CCONJ
 akadandipatsa VERB
 nthawi NOUN
 yaitali ADJ
-"," PUNCT
+, PUNCT
 ndimafuna VERB
 ndipemphe VERB
 nambala NOUN
@@ -10687,7 +10687,7 @@ yake ADJ
 
 Masewero NOUN
 atayamba VERB
-"," PUNCT
+, PUNCT
 Ardron PROPN
 adasangalala VERB
 ndi ADP
@@ -10699,12 +10699,12 @@ Sindi PROPN
 Akuti AUX
 amati AUX
 akadumpha VERB
-"," PUNCT
+, PUNCT
 kuthamanga VERB
-"," PUNCT
+, PUNCT
 kuchinya VERB
 zigoli NOUN
-"," PUNCT
+, PUNCT
 mtima NOUN
 wa ADP
 Ardron PROPN
@@ -10725,7 +10725,7 @@ kuti AUX
 nditulutse VERB
 Chichewa NOUN
 zidavuta VERB
-"," PUNCT
+, PUNCT
 zimaonetsa VERB
 kuti CCONJ
 aliyense PRON
@@ -10734,7 +10734,7 @@ mnzake ADJ
 koma CCONJ
 woyambitsa NOUN
 amasowa VERB
-"," PUNCT
+, PUNCT
 adatero VERB
 Ardron PROPN
 . PUNCT
@@ -10744,10 +10744,10 @@ June PROPN
 ndidamulembera VERB
 uthenga NOUN
 wapafoni ADJ
-"," PUNCT
+, PUNCT
 koma CCONJ
 sadayankhe VERB
-"," PUNCT
+, PUNCT
 ndiye CCONJ
 ndidamulemberanso VERB
 wina PRON
@@ -10765,10 +10765,10 @@ cha ADP
 ubwenzi NOUN
 wathu ADJ
 chidatero VERB
-"," PUNCT
+, PUNCT
 adatero VERB
 mnyamatayu NOUN
-"," PUNCT
+, PUNCT
 amene ADJ
 wachita VERB
 kulowola VERB
@@ -10887,7 +10887,7 @@ mtengo NOUN
 wa ADP
 K12 NUM
 0 NUM
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Kuchoka ADP
@@ -10897,7 +10897,7 @@ Balaka PROPN
 kupita VERB
 ku ADP
 Ntcheu PROPN
-"," PUNCT
+, PUNCT
 thumba NOUN
 limodzi NUM
 akuti AUX
@@ -10918,12 +10918,12 @@ mmadera NOUN
 
 Zandiwawa VERB
 kwambiri ADV
-"," PUNCT
+, PUNCT
 sindidayembekezere VERB
 kuti CCONJ
 zifika VERB
 pamenepa ADV
-"," PUNCT
+, PUNCT
 ndi VERB
 bwino ADV
 ndondomeko NOUN
@@ -10932,7 +10932,7 @@ chifukwa CCONJ
 sindidaone VERB
 ubwino NOUN
 wake ADJ
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Naye ADV
@@ -10962,7 +10962,7 @@ chino ADJ
 feteleza NOUN
 
 Banda PROPN
-"," PUNCT
+, PUNCT
 amene ADJ
 tidamupeza VERB
 mchikhamu NOUN
@@ -10978,7 +10978,7 @@ Optichem PROPN
 mumzinda NOUN
 wa ADP
 Blantyre PROPN
-"," PUNCT
+, PUNCT
 adati VERB
 ndondomeko NOUN
 ya ADP
@@ -10997,7 +10997,7 @@ omwe PRON
 ndi ADP
 K14 NUM
 0 NUM
-"," PUNCT
+, PUNCT
 koma CCONJ
 kudabwa VERB
 akundiuza VERB
@@ -11007,7 +11007,7 @@ limodzi NUM
 ndi VERB
 K8 NUM
 500 NUM
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Nako ADV
@@ -11024,10 +11024,10 @@ Mtungulutsi NOUN
 ku ADP
 Zomba PROPN
 Lisanjala VERB
-"," PUNCT
+, PUNCT
 Wilson PROPN
 Likusa PROPN
-"," PUNCT
+, PUNCT
 wati VERB
 wodi NOUN
 yake ADJ
@@ -11044,7 +11044,7 @@ okha ADJ
 ndiwo CCONJ
 
 Nzachisoni ADJ
-"," PUNCT
+, PUNCT
 chifukwa CCONJ
 ngakhale CCONJ
 mtengo NOUN
@@ -11063,7 +11063,7 @@ udutsire VERB
 mwa ADP
 munthu NOUN
 wina ADJ
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Senior PROPN
@@ -11092,7 +11092,7 @@ zipitirira VERB
 
 Tingolakwapo VERB
 apa PRON
-"," PUNCT
+, PUNCT
 tatopa VERB
 ndi ADP
 kudikira VERB
@@ -11116,7 +11116,7 @@ lero ADV
 pamene CCONJ
 chimanga NOUN
 chikupota VERB
-"," PUNCT
+, PUNCT
 ndi VERB
 zoona ADV
 izi PRON
@@ -11134,7 +11134,7 @@ Farmers PROPN
 Union PROPN
 of PROPN
 Malawi PROPN
-"," PUNCT
+, PUNCT
 Alfred PROPN
 Kapichira PROPN
 Banda PROPN
@@ -11157,7 +11157,7 @@ feteleza NOUN
 
 Ku ADP
 Dowa PROPN
-"," PUNCT
+, PUNCT
 mpaka CCONJ
 Salima PROPN
 alimi NOUN
@@ -11183,7 +11183,7 @@ Uku PRON
 ndi AUX
 kupha VERB
 alimi NOUN
-"," PUNCT
+, PUNCT
 palibe VERB
 tsogolo NOUN
 ndipo CCONJ
@@ -11200,7 +11200,7 @@ ndipo CCONJ
 akonze VERB
 zinthu NOUN
 zisadavutitsitse VERB
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Mneneri NOUN
@@ -11208,10 +11208,10 @@ wa ADP
 unduna NOUN
 wa ADP
 zamalimidwe NOUN
-"," PUNCT
+, PUNCT
 Hamilton PROPN
 Chimala PROPN
-"," PUNCT
+, PUNCT
 wati VERB
 ndondomekoyi NOUN
 yabwera VERB
@@ -11230,7 +11230,7 @@ kampanizo NOUN
 zikwanitsa VERB
 kufikira VERB
 alimi NOUN
-"," PUNCT
+, PUNCT
 ndiye CCONJ
 ngati CCONJ
 nzoona ADV
@@ -11243,11 +11243,11 @@ sadagule VERB
 feteleza NOUN
 chifukwa CCONJ
 akumusowa VERB
-"," PUNCT
+, PUNCT
 ndiye CCONJ
 ndi ADP
 zachisoni ADJ
-"," PUNCT
+, PUNCT
 adatero VERB
 Chimala PROPN
 pamene CCONJ
@@ -11277,7 +11277,7 @@ ndi ADP
 
 Thumba NOUN
 lililonse ADJ
-"," PUNCT
+, PUNCT
 boma NOUN
 lidaikapo VERB
 K15 NUM
@@ -11310,7 +11310,7 @@ kuti CCONJ
 mitengo NOUN
 izikhala VERB
 yosiyana ADJ
-"," PUNCT
+, PUNCT
 zili VERB
 kwa ADP
 mlimi NOUN
@@ -11320,7 +11320,7 @@ akufuna VERB
 kukagulira VERB
 feteleza NOUN
 wake ADJ
-"," PUNCT
+, PUNCT
 
 Mneneri NOUN
 wapolisi ADJ
@@ -11366,7 +11366,7 @@ kumera VERB
 . PUNCT
 
 Akatero ADV
-"," PUNCT
+, PUNCT
 mlimi NOUN
 azingodikira VERB
 
@@ -11435,7 +11435,7 @@ malonda NOUN
 pa ADP
 
 Mwachitsanzo ADV
-"," PUNCT
+, PUNCT
 mlimi NOUN
 amene ADJ
 wabzala VERB
@@ -11482,7 +11482,7 @@ wabwinoyu ADJ
 ndi VERB
 
 Mwachitsanzo ADV
-"," PUNCT
+, PUNCT
 chimanga NOUN
 changa ADJ
 ndinabzala VERB
@@ -11604,7 +11604,7 @@ potengera ADV
 mlandu NOUN
 wa ADP
 Aniva NOUN
-"," PUNCT
+, PUNCT
 ufulu NOUN
 wa ADP
 amayi NOUN
@@ -11687,7 +11687,7 @@ imene ADJ
 mavendawo NOUN
 
 Mwachitsanzo ADV
-"," PUNCT
+, PUNCT
 mu ADP
 2016 NUM
 alimi NOUN
@@ -11729,7 +11729,7 @@ mumzinda NOUN
 wa ADP
 Blantyre PROPN
 Lachiwiri NUM
-"," PUNCT
+, PUNCT
 Saka PROPN
 adati AUX
 ali VERB
@@ -11796,14 +11796,14 @@ Ndikufuna VERB
 sukulu NOUN
 Zikomo NOUN
 Anatchereza PROPN
-"," PUNCT
+, PUNCT
 Ndine PRON
 msungwana NOUN
 wa ADP
 zaka NOUN
 19 NUM
 Sindidakwatiwepo VERB
-"," PUNCT
+, PUNCT
 ngakhale CCONJ
 sukulu NOUN
 ndidaisiyira VERB
@@ -11959,7 +11959,7 @@ Koma CCONJ
 akangomva VERB
 kankhani NOUN
 kakangono ADV
-"," PUNCT
+, PUNCT
 amakhumudwa VERB
 ndipo CCONJ
 amathetsa VERB
@@ -11992,7 +11992,7 @@ ndi VERB
 ya VERB
 pa ADP
 Facebook NOUN
-"," PUNCT
+, PUNCT
 pomwe ADJ
 mnyamata NOUN
 wina ADJ
@@ -12028,13 +12028,13 @@ Zikundisowetsa VERB
 mtendere NOUN
 
 GK PROPN
-"," PUNCT
+, PUNCT
 
 GK PROPN
-"," PUNCT
+, PUNCT
 Mwamunayo NOUN
 wamukonda ADJ
-"," PUNCT
+, PUNCT
 mpaka CCONJ
 kumupatsa VERB
 password NOUN
@@ -12086,7 +12086,7 @@ akateto VERB
 zili VERB
 
 Mwachitsanzo ADV
-"," PUNCT
+, PUNCT
 mwina ADP
 iye PRON
 naye ADV
@@ -12160,13 +12160,13 @@ Juma NOUN
 Lachinayi NOUN
 adati VERB
 basiyo NOUN
-"," PUNCT
+, PUNCT
 imene ADJ
 idafika VERB
 mdziko NOUN
 muno ADJ
 Lachinayi NOUN
-"," PUNCT
+, PUNCT
 ipitirira VERB
 kusungidwa VERB
 ndi ADP
@@ -12225,7 +12225,7 @@ mwa ADP
 FAM PROPN
 kuti CCONJ
 ayisunge VERB
-"," PUNCT
+, PUNCT
 adatero VERB
 
 Musasusukire VERB
@@ -12234,7 +12234,7 @@ Ngakhale CCONJ
 dzombe NOUN
 limaononga VERB
 mbewu NOUN
-"," PUNCT
+, PUNCT
 kwa ADP
 anthu NOUN
 ena ADJ
@@ -12247,7 +12247,7 @@ Koma CCONJ
 unduna NOUN
 wa ADP
 zamalimidwe NOUN
-"," PUNCT
+, PUNCT
 ulimi NOUN
 wamthirira ADJ
 ndi ADP
@@ -12285,7 +12285,7 @@ a DET
 chigwa NOUN
 cha ADP
 Shire NOUN
-"," PUNCT
+, PUNCT
 nkhani NOUN
 yomwe ADJ
 yadula VERB
@@ -12298,10 +12298,10 @@ ya ADP
 Mlembi NOUN
 wamkulu ADJ
 muundunawu NOUN
-"," PUNCT
+, PUNCT
 Erica PROPN
 Maganga PROPN
-"," PUNCT
+, PUNCT
 Lachitatu ADJ
 adati VERB
 ngakhale CCONJ
@@ -12310,7 +12310,7 @@ omwe ADJ
 akupoperedwawo VERB
 sapha VERB
 dzombe NOUN
-"," PUNCT
+, PUNCT
 akhoza VERB
 kukhala VERB
 ndi ADP
@@ -12338,10 +12338,10 @@ Ntchalo PROPN
 mboma NOUN
 la ADP
 Chikwawa PROPN
-"," PUNCT
+, PUNCT
 Irene PROPN
 Phalula PROPN
-"," PUNCT
+, PUNCT
 yemwe ADJ
 adatsimikiza VERB
 zoti CCONJ

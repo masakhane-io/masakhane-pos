@@ -1850,6 +1850,7 @@ toor-toor ADJ
 Burkĩna PROPN
 Faso PROPN
 , PUNCT
+
 sẽn SCONJ
 tũud VERB
 ne CCONJ
@@ -1857,7 +1858,6 @@ zãmsg NOUN
 kibayã NOUN
 kũun NOUN
 wɛɛngẽ ADP
-
 " PUNCT
 a PRON
 gũbgda VERB
@@ -2222,6 +2222,7 @@ yɩɩd VERB
 fãa ADJ
 kom-bɩɩbã NOUN
 , PUNCT
+
 sẽn SCONJ
 na AUX
 n PART
@@ -2239,7 +2240,6 @@ bɩ SCONJ
 a PRON
 sõng VERB
 tɩ SCONJ
-
 yẽsg NOUN
 zĩndi VERB
 , PUNCT

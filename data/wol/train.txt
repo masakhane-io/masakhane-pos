@@ -1,3 +1,45 @@
+Xanaa CCONJ
+leeral VERB
+ne SCONJ
+lëlu NOUN
+waxtaanu NOUN
+Sutsas PROPN
+bi DET
+ci ADP
+saytug NOUN
+Unsas PROPN
+la AUX
+ame VERB
+, PUNCT
+lañu AUX
+dawal VERB
+ci ADP
+yéglekaay NOUN
+bi DET
+, PUNCT
+L'As PROPN
+. PUNCT
+
+Àllarba NOUN
+ci ADP
+joŋante NOUN
+dem VERB
+bi DET
+, PUNCT
+Lionel PROPN
+Messi PROPN
+génne VERB
+na AUX
+àndandoom NOUN
+yi DET
+ci ADP
+guuta NOUN
+gi PRON
+leen PRON
+Reds PROPN
+tegaloon VERB
+. PUNCT
+
 Ci ADP
 misaal NOUN
 mi PRON
@@ -70,6 +112,7 @@ faatu VERB
 nañu AUX
 ci ADP
 , PUNCT
+
 loolu PRON
 la AUX
 kilifa NOUN
@@ -87,7 +130,6 @@ bi PRON
 nekk VERB
 ci ADP
 saytu NOUN
-
 yi DET
 , PUNCT
 ci ADP
@@ -701,6 +743,7 @@ yi PRON
 ñu PRON
 bokk VERB
 : PUNCT
+
 bor NOUN
 bi PRON
 ñu PRON
@@ -756,10 +799,10 @@ bi DET
 % NOUN
 ) PUNCT
 , PUNCT
+
 limu NOUN
 yokkute NOUN
 gi DET
-
 yées VERB
 fukk NUM
 ci ADP
@@ -2756,6 +2799,7 @@ jël VERB
 dogal NOUN
 yile DET
 : PUNCT
+
 bis NOUN
 ni ADP
 tey ADV
@@ -2790,6 +2834,7 @@ bokk VERB
 ñoom PRON
 ñépp DET
 ; PUNCT
+
 ak CCONJ
 tamit ADV
 jàppante VERB
@@ -2819,7 +2864,6 @@ ngir ADP
 amaat VERB
 yeneeni DET
 ngëneel NOUN
-
 , PUNCT
 dem VERB
 bay PRON
@@ -2883,6 +2927,7 @@ PNUD PROPN
 xalaat VERB
 ko PRON
 ; PUNCT
+
 xaalis NOUN
 boobu PRON
 nekkul VERB
@@ -3456,6 +3501,7 @@ francs VERB
 CF PROPN
 ) PUNCT
 ; PUNCT
+
 xaalis NOUN
 bi PRON
 ñu PRON
@@ -3483,12 +3529,12 @@ yore VERB
 gafag NOUN
 réew NOUN
 mi DET
-
 , PUNCT
 Abdulaay PROPN
 Daawuda PROPN
 Jàllo PROPN
 , PUNCT
+
 wax VERB
 àjjuma NOUN
 bi SCONJ
@@ -6690,6 +6736,7 @@ yu PRON
 teg VERB
 ñaar-téeméer NUM
 ak CCONJ
+
 juróom-ñett-fukki NUM
 junne NUM
 ak CCONJ
@@ -6721,7 +6768,6 @@ junne NUM
 juróomi NUM
 junne NUM
 ak CCONJ
-
 juróom-ñett-fukk NUM
 ak CCONJ
 juróom-ñett NUM
@@ -6739,6 +6785,7 @@ borom NOUN
 kër NOUN
 yi DET
 , PUNCT
+
 ñeenti NUM
 téeméer NUM
 ak CCONJ
@@ -6881,6 +6928,7 @@ jëfandikoo VERB
 koom NOUN
 ) PUNCT
 , PUNCT
+
 wala CCONJ
 muy PRON
 bëgg VERB
@@ -6912,7 +6960,6 @@ aw CCONJ
 ay NOUN
 wala CCONJ
 fitna NOUN
-
 . PUNCT
 
 Sàll PROPN
@@ -7612,6 +7659,7 @@ joo PRON
 xam VERB
 ne SCONJ
 , PUNCT
+
 xayma NOUN
 bi PRON
 Këru NOUN
@@ -7657,6 +7705,7 @@ ba ADP
 ak CCONJ
 juróom NUM
 , PUNCT
+
 Siin PROPN
 a PART
 ngi AUX
@@ -7667,7 +7716,6 @@ ak CCONJ
 kos NOUN
 juróom-benn NUM
 ci ADP
-
 téeméer NUM
 boo PRON
 jël VERB
@@ -9521,6 +9569,7 @@ neneen ADV
 ko PRON
 bëgg VERB
 . PUNCT
+
 Kenn PRON
 ci ADP
 ñoom NUM
@@ -9561,7 +9610,6 @@ web NOUN
 yi DET
 di AUX
 wax VERB
-
 - PUNCT
 Mamadu PROPN
 Jóob PROPN
@@ -9573,6 +9621,7 @@ tekkiwul VERB
 dara ADV
 moom PRON
 , PUNCT
+
 dem VERB
 dëj NOUN
 di AUX
@@ -9604,6 +9653,7 @@ Xalifa PROPN
 Sàll PROPN
 moom PRON
 , PUNCT
+
 mooy AUX
 koo PRON
 xam VERB
@@ -9646,7 +9696,6 @@ benn NUM
 kersa NOUN
 , PUNCT
 bëgg VERB
-
 jigéen NOUN
 ba ADP
 dof VERB
@@ -12420,6 +12469,7 @@ def VERB
 na AUX
 dara NOUN
 , PUNCT
+
 te CCONJ
 mësul VERB
 a PART
@@ -12429,6 +12479,7 @@ ubbi VERB
 ab DET
 lëñbët NOUN
 ... PUNCT
+
 Bi SCONJ
 Maamur PROPN
 Jàllo PROPN
@@ -12480,7 +12531,6 @@ am VERB
 na AUX
 solo NOUN
 ñu PRON
-
 fàtteli VERB
 ko PRON
 , PUNCT
@@ -12510,6 +12560,7 @@ askan NOUN
 wi DET
 la AUX
 , PUNCT
+
 te CCONJ
 tollu VERB
 ci ADP
@@ -15583,6 +15634,7 @@ fàttelee VERB
 , PUNCT
 bonul VERB
 , PUNCT
+
 su SCONJ
 fekkee VERB
 ne SCONJ
@@ -15621,7 +15673,6 @@ soxla NOUN
 yi PRON
 mënul VERB
 a PART
-
 ñàkk VERB
 . PUNCT
 
@@ -17754,6 +17805,7 @@ ak CCONJ
 daamaar NOUN
 yi DET
 ... PUNCT
+
 ) PUNCT
 du AUX
 joxe VERB
@@ -17786,7 +17838,6 @@ fiftin NOUN
 221 NUM
 francs PROPN
 ) PUNCT
-
 yi PRON
 mu PRON
 waroon VERB
@@ -17960,6 +18011,7 @@ pénc NOUN
 yi DET
 , PUNCT
 ... PUNCT
+
 ) PUNCT
 Dañu AUX
 war VERB
@@ -17985,7 +18037,6 @@ war VERB
 a PART
 am VERB
 , PUNCT
-
 yokk VERB
 limu NOUN
 àttekat NOUN
@@ -18175,6 +18226,7 @@ ci ADP
 téeméer NUM
 boo PRON
 jël VERB
+
 ( PUNCT
 44 NUM
 , PUNCT
@@ -18193,7 +18245,6 @@ ak CCONJ
 juróom NUM
 ( PUNCT
 0 NUM
-
 à ADP
 45 NUM
 ) PUNCT
@@ -18204,6 +18255,7 @@ dendaleek VERB
 nattuwaayu NOUN
 Farãas PROPN
 , PUNCT
+
 nekk VERB
 ci ADP
 juróom NUM
@@ -19119,6 +19171,7 @@ yi PRON
 ciy ADP
 dund VERB
 , PUNCT
+
 wàññi VERB
 loraange NOUN
 yi PRON
@@ -19164,7 +19217,6 @@ Kaasamaas PROPN
 , PUNCT
 ca ADP
 Penku NOUN
-
 réew NOUN
 ma DET
 ak CCONJ
@@ -21597,6 +21649,7 @@ weer NOUN
 yu PRON
 2020 NUM
 , PUNCT
+
 maanaam CCONJ
 cër NOUN
 - PUNCT
@@ -21615,7 +21668,6 @@ ci ADP
 téeméer NUM
 boo PRON
 jël VERB
-
 ( PUNCT
 57 NUM
 % SYM
@@ -21938,6 +21990,7 @@ seetaan VERB
 yenn DET
 yi DET
 , PUNCT
+
 yenn ADV
 yi DET
 , PUNCT
@@ -21993,7 +22046,6 @@ ne SCONJ
 seenug DET
 siiw NOUN
 dafay AUX
-
 xajamal VERB
 seen DET
 ceeb NOUN

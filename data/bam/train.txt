@@ -1,3 +1,57 @@
+Muso NOUN
+ŋana ADJ
+, PUNCT
+Afiriki NOUN
+tilebinyanfan NOUN
+n' CCONJ
+a PRON
+cɛmancɛ NOUN
+yanfan ADV
+ani CCONJ
+Magɛrɛbu NOUN
+fana ADV
+y' AUX
+u PRON
+bolo NOUN
+don VERB
+min PRON
+kɔrɔ ADP
+, PUNCT
+lagosira VERB
+, PUNCT
+k' PART
+a PRON
+tɔgɔ NOUN
+tiɲɛ VERB
+ani CCONJ
+k' PART
+a PRON
+lanɔgɔ VERB
+a PRON
+yɛrɛ ADV
+fasoden NOUN
+ɲɔgɔnw NOUN
+kɛ VERB
+, PUNCT
+k' PART
+a PRON
+kɔrɔ NOUN
+kɛ VERB
+ko SCONJ
+dɔw ADV
+dusu NOUN
+tun PART
+bɛna AUX
+kasi VERB
+ni CCONJ
+nin PRON
+ɲɔgɔnna NOUN
+tɔgɔsɔrɔ NOUN
+ye PART
+Afirini NOUN
+kunna NOUN
+. PUNCT
+
 Ni CCONJ
 mɔgɔ NOUN
 ka PART
@@ -293,10 +347,10 @@ nin PRON
 bisigikumaw NOUN
 kan PART
 diyagoya NOUN
-
 jɛɲɔgɔnyaɲini NOUN
 na PART
 , PUNCT
+
 min PRON
 kɛra VERB
 baara NOUN
@@ -451,7 +505,6 @@ binna VERB
 ka PART
 bɔ VERB
 kabanɔgɔw NOUN
-
 la PART
 nin PRON
 kibaruya NOUN
@@ -824,7 +877,6 @@ cɛ ADP
 dɔ NOUN
 tun PART
 ka PART
-
 sɔbɔ VERB
 , PUNCT
 min PRON
@@ -1654,7 +1706,6 @@ bɛ PART
 Mmu NOUN
 Sanogo NOUN
 Aminata PROPN
-
 Male NOUN
 bolo PART
 . PUNCT
@@ -1934,6 +1985,7 @@ fankelenyanfanjamanaw NOUN
 ka PART
 sariyabondaw NOUN
 , PUNCT
+
 ne PRON
 kan NOUN
 bɛ AUX
@@ -1953,7 +2005,6 @@ fɛ PART
 ka PART
 filɛli NOUN
 kɛ VERB
-
 , PUNCT
 ka PART
 faamuyali NOUN
@@ -2025,7 +2076,6 @@ dagayɔrɔ NOUN
 tun PART
 bɛ AUX
 jamana NOUN
-
 Fɔkɔbɛnna NOUN
 ka PART
 dakun NOUN
@@ -2283,6 +2333,7 @@ nafoloko NOUN
 jatesɛbɛnw NOUN
 ɲɛnabɔlibɔli NOUN
 , PUNCT
+
 baara NOUN
 bolodalenw NOUN
 waleyali NOUN
@@ -2303,7 +2354,6 @@ fana ADV
 falenni NOUN
 bolodalen NOUN
 fɛsɛfɛsɛli NOUN
-
 baarabolofaraw NOUN
 sigicogow NOUN
 ka PART
@@ -2443,7 +2493,6 @@ ni CCONJ
 segin NUM
 murumuru NOUN
 bi NOUN
-
 kɔnɔntɔn NUM
 ni CCONJ
 naani NUM
@@ -2456,6 +2505,7 @@ kɛmɛsaradala NOUN
 ) PUNCT
 ma PART
 , PUNCT
+
 k' PART
 a PRON
 sanga VERB
@@ -2608,7 +2658,6 @@ dɔlakelen NOUN
 ye PART
 , PUNCT
 minnu PRON
-
 kɛli NOUN
 makɔnɔnen VERB
 don PART
@@ -2652,6 +2701,7 @@ ka PART
 daminɛ VERB
 kokura NOUN
 . PUNCT
+
 Sannataama NOUN
 ta PRON
 - PUNCT
@@ -2677,7 +2727,6 @@ ni CCONJ
 segin VERB
 murumuru NOUN
 segin VERB
-
 kɛmɛsaradala NOUN
 ( PUNCT
 28 NOUN
@@ -3712,6 +3761,7 @@ kan ADP
 IBEKA PROPN
 kɔ ADP
 . PUNCT
+
 O PRON
 siga NOUN
 - PUNCT
@@ -3740,6 +3790,7 @@ tile NOUN
 san NOUN
 2020 NUM
 . PUNCT
+
 Sɔrɔdasidonni NOUN
 politikikɛnɛ NOUN
 kan ADP
@@ -3755,7 +3806,6 @@ la PART
 ƐMISƐNKI NOUN
 - PUNCT
 ƐRƐFIPE NOUN
-
 ɲɛmɔgɔw NOUN
 fɛ PART
 , PUNCT
@@ -4170,7 +4220,6 @@ min PRON
 ka PART
 kan VERB
 """" PUNCT
-
 Fasodenya NOUN
 lakurayali NOUN
 jɛkulu NOUN
@@ -4609,6 +4658,7 @@ bɔ VERB
 sirabaw NOUN
 kan ADP
 , PUNCT
+
 minnu PRON
 minɛnen VERB
 don PART
@@ -4636,7 +4686,6 @@ kɛlɛ NOUN
 jugu NOUN
 ju ADJ
 don PART
-
 ka PART
 ɲɛsin VERB
 yuruguyurugu NOUN
@@ -5234,12 +5283,12 @@ bɛnkansɛbɛn NOUN
 waleyali NOUN
 kama ADP
 , PUNCT
+
 ka PART
 ɲɛsin VERB
 kunnafonidilaw NOUN
 ma PART
 Bɛnkansɛbɛn NOUN
-
 bɔlen VERB
 Alize PROPN
 baarataabolo NOUN
@@ -5881,7 +5930,6 @@ sen NOUN
 kan ADP
 , PUNCT
 a PRON
-
 kuma NOUN
 cayalen NOUN
 don PART
@@ -6048,8 +6096,8 @@ kunbalanw NOUN
 kunw ADV
 na PART
 , PUNCT
-u PRON
 
+u PRON
 bɛ AUX
 sɔrɔ VERB
 a PRON
@@ -6161,7 +6209,6 @@ la PART
 minnu PRON
 bɛ AUX
 ka PART
-
 ko NOUN
 juguw NOUN
 kɛ VERB
@@ -6349,11 +6396,11 @@ deli VERB
 ka PART
 kɛ VERB
 . PUNCT
+
 Bɛnkansɛbɛn NOUN
 , PUNCT
 bɛn NOUN
 ani CCONJ
-
 bɛnɲini NOUN
 kama ADV
 , PUNCT
@@ -6519,7 +6566,6 @@ Mohamɛdi PROPN
 Sɛnɛ NOUN
 , PUNCT
 Baganmara NOUN
-
 ani CCONJ
 Mɔnni NOUN
 ) PUNCT
@@ -6568,6 +6614,7 @@ tɛmɛ VERB
 bolodalen NOUN
 kan ADP
 . PUNCT
+
 B2Golodi NOUN
 Mali NOUN
 sanubɔyɔrɔ NOUN
@@ -6581,7 +6628,6 @@ ladalakunnafonidilajɛ NOUN
 sigi VERB
 , PUNCT
 a PRON
-
 kɛko NOUN
 sabanan NOUN
 , PUNCT
@@ -6866,6 +6912,7 @@ y' AUX
 o PRON
 ɲɛfɔ VERB
 , PUNCT
+
 yann' ADV
 a PRON
 k' PART
@@ -6897,7 +6944,6 @@ cɛ ADP
 ( PUNCT
 tɔni NOUN
 16 NUM
-
 hakɛ NOUN
 ɲɔgɔnna NOUN
 ) PUNCT
@@ -8046,12 +8092,12 @@ tile NOUN
 17 NUM
 tɛmɛnen NOUN
 , PUNCT
+
 Radisɔnni NOUN
 Kolɛkisiyɔn NOUN
 na PART
 , PUNCT
 bolodiɲɔgɔnma NOUN
-
 gafe NOUN
 dɔ NOUN
 la PART
@@ -8730,6 +8776,7 @@ la PART
 bɔlɔlɔkanɲɔgɔye NOUN
 fɛ PART
 . PUNCT
+
 Mahamati PROPN
 Salɛhi PROPN
 Annadifi PROPN
@@ -8737,7 +8784,6 @@ Annadifi PROPN
 Diɲɛ NOUN
 Tɔnba NOUN
 Sekeretɛri NOUN
-
 Zenerali NOUN
 tɔgɔlamɔgɔ NOUN
 , PUNCT
@@ -10927,7 +10973,6 @@ ko VERB
 a PRON
 tɛ PART
 politiki NOUN
-
 kɛ VERB
 an' CCONJ
 a PRON
@@ -11205,12 +11250,12 @@ fan NOUN
 tɔkelendɔ NOUN
 fɛ PART
 , PUNCT
+
 minnu PRON
 y' PART
 u PRON
 ŋaniya NOUN
 ɲuman NOUN
-
 jira VERB
 a PRON
 ɲɔgɔnkunbɛn NOUN
@@ -11267,6 +11312,7 @@ bɛ AUX
 Mali NOUN
 la PART
 . PUNCT
+
 Nka CCONJ
 nin PRON
 SEYƐSIA NOUN
@@ -11274,7 +11320,6 @@ SEYƐSIA NOUN
 5nan NOUN
 sankɔrɔtalen ADJ
 ko SCONJ
-
 kura ADJ
 tun PART
 ye PART
@@ -12369,7 +12414,6 @@ dugujukɔrɔmafɛnko NOUN
 yamaruyasɛbɛn NOUN
 diliko NOUN
 dɔ NOUN
-
 kan ADP
 . PUNCT
 
@@ -13189,12 +13233,12 @@ kɛ VERB
 u PRON
 kunna ADP
 , PUNCT
+
 k' PART
 a PRON
 hakɛ NOUN
 mumɛ ADJ
 kɛ VERB
-
 miliyɔn NOUN
 10 NUM
 ( PUNCT
@@ -13538,7 +13582,6 @@ ani CCONJ
 jamana NOUN
 ka PART
 sigidalabaarada NOUN
-
 fɛɛrɛtigi NOUN
 bolobɔlen NOUN
 dɔw NOUN
@@ -14036,6 +14079,7 @@ ye PART
 latigɛɲinisɛbɛnw NOUN
 fɛsɛfɛsɛ VERB
 , PUNCT
+
 minnu PRON
 bɛ AUX
 tali NOUN
@@ -14063,7 +14107,6 @@ don ADP
 bɛɛ ADV
 wari CCONJ
 sɔrɔtaw VERB
-
 sɛbɛnnigafew NOUN
 ani CCONJ
 yɔrɔw NOUN
@@ -14125,6 +14168,7 @@ luwansewariw NOUN
 siratigɛ NOUN
 la PART
 , PUNCT
+
 baarakɛkulu NOUN
 min PRON
 bilalen ADJ
@@ -14156,7 +14200,6 @@ sefawari NOUN
 dɔrɔmɛ NOUN
 1 NUM
 . PUNCT
-
 018 NUM
 . PUNCT
 000 NUM
@@ -14312,7 +14355,6 @@ sara VERB
 kofɔlenw NOUN
 doni VERB
 tali NOUN
-
 sarati NOUN
 waati NOUN
 min PRON
@@ -14435,6 +14477,7 @@ wari SCONJ
 hakɛw NOUN
 kɔrɔ ADP
 , PUNCT
+
 minnu PRON
 sɛbɛnnen VERB
 don PART
@@ -14446,7 +14489,6 @@ kan ADP
 minnu PRON
 sigilen VERB
 don PART
-
 latigɛɲiniw NOUN
 kɔnɔ ADP
 , PUNCT
@@ -14464,6 +14506,7 @@ ye PART
 wari NOUN
 minɛ VERB
 , PUNCT
+
 dugukolo NOUN
 dɔw NOUN
 yɛlɛmaniw NOUN
@@ -15423,7 +15466,6 @@ yiriwali NOUN
 kama ADP
 , PUNCT
 a PRON
-
 y' AUX
 a PRON
 kuncɛ VERB
@@ -15474,6 +15516,7 @@ tɛ PART
 kojugubakɛla NOUN
 ye PART
 . PUNCT
+
 """" PUNCT
 Perezidan NOUN
 kɔrɔ ADJ
@@ -15526,7 +15569,6 @@ taa VERB
 Lahayi NOUN
 , PUNCT
 bawo CCONJ
-
 """" PUNCT
 fo ADV
 cɛ NOUN
@@ -16494,7 +16536,6 @@ kan PART
 politiki NOUN
 la PART
 ani CCONJ
-
 diɲɛkɔnɔkow NOUN
 la PART
 . PUNCT
@@ -16938,7 +16979,6 @@ mɔgɔ NOUN
 kɔrɔ ADP
 , PUNCT
 Femafutu NOUN
-
 bonyatigi NOUN
 perezidan NOUN
 , PUNCT
@@ -17340,7 +17380,6 @@ ka PART
 baarajɛkulu NOUN
 perezidandankan NOUN
 ye PART
-
 . PUNCT
 
 San NOUN
@@ -17459,6 +17498,7 @@ farikoloɲɛnajɛ NOUN
 falenniba NOUN
 waleyali NOUN
 , PUNCT
+
 wariko NOUN
 gɛlɛyaw NOUN
 sɔrɔlen VERB
@@ -17476,7 +17516,6 @@ ta PRON
 bɛɛ ADV
 , PUNCT
 farikoloɲɛnajɛ NOUN
-
 falenni NOUN
 dalabɛnni NOUN
 waleyali NOUN
@@ -17775,7 +17814,6 @@ biro NOUN
 kuntigi NOUN
 , PUNCT
 Duwaniw NOUN
-
 ɲɛmɔgɔba NOUN
 dankan NOUN
 ani CCONJ
@@ -18185,10 +18223,10 @@ n' CCONJ
 a PRON
 ye PART
 jogoɲumanya NOUN
-
 siraw NOUN
 bila VERB
 . PUNCT
+
 Hakɛ NOUN
 tun PART
 tɛ PART
@@ -18255,7 +18293,6 @@ sɛniw NOUN
 , PUNCT
 tulolanɛgɛw NOUN
 , PUNCT
-
 ɲinterekebɔrɔsiw NOUN
 n' CCONJ
 u PRON
@@ -18871,11 +18908,11 @@ ne PRON
 ma PART
 k' PART
 i PRON
-
 ka PART
 bɛnkansɛn NOUN
 wuli VERB
 , PUNCT
+
 k' PART
 a PRON
 ta VERB
@@ -19365,7 +19402,6 @@ la PART
 walasa CCONJ
 a PRON
 ka PART
-
 kɛ VERB
 jamana NOUN
 cɛmancɛ NOUN
@@ -19537,6 +19573,7 @@ sefawari NOUN
 . PUNCT
 862 VERB
 ) PUNCT
+
 ka PART
 bɛn NOUN
 ni CCONJ
@@ -19546,7 +19583,6 @@ kɔnɔntɔn NUM
 ni CCONJ
 wɔɔrɔ NUM
 murumuru NOUN
-
 fu NUM
 ni CCONJ
 kɔnɔntɔn NUM
@@ -19934,7 +19970,6 @@ hadamadenya NOUN
 tariku NOUN
 waati NOUN
 jan ADJ
-
 belebele ADJ
 filanan NUM
 tɛmɛnen VERB
@@ -20284,6 +20319,7 @@ dogolen NOUN
 bisigilen NOUN
 kan ADP
 . PUNCT
+
 ( PUNCT
 Habibu NOUN
 tɛ PART
@@ -20303,7 +20339,6 @@ ni CCONJ
 mɔgɔw NOUN
 ye PART
 nin PRON
-
 bakuruba NOUN
 kofɔ VERB
 , PUNCT
@@ -20946,6 +20981,7 @@ an PRON
 fasodenɲɔgɔnw NOUN
 na PART
 , PUNCT
+
 minnu PRON
 ye PART
 kɛlɛ NOUN
@@ -20973,7 +21009,6 @@ n' CCONJ
 u PRON
 danbe VERB
 ka PART
-
 buruja NOUN
 ni CCONJ
 Maliden NOUN
@@ -21025,6 +21060,7 @@ yɛlɛko NOUN
 dan NOUN
 ye PART
 , PUNCT
+
 k' PART
 a PRON
 da VERB
@@ -21046,7 +21082,6 @@ k' VERB
 a PRON
 fɔlɔ VERB
 zido NOUN
-
 la PART
 ani CCONJ
 kɔfɛ ADP

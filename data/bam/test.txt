@@ -257,7 +257,6 @@ lamɛnnifɛnw NOUN
 ni CCONJ
 filɛlifɛnw NOUN
 cakɛda NOUN
-
 dɔw NOUN
 fɛ PART
 ani CCONJ
@@ -1238,7 +1237,6 @@ Tawudeni NOUN
 marabolo NOUN
 marakɛyɔrɔw NOUN
 dansigisigiliw NOUN
-
 gɛlɛyako NOUN
 ɲɛnabɔli VERB
 ye PART
@@ -1470,7 +1468,6 @@ tɛ PART
 mɔgɔ NOUN
 si ADJ
 to VERB
-
 kɔfɛ PART
 " PUNCT
 a PRON
@@ -1959,7 +1956,6 @@ u PRON
 sariyakisɛ NOUN
 199 NUM
 sɛbɛnnisira NOUN
-
 1 NUM
 ani CCONJ
 201 NUM
@@ -4611,7 +4607,6 @@ sannada NOUN
 , PUNCT
 FIBA NOUN
 Mɔni NOUN
-
 , PUNCT
 na PART
 . PUNCT
@@ -6634,6 +6629,7 @@ bɛ AUX
 min PRON
 bolo NOUN
 , PUNCT
+
 Mosa PROPN
 Agi PROPN
 Atahɛri PROPN
@@ -6653,7 +6649,6 @@ kɛra VERB
 k' PART
 a PRON
 ta VERB
-
 zuwɛnkalo NOUN
 tile NOUN
 24 NUM
@@ -6748,11 +6743,11 @@ su PART
 bɛn AUX
 kalamɔɲɔ NOUN
 tali VERB
-
 Kulukɔrɔ NOUN
 marabolo NOUN
 kɔnɔ ADP
 , PUNCT
+
 ɲɔgɔnbɛn NOUN
 ni CCONJ
 Ɲamana NOUN
@@ -6810,7 +6805,6 @@ ani CCONJ
 jamanaw NOUN
 cɛ ADP
 ɲɔgɔnyeba NOUN
-
 farikoloɲɛnajɛ NOUN
 kan PART
 ( PUNCT
@@ -6819,6 +6813,7 @@ FISI NOUN
 , PUNCT
 kolatilennamuso NOUN
 , PUNCT
+
 Mmu NOUN
 Si PROPN
 Aminata PROPN
@@ -6955,7 +6950,6 @@ ka PART
 Yiriwali NOUN
 Kuntaala NOUN
 Jan ADJ
-
 Laɲiniw NOUN
 ( PUNCT
 ODEDE NOUN
@@ -7069,6 +7063,7 @@ ma PART
 farikoloɲɛnajɛ NOUN
 fɛ PART
 , PUNCT
+
 a PRON
 kɛtɔla VERB
 ka PART
@@ -7088,7 +7083,6 @@ la PART
 , PUNCT
 yaasa SCONJ
 ka PART
-
 farikoloɲɛnajɛ NOUN
 kɛ VERB
 bɛn NOUN
@@ -8405,6 +8399,7 @@ tile NOUN
 Tile NOUN
 filanan NOUN
 : PUNCT
+
 Ɔnzi NOUN
 Kereyatɛri NOUN
 - PUNCT
@@ -8421,7 +8416,6 @@ AYƐSI PROPN
 Ereyali PROPN
 - PUNCT
 Ɛsitadi NOUN
-
 maliyɛn NOUN
 , PUNCT
 n NOUN
@@ -8464,6 +8458,7 @@ tm X
 30 NUM
 ye PART
 . PUNCT
+
 Tile NOUN
 naaninan NOUN
 : PUNCT
@@ -8500,13 +8495,13 @@ ye PART
 Sibiri NOUN
 , PUNCT
 zuluye NOUN
-
 tile NOUN
 10 NUM
 : PUNCT
 Tile NOUN
 duurunan NOUN
 : PUNCT
+
 Ɛsitadi NOUN
 maliyɛ NOUN
 - PUNCT
@@ -8532,6 +8527,7 @@ tm X
 30 NUM
 ye PART
 . PUNCT
+
 Tarata NOUN
 zuluye NOUN
 tile NOUN
@@ -9305,7 +9301,6 @@ k' PART
 a PRON
 kɔdon VERB
 a PRON
-
 delinakow NOUN
 la PART
 . PUNCT
@@ -10602,7 +10597,6 @@ la PART
 ka PART
 tɛmɛ VERB
 pankurunjiginyɔrɔ NOUN
-
 Dagidagi NOUN
 fɛ PART
 . PUNCT
@@ -12073,7 +12067,6 @@ so NOUN
 kasɔrɔ ADV
 sirabakanboli NOUN
 ma PART
-
 lajɔ VERB
 . PUNCT
 
@@ -12788,7 +12781,6 @@ i PRON
 ko SCONJ
 perezidanyaɲini NOUN
 dusu NOUN
-
 daminɛyɔrɔ NOUN
 , PUNCT
 min PRON
@@ -13158,9 +13150,9 @@ u PRON
 ta PRON
 bɛɛ ADV
 , PUNCT
+
 minisiriɲɛmɔgɔ NOUN
 kɔrɔ ADJ
-
 kɔkɔrɔdonbagaw NOUN
 bɛ AUX
 bɔ VERB
@@ -13288,7 +13280,6 @@ kuma NOUN
 jɛlen ADJ
 na PART
 , PUNCT
-
 sɔsɔli NOUN
 tɛ PART
 tɔndenya NOUN
@@ -13515,7 +13506,6 @@ la PART
 , PUNCT
 ciyɛntabaga NOUN
 bisigilen NOUN
-
 . PUNCT
 
 Tiɲɛna NOUN
@@ -13719,7 +13709,6 @@ nɛgɛkanɲɛ NOUN
 21 NUM
 na PART
 ka PART
-
 taa VERB
 sɔgɔma NOUN
 nɛgɛkanɲɛ NOUN
@@ -14167,7 +14156,6 @@ jigin NOUN
 ɲuguji NOUN
 ni CCONJ
 jɛman NOUN
-
 pariti NOUN
 la PART
 . PUNCT
@@ -15265,8 +15253,8 @@ tile NOUN
 laban NOUN
 na PART
 , PUNCT
-sɔgɔma NOUN
 
+sɔgɔma NOUN
 nɛgɛkanɲɛ NOUN
 3 NUM
 fanfɛlaw NOUN
@@ -15295,6 +15283,7 @@ kumafɔcogo NOUN
 falenbaliw NOUN
 kan ADP
 , PUNCT
+
 juguman NOUN
 na PART
 su NOUN
@@ -15726,99 +15715,11 @@ ye PART
 , PUNCT
 minnu PRON
 tun PART
-
 m' PART
 u PRON
 hakili NOUN
 jɔ VERB
 a PRON
 fɛ PART
-. PUNCT
-
-Gɔfɛrɛnɛri NOUN
-y' AUX
-a PRON
-ɲini VERB
-kana PART
-ani CCONJ
-lakana NOUN
-kɛbagaw NOUN
-fɛ PART
-u PRON
-kɔnkɔnmanenba NOUN
-ka PART
-to VERB
-. PUNCT
-
-O PRON
-kɔfɛ ADP
-, PUNCT
-a PRON
-taara VERB
-Buguni NOUN
-Sesesɛrɛfu NOUN
-la PART
-ka PART
-nɔgɔya NOUN
-da NOUN
-mɔgɔ NOUN
-joginnen NOUN
-wolonwula NOUN
-ye PART
-, PUNCT
-minnu PRON
-cɛla NOUN
-saba NUM
-ta PRON
-ka PART
-jugu ADJ
-. PUNCT
-
-Bubakari PROPN
-PAYITAWO NOUN
-- PUNCT
-Walasa SCONJ
-k' PART
-a PRON
-ka PART
-cɛdenw NOUN
-bila VERB
-wulikajɔ NOUN
-la PART
-kalata NOUN
-nataw NOUN
-kɛlɛw NOUN
-kama ADP
-, PUNCT
-Perezidanfanga NOUN
-waleya NOUN
-ɲɛtaa NOUN
-kama ADP
-( PUNCT
-AYƐRIPE NOUN
-) PUNCT
-politiki NOUN
-faraɲɔgɔnkankulu NOUN
-, PUNCT
-min PRON
-ɲɛmɔgɔya NOUN
-bɛ AUX
-Ceman PROPN
-Hibɛri PROPN
-Kulibali PROPN
-bolo NOUN
-, PUNCT
-ye PART
-nin PRON
-kalafili NOUN
-bolodiɲɔgɔnma NOUN
-in PRON
-musow NOUN
-ani CCONJ
-denmisɛnw NOUN
-ka PART
-kolatilennaw NOUN
-ɲɛmɔgɔyakuluw NOUN
-kunbɛn VERB
 . PUNCT
 

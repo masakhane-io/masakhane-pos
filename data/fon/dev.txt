@@ -1,3 +1,46 @@
+Nǔ NOUN
+voɖemɛ ADJ
+wɛ̀ SCONJ
+bɔ̀ CCONJ
+sɛ́n VERB
+dódó ADP
+abɔxwísùn PROPN
+xwè NOUN
+2019ɔ́ NUM
+tɔn ADJ
+è PRON
+è PRON
+huzu VERB
+adà NOUN
+ná VERB
+é PRON
+sɔ́ VERB
+nyìtè VERB
+nú ADP
+gǎn NOUN
+ɖùɖù ADJ
+xwè NOUN
+lɛ́ɛ DET
+bǐ ADJ
+ná VERB
+tò NOUN
+cɛɖɛɖɛ ADV
+lóbónú CCONJ
+è PRON
+ná VERB
+bló VERB
+sɔ́mì NOUN
+sɔ́mì NOUN
+lɛ́ɛ DET
+bǐ ADJ
+dó VERB
+kpɔ́ VERB
+bɛsín VERB
+xwè NOUN
+2026ɔ́ NUM
+mɛ̀ ADP
+. PUNCT
+
 Sɔ́mì NOUN
 sɔ́mì NOUN
 ɖɛmɛnu NOUN
@@ -46,6 +89,7 @@ wɛ̀ ADP
 lɛ́ɛ DET
 é PART
 ; PUNCT
+
 yeɖɛlɛ́ɛ PRON
 kpéwú VERB
 bó ADP
@@ -55,7 +99,6 @@ nú ADP
 tutomɛ NOUN
 axɔ́sú NOUN
 tɔn ADJ
-
 lɛ́ɛ DET
 ǎ PART
 . PUNCT
@@ -143,6 +186,7 @@ mɛ NOUN
 lɛ́ɛ DET
 " PUNCT
 " PUNCT
+
 ɖɔ̀ NOUN
 nú ADP
 è PRON
@@ -152,7 +196,6 @@ tɔ́n ADJ
 sín ADP
 kplé VERB
 è PRON
-
 gǎn NOUN
 - PUNCT
 hɔn NOUN
@@ -1276,6 +1319,7 @@ Achille PROPN
 Soɖegla PROPN
 kpán CCONJ
 " PUNCT
+
 mɛ PRON
 ée PRON
 nɔ́ VERB
@@ -1287,7 +1331,6 @@ lɛ́ɛ DET
 tɔn ADJ
 wú ADP
 é PART
-
 ɔ́ DET
 " PUNCT
 ye PRON
@@ -1295,6 +1338,7 @@ ye PRON
 dó ADP
 kpɔ́ VERB
 . PUNCT
+
 Adonis PROPN
 Bohoun PROPN
 " PUNCT
@@ -2833,6 +2877,7 @@ wú ADP
 é PART
 kpán CCONJ
 " PUNCT
+
 ɖɔ̀ NOUN
 - PUNCT
 nú ADP
@@ -2864,7 +2909,6 @@ fɔn ADV
 kàn NOUN
 zɔ́ NOUN
 wá VERB
-
 tɔ́ ADJ
 xóxó NOUN
 lɛ́ɛ DET
@@ -3867,6 +3911,7 @@ fúfónu NOUN
 2019ɔ́ NUM
 tɔn ADJ
 . PUNCT
+
 Mɔ̌ NOUN
 ɖokpó NOUN
 ɔ́ DET
@@ -3893,6 +3938,7 @@ nɛ́ ADJ
 ɔ́ DET
 wú ADP
 ; PUNCT
+
 é PRON
 jlá VERB
 nǔ NOUN
@@ -3902,7 +3948,6 @@ akwɛ́ NOUN
 zínkán NOUN
 tò NOUN
 ɔ́ DET
-
 tɔn ADJ
 é PART
 dó ADP
@@ -4176,6 +4221,7 @@ xwédó NOUN
 sɛ́n NOUN
 we NUM
 : PUNCT
+
 sɛ́n NOUN
 ée PRON
 ɖɔ VERB
@@ -4211,6 +4257,7 @@ gbɔn ADP
 kpán CCONJ
 wú ADP
 ; PUNCT
+
 bɔ CCONJ
 sɛ́n NOUN
 wegɔ́ ADJ
@@ -4218,7 +4265,6 @@ wegɔ́ ADJ
 kunkpla NOUN
 nunɔmɛ NOUN
 è PRON
-
 wěmá NOUN
 kpéwún ADJ
 kpéwún ADV
@@ -4437,6 +4483,7 @@ xó NOUN
 wú ADP
 é PART
 " PUNCT
+
 ée PRON
 nɔ́ AUX
 kpénúkún VERB
@@ -4452,7 +4499,6 @@ wú ADP
 lɛ́ɛ DET
 kpódó CCONJ
 alɔgɔ́númɛtɔ́ NOUN
-
 ée PRON
 ɖò VERB
 tò NOUN
@@ -4963,75 +5009,5 @@ kpán CCONJ
 ( PUNCT
 Sings PROPN
 ) PUNCT
-. PUNCT
-
-Ényí SCONJ
-Angélique PROPN
-Kijo PROPN
-lɛ́ DET
-yí VERB
-ajɔ NOUN
-ɔ́ DET
-ɖò ADP
-azǎn NOUN
-26ɔ́ NUM
-aluunsùn PROPN
-ɔ́ DET
-tɔn ADJ
-gbadanu NOUN
-ɔ́ DET
-" PUNCT
-hǔn NOUN
-è PRON
-ná VERB
-bló VERB
-atinkpavi NOUN
-ɛnɛgɔ́ ADV
-ɔ́ DET
-níí ADP
-. PUNCT
-
-Amɔ̌ CCONJ
-có ADP
-nǔ NOUN
-ná VERB
-nyí AUX
-mɔ̌ ADV
-ɔ́ DET
-" PUNCT
-é PRON
-ná VERB
-tó ADV
-xò VERB
-nyà AUX
-nǔbaɖabaɖa NOUN
-Awɔnlin NOUN
-nù ADP
-ɔ́ DET
-hwɛ̌ ADV
-" PUNCT
-é PRON
-wɛ́ VERB
-ɖù VERB
-baba PROPN
-nú ADP
-" PUNCT
-Afrofusion PROPN
-Burna PROPN
-Boy PROPN
-" PUNCT
-" PUNCT
-ɖò VERB
-akpáxwé NOUN
-han ADV
-è PRON
-gbɛ NOUN
-ɔ́ DET
-bǐ ADJ
-tuun ADV
-ɔ́ DET
-tɔn ADJ
-xwè NOUN
-élɔ́ ADJ
 . PUNCT
 

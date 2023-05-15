@@ -8550,6 +8550,7 @@ soama NOUN
 ne CCONJ
 Burkina PROPN
 leebga NOUN
+. PUNCT
 Balla VERB
 tõnd DET
 tẽnga NOUN
@@ -9587,6 +9588,7 @@ sõngr NOUN
 Burkĩna PROPN
 Faso PROPN
 . PUNCT
+
 Minisr NOUN
 ning DET
 sẽn SCONJ
@@ -9642,7 +9644,6 @@ le DET
 renforcement NOUN
 de ADP
 la DET
-
 résilience NOUN
 au ADP
 Sahel PROPN
@@ -15804,6 +15805,7 @@ bi NOUN
 - PUNCT
 bãamba DET
 , PUNCT
+
 sull NOUN
 ninng DET
 sẽn SCONJ
@@ -15844,7 +15846,6 @@ naas NUM
 daare NOUN
 ki NOUN
 - PUNCT
-
 bay SCONJ
 kɩb PRON
 la CCONJ
