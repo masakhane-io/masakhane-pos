@@ -22,50 +22,7 @@ If you make use of this dataset, please cite us:
 ```
 @inproceedings{dione-etal-2023-masakhapos,
     title = "{M}asakha{POS}: Part-of-Speech Tagging for Typologically Diverse {A}frican languages",
-    author = "Dione, Cheikh M. Bamba  and
-      Adelani, David Ifeoluwa  and
-      Nabende, Peter  and
-      Alabi, Jesujoba  and
-      Sindane, Thapelo  and
-      Buzaaba, Happy  and
-      Muhammad, Shamsuddeen Hassan  and
-      Emezue, Chris Chinenye  and
-      Ogayo, Perez  and
-      Aremu, Anuoluwapo  and
-      Gitau, Catherine  and
-      Mbaye, Derguene  and
-      Mukiibi, Jonathan  and
-      Sibanda, Blessing  and
-      Dossou, Bonaventure F. P.  and
-      Bukula, Andiswa  and
-      Mabuya, Rooweither  and
-      Tapo, Allahsera Auguste  and
-      Munkoh-Buabeng, Edwin  and
-      Memdjokam Koagne, Victoire  and
-      Ouoba Kabore, Fatoumata  and
-      Taylor, Amelia  and
-      Kalipe, Godson  and
-      Macucwa, Tebogo  and
-      Marivate, Vukosi  and
-      Gwadabe, Tajuddeen  and
-      Elvis, Mboning Tchiaze  and
-      Onyenwe, Ikechukwu  and
-      Atindogbe, Gratien  and
-      Adelani, Tolulope  and
-      Akinade, Idris  and
-      Samuel, Olanrewaju  and
-      Nahimana, Marien  and
-      Musabeyezu, Th{\'e}og{\`e}ne  and
-      Niyomutabazi, Emile  and
-      Chimhenga, Ester  and
-      Gotosa, Kudzai  and
-      Mizha, Patrick  and
-      Agbolo, Apelete  and
-      Traore, Seydou  and
-      Uchechukwu, Chinedu  and
-      Yusuf, Aliyu  and
-      Abdullahi, Muhammad  and
-      Klakow, Dietrich",
+    author = "Dione, Cheikh M. Bamba  and Adelani, David Ifeoluwa  and Nabende, Peter  and Alabi, Jesujoba  and Sindane, Thapelo  and Buzaaba, Happy  and Muhammad, Shamsuddeen Hassan  and Emezue, Chris Chinenye  and Ogayo, Perez  and Aremu, Anuoluwapo  and Gitau, Catherine  and Mbaye, Derguene  and Mukiibi, Jonathan  and Sibanda, Blessing  and Dossou, Bonaventure F. P.  and Bukula, Andiswa  and Mabuya, Rooweither  and Tapo, Allahsera Auguste  and Munkoh-Buabeng, Edwin  and Memdjokam Koagne, Victoire  and Ouoba Kabore, Fatoumata  and Taylor, Amelia  and Kalipe, Godson  and Macucwa, Tebogo  and Marivate, Vukosi  and Gwadabe, Tajuddeen  and Elvis, Mboning Tchiaze  and Onyenwe, Ikechukwu  and Atindogbe, Gratien  and Adelani, Tolulope  and Akinade, Idris  and Samuel, Olanrewaju  and Nahimana, Marien  and Musabeyezu, Th{\'e}og{\`e}ne  and Niyomutabazi, Emile  and Chimhenga, Ester  and Gotosa, Kudzai  and Mizha, Patrick  and Agbolo, Apelete  and Traore, Seydou  and Uchechukwu, Chinedu  and Yusuf, Aliyu  and Abdullahi, Muhammad  and Klakow, Dietrich",
     editor = "Rogers, Anna  and
       Boyd-Graber, Jordan  and
       Okazaki, Naoaki",
