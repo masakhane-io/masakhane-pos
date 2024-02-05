@@ -1,4 +1,4 @@
-[MasakhaPOS: Part-of-Speech Tagging for 20 African Languages](https://arxiv.org/abs/2305.13989)
+[MasakhaPOS: Part-of-Speech Tagging for Typologically Diverse African Languages](https://arxiv.org/abs/2305.13989)
 
 
 The code is based on HuggingFace implementation (License: Apache 2.0).
