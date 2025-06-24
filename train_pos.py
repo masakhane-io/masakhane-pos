@@ -36,7 +36,8 @@ from torch.utils.data import Dataset, DataLoader
 from transformers import AutoModelForSequenceClassification, AutoModelForTokenClassification, \
     AutoConfig, AutoTokenizer, AutoModel
 from transformers import XLMRobertaConfig, XLMRobertaModel, XLMRobertaForTokenClassification, XLMRobertaTokenizer
-from transformers import AdamW, get_constant_schedule_with_warmup
+from transformers import get_constant_schedule_with_warmup
+from torch.optim import AdamW
 from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
 from torch import LongTensor
 import torch
@@ -48,7 +49,6 @@ import random
 
 from transformers import (
     WEIGHTS_NAME,
-    AdamW,
     BertConfig,
     BertForTokenClassification,
     BertTokenizer,
@@ -362,7 +362,8 @@ def load_and_cache_examples(args, tokenizer, labels, pad_token_label_id, mode):
     )
     if os.path.exists(cached_features_file) and not args.overwrite_cache:
         logger.info("Loading features from cached file %s", cached_features_file)
-        features = torch.load(cached_features_file)
+        features = torch.load(cached_features_file, weights_only=False)
+
     else:
         logger.info("Creating features from dataset file at %s", args.data_dir)
         examples = read_examples_from_file(args.data_dir, mode)
