@@ -505,7 +505,6 @@ def main():
     data_collator = DataCollatorForTokenClassification(tokenizer, pad_to_multiple_of=8 if training_args.fp16 else None)
 
     # Metrics
-    metric = evaluate.load("seqeval")
 
     def compute_metrics(p):
         predictions, labels = p
@@ -521,24 +520,10 @@ def main():
             for prediction, label in zip(predictions, labels)
         ]
 
-        results = metric.compute(predictions=true_predictions, references=true_labels)
-        if data_args.return_entity_level_metrics:
-            # Unpack nested dictionaries
-            final_results = {}
-            for key, value in results.items():
-                if isinstance(value, dict):
-                    for n, v in value.items():
-                        final_results[f"{key}_{n}"] = v
-                else:
-                    final_results[key] = value
-            return final_results
-        else:
-            return {
-                "precision": results["overall_precision"],
-                "recall": results["overall_recall"],
-                "f1": results["overall_f1"],
-                "accuracy": results["overall_accuracy"],
-            }
+        return compute_pos_metrics(
+            true_labels, true_predictions,
+            include_per_tag=data_args.return_entity_level_metrics,
+        )
 
     # Initialize our Trainer
     trainer = Trainer(

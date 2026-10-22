@@ -23,13 +23,12 @@ import random
 
 import numpy as np
 import torch
-from seqeval.metrics import f1_score, precision_score, recall_score, classification_report, accuracy_score
+from pos_metrics import compute_pos_metrics
 from torch.nn import CrossEntropyLoss
 from torch.utils.data import DataLoader, RandomSampler, SequentialSampler, TensorDataset
 from torch.utils.data.distributed import DistributedSampler
 from tqdm import tqdm, trange
 from scipy.sparse import save_npz, load_npz
-import seqeval.metrics
 from collections import defaultdict, Counter
 from torch.utils.data import TensorDataset
 from torch.utils.data import Dataset, DataLoader
@@ -334,13 +333,7 @@ def evaluate(args, model, tokenizer, labels, pad_token_label_id, mode, prefix=""
                 out_label_list[i].append(label_map[out_label_ids[i][j]])
                 preds_list[i].append(label_map[preds[i][j]])
 
-    results = {
-        "loss": eval_loss,
-        "precision": precision_score(out_label_list, preds_list),
-        "recall": recall_score(out_label_list, preds_list),
-        "f1": f1_score(out_label_list, preds_list),
-        "accuracy": accuracy_score(out_label_list, preds_list),
-    }
+    results = {"loss": eval_loss, **compute_pos_metrics(out_label_list, preds_list)}
 
     logger.info("***** Eval results %s *****", prefix)
     for key in sorted(results.keys()):
