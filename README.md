@@ -37,3 +37,13 @@ If you make use of this dataset, please cite us:
     abstract = "In this paper, we present AfricaPOS, the largest part-of-speech (POS) dataset for 20 typologically diverse African languages. We discuss the challenges in annotating POS for these languages using the universal dependencies (UD) guidelines. We conducted extensive POS baseline experiments using both conditional random field and several multilingual pre-trained language models. We applied various cross-lingual transfer models trained with data available in the UD. Evaluating on the AfricaPOS dataset, we show that choosing the best transfer language(s) in both single-source and multi-source setups greatly improves the POS tagging performance of the target languages, in particular when combined with parameter-fine-tuning methods. Crucially, transferring knowledge from a language that matches the language family and morphosyntactic properties seems to be more effective for POS tagging in unseen languages.",
 }
 ```
+
+### POS evaluation
+
+Both training scripts report token accuracy and micro precision/recall/F1 for
+plain POS tags, plus macro and support-weighted F1. Micro F1 equals accuracy
+for this single-label task. These scores do not interpret POS tags as BIO
+entity chunks. `run_ner.py --return_entity_level_metrics` retains its legacy
+flag name but now includes per-POS-tag precision/recall/F1/support. Special
+and ignored subword labels (`-100`) are excluded before metrics are called.
+Run the dependency-light regression suite with `python -m pytest -q tests`.
